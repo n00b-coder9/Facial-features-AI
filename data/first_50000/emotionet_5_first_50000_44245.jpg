@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en-US" class="" data-skin="light">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<meta http-equiv='x-dns-prefetch-control' content='on'>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel='preload' as='image' href='https://cdn1.oceanup.com/uploads/Ocean-Up-Line.png'>
+<link rel='preload' as='font' href='https://oceanup.com/wp-content/themes/jannah/assets/fonts/tielabs-fonticon/tielabs-fonticon.woff' type='font/woff' crossorigin='anonymous' />
+<link rel='preload' as='font' href='https://oceanup.com/wp-content/themes/jannah/assets/fonts/fontawesome/fa-solid-900.woff2' type='font/woff2' crossorigin='anonymous' />
+<link rel='preload' as='font' href='https://oceanup.com/wp-content/themes/jannah/assets/fonts/fontawesome/fa-brands-400.woff2' type='font/woff2' crossorigin='anonymous' />
+<link rel='preload' as='font' href='https://oceanup.com/wp-content/themes/jannah/assets/fonts/fontawesome/fa-regular-400.woff2' type='font/woff2' crossorigin='anonymous' />
+<!-- This site is optimized with the Yoast SEO plugin v15.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>OceanUp Tech Magazine 2020</title>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://oceanup.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="OceanUp Tech Magazine 2020" />
+<meta property="og:url" content="https://oceanup.com/" />
+<meta property="og:site_name" content="oceanup.com" />
+<meta property="article:modified_time" content="2020-09-09T11:14:19+00:00" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://oceanup.com/#website","url":"https://oceanup.com/","name":"oceanup.com","description":"Latest Tech News, How-To Guides, Save Games, App Downloads and More","potentialAction":[{"@type":"SearchAction","target":"https://oceanup.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://oceanup.com/#webpage","url":"https://oceanup.com/","name":"OceanUp Tech Magazine 2020","isPartOf":{"@id":"https://oceanup.com/#website"},"datePublished":"2018-01-21T10:55:47+00:00","dateModified":"2020-09-09T11:14:19+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://oceanup.com/"]}]}]}</script>
+<meta name="google-site-verification" content="77X5vbMa-OKw46IJDjFU1lg9018Qnz1WgxGGmCblggM" />
+<!-- / Yoast SEO plugin. -->
+<link rel="alternate" type="application/rss+xml" title="oceanup.com &raquo; Feed" href="https://oceanup.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="oceanup.com &raquo; Comments Feed" href="https://oceanup.com/comments/feed/" />
+<style type="text/css" media="all">
+.wpautoterms-footer{background-color:#ffffff;text-align:center;}
+.wpautoterms-footer a{color:#000000;font-family:Arial, sans-serif;font-size:14px;}
+.wpautoterms-footer .separator{color:#cccccc;font-family:Arial, sans-serif;font-size:14px;}</style>
+<!-- <link rel='stylesheet' id='wpautoterms_css-css'  href='https://oceanup.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css?ver=5.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='cookie-notice-front-css'  href='https://oceanup.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-base-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/css/base.min.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-styles-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/css/style.min.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-widgets-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/css/widgets.min.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-helpers-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/css/helpers.min.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-fontawesome5-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/css/fontawesome.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-ilightbox-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-shortcodes-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/css/plugins/shortcodes.min.css?ver=5.3.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='tie-css-style-custom-css'  href='https://oceanup.com/wp-content/themes/jannah/assets/custom-css/style-custom.css?ver=69366' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//oceanup.com/wp-content/cache/wpfc-minified/lw5460yx/a10qx.css" media="all"/>
+<script type='text/javascript' src='https://oceanup.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/jquery-1.12.4-wp.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://oceanup.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://oceanup.com/wp-includes/js/dist/dom-ready.min.js?ver=5316a69cb8a665ca6252926589751f9a' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=2.4.4' id='wpautoterms_base-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/oceanup.com\/wp-admin\/admin-ajax.php","nonce":"32f585bc30","hideEffect":"fade","position":"bottom","onScroll":"1","onScrollOffset":"100","onClick":"1","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="https://oceanup.com/wp-json/" /><link rel="alternate" type="application/json" href="https://oceanup.com/wp-json/wp/v2/pages/10827" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://oceanup.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://oceanup.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<link rel='shortlink' href='https://oceanup.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://oceanup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foceanup.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://oceanup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foceanup.com%2F&#038;format=xml" />
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+if (!document.getElementById(i)){
+e.async = 1;
+e.src = u;
+e.id = i;
+f.parentNode.insertBefore(e, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/shantel-network/loader.js',
+'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+</script>
+<script type="text/javascript">
+var jQueryMigrateHelperHasSentDowngrade = false;
+window.onerror = function( msg, url, line, col, error ) {
+// Break out early, do not processing if a downgrade reqeust was already sent.
+if ( jQueryMigrateHelperHasSentDowngrade ) {
+return true;
+}
+var xhr = new XMLHttpRequest();
+var nonce = '525fba17fc';
+var jQueryFunctions = [
+'andSelf',
+'browser',
+'live',
+'boxModel',
+'support.boxModel',
+'size',
+'swap',
+'clean',
+'sub',
+];
+var match_pattern = /\)\.(.+?) is not a function/;
+var erroredFunction = msg.match( match_pattern );
+// If there was no matching functions, do not try to downgrade.
+if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+return true;
+}
+// Set that we've now attempted a downgrade request.
+jQueryMigrateHelperHasSentDowngrade = true;
+xhr.open( 'POST', 'https://oceanup.com/wp-admin/admin-ajax.php' );
+xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+xhr.onload = function () {
+var response,
+reload = false;
+if ( 200 === xhr.status ) {
+try {
+response = JSON.parse( xhr.response );
+reload = response.data.reload;
+} catch ( e ) {
+reload = false;
+}
+}
+// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+if ( reload ) {
+location.reload();
+}
+};
+xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+// Suppress error alerts in older browsers
+return true;
+}
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="theme-color" content="#0088ff" /><meta name="viewport" content="width=1200" /><link rel="icon" href="https://cdn1.oceanup.com/uploads/Favicon-4-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://cdn1.oceanup.com/uploads/Favicon-4-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cdn1.oceanup.com/uploads/Favicon-4-300x300.png" />
+<meta name="msapplication-TileImage" content="https://cdn1.oceanup.com/uploads/Favicon-4-300x300.png" />
+<style type="text/css" id="wp-custom-css">
+/* unvisited link */
+a:link {
+color: #0000CD;
+}
+/* visited link */
+a:visited {
+color: purple;
+}
+/* mouse over link */
+a:hover {
+color: hotpink;
+}
+/* selected link */
+a:active {
+color: red;
+} 		</style>
+</head>
+<body id="tie-body" class="home page-template-default page page-id-10827 tie-no-js cookies-not-set wrapper-has-shadow block-head-4 magazine1 is-thumb-overlay-disabled is-desktop is-header-layout-3 has-builder">
+<div class="background-overlay">
+<div id="tie-container" class="site tie-container">
+<div id="tie-wrapper">
+<header id="theme-header" class="theme-header header-layout-3 main-nav-light main-nav-default-light main-nav-below no-stream-item has-shadow has-normal-width-logo mobile-header-centered mobile-components-row">
+<div class="container header-container">
+<div class="tie-row logo-row">
+<div class="logo-wrapper">
+<div class="tie-col-md-4 logo-container clearfix">
+<div id="mobile-header-components-area_1" class="mobile-header-components"></div>
+<div id="logo" class="image-logo" >
+<a title="oceanup.com" href="https://oceanup.com/">
+<picture class="tie-logo-default tie-logo-picture">
+<source class="tie-logo-source-default tie-logo-source" srcset="https://cdn1.oceanup.com/uploads/Ocean-Up-Line.png">
+<img class="tie-logo-img-default tie-logo-img" src="https://cdn1.oceanup.com/uploads/Ocean-Up-Line.png" alt="oceanup.com" width="400" height="80" style="max-height:80px; width: auto;" />
+</picture>
+<h1 class="h1-off">oceanup.com</h1>			</a>
+</div><!-- #logo /-->
+<div id="mobile-header-components-area_2" class="mobile-header-components"></div>			</div><!-- .tie-col /-->
+</div><!-- .logo-wrapper /-->
+</div><!-- .tie-row /-->
+</div><!-- .container /-->
+<div class="main-nav-wrapper">
+<nav id="main-nav"  class="main-nav header-nav"  aria-label="Primary Navigation">
+<div class="container">
+<div class="main-menu-wrapper">
+<div id="menu-components-wrap">
+<div class="main-menu main-menu-wrap tie-alignleft">
+<div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-menu1" class="menu" role="menubar"><li id="menu-item-9804" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-9804 tie-current-menu"><a href="https://oceanup.com/">Home</a></li>
+<li id="menu-item-33219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33219"><a href="https://oceanup.com/category/business/">Business</a></li>
+<li id="menu-item-33220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33220"><a href="https://oceanup.com/category/cars/">Cars</a></li>
+<li id="menu-item-33221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33221"><a href="https://oceanup.com/category/celebs/">Celebs</a></li>
+<li id="menu-item-33222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33222"><a href="https://oceanup.com/category/health/">Health</a></li>
+<li id="menu-item-33223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33223"><a href="https://oceanup.com/category/net-worth/">Net Worth</a></li>
+<li id="menu-item-33228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33228"><a href="https://oceanup.com/category/news/">News</a></li>
+<li id="menu-item-33229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33229"><a href="https://oceanup.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-33224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33224"><a href="https://oceanup.com/category/sport/">Sport</a></li>
+<li id="menu-item-33225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33225"><a href="https://oceanup.com/category/style/">Style</a></li>
+<li id="menu-item-33226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33226"><a href="https://oceanup.com/category/tech/">Tech</a></li>
+<li id="menu-item-2665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2665"><a title="Top 10 Products" href="https://oceanup.com/category/top10/">Top 10</a></li>
+<li id="menu-item-33227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33227"><a href="https://oceanup.com/category/how-to/">How to</a></li>
+<li id="menu-item-32050" class="menu-item menu-item-type-post_type menu-item-object-wpautoterms_page menu-item-32050"><a href="https://oceanup.com/wpautoterms/contact-us/">Contact Us</a></li>
+</ul></div>					</div><!-- .main-menu.tie-alignleft /-->
+<ul class="components">		<li class="search-bar menu-item custom-menu-link" aria-label="Search">
+<form method="get" id="search" action="https://oceanup.com/">
+<input id="search-input"  inputmode="search" type="text" name="s" title="Search for" placeholder="Search for" />
+<button id="search-submit" type="submit">
+<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+<span class="screen-reader-text">Search for</span>
+</button>
+</form>
+</li>
+</ul><!-- Components -->
+</div><!-- #menu-components-wrap /-->
+</div><!-- .main-menu-wrapper /-->
+</div><!-- .container /-->
+</nav><!-- #main-nav /-->
+</div><!-- .main-nav-wrapper /-->
+</header>
+<div id="tiepost-10827-section-2014" class="section-wrapper container-full has-background">
+<div class="section-item is-first-section full-width" style="background-color: #efefef; background-size: cover;" >
+<div class="container">
+<div class="tie-row main-content-row">
+<div class="main-content tie-col-md-12">
+<section id="tie-block_252" class="slider-area mag-box">
+<div class="slider-area-inner">
+<div id="tie-main-slider-16-block_252" class="tie-main-slider main-slider grid-4-big-first-half-second boxed-slider grid-slider-wrapper slide-mask tie-slick-slider-wrapper" data-slider-id="16"  data-autoplay="true" data-speed="3000">
+<div class="main-slider-inner">
+<div class="containerblock_252">
+<div class="tie-slick-slider">
+<ul class="tie-slider-nav"></ul><div class="slide"><div style="background-image: url(https://cdn1.oceanup.com/uploads/weight-loss-supplements-780x470.jpg)" class="grid-item slide-id-44550 tie-slide-1 tie-standard">
+<a href="https://oceanup.com/44550/weight-loss-supplements/" class="all-over-thumb-link" aria-label="How Effective Are Weight Loss Supplements?"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">02/02/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44550/weight-loss-supplements/">How Effective Are Weight Loss Supplements?</a></h2>
+<div class="thumb-desc">All of us have at one point in time searched, and rummaged the internet for&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/travel-essentials-for-women-1-780x470.jpg)" class="grid-item slide-id-44541 tie-slide-2 tie-standard">
+<a href="https://oceanup.com/44541/packing-list-for-female-travelers/" class="all-over-thumb-link" aria-label="Last Packing list for Female Travelers"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">01/02/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44541/packing-list-for-female-travelers/">Last Packing list for Female Travelers</a></h2>
+<div class="thumb-desc">Every girl has a traveling bucket list that she is yearning to tick off. Isn’t&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/vpn-7-780x470.jpg)" class="grid-item slide-id-44535 tie-slide-3 tie-standard">
+<a href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/" class="all-over-thumb-link" aria-label="How VPN Can Benefit You at Home &#8211; 2021 Guide"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">01/02/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/">How VPN Can Benefit You at Home &#8211; 2021 Guide</a></h2>
+<div class="thumb-desc">People go online at home for all sorts of reasons these days. Many people now&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/Online-Therapy-780x470.jpg)" class="grid-item slide-id-44525 tie-slide-4 tie-standard">
+<a href="https://oceanup.com/44525/online-therapy-can-help-you/" class="all-over-thumb-link" aria-label="5 Ways Online Therapy Can Help You &#8211; 2021 Guide"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">01/02/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44525/online-therapy-can-help-you/">5 Ways Online Therapy Can Help You &#8211; 2021 Guide</a></h2>
+<div class="thumb-desc">For quite a lot of people, therapy is a highly-effective way to help them overcome&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+</div> <!-- .slide -->
+</div><!-- .tie-slick-slider /-->
+</div><!-- container /-->
+</div><!-- .main-slider-inner  /-->
+</div><!-- .main-slider /-->
+</div><!-- .slider-area-inner -->		</section><!-- .slider-area -->
+<div id="tie-block_784" class="mag-box mini-posts-box" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-title the-global-title">
+<h3>
+Net Worth			</h3>
+</div><!-- .mag-box-title /-->
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  tie-standard">
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">29/07/2020</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/38499/how-many-houses-does-taylor-swift-own/">How Many Houses Does Taylor Swift Own?</a></h2>
+<a aria-label="How Many Houses Does Taylor Swift Own?" href="https://oceanup.com/38499/how-many-houses-does-taylor-swift-own/" class="post-thumb"><img width="220" height="150" src="https://cdn1.oceanup.com/uploads/tae-homes-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" loading="lazy" /></a>			<div class="post-details">
+<p class="post-excerpt">Taylor Swift is arguably one of the most successful recording artists in&hellip;</p>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">30/04/2020</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/36531/celebs-that-had-breast-augmentation/">21 Celebs That Had Breast Augmentation</a></h2>
+<a aria-label="21 Celebs That Had Breast Augmentation" href="https://oceanup.com/36531/celebs-that-had-breast-augmentation/" class="post-thumb"><img width="220" height="150" src="https://cdn1.oceanup.com/uploads/21-Celebs-That-Had-Breast-Augmentation-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" loading="lazy" /></a>			<div class="post-details">
+<p class="post-excerpt">Many people think that being a celebrity implies no worries because they&hellip;</p>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">23/04/2020</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/36420/lady-gaga-confirms-which-big-voices-will-appear-on-her-new-album/">Lady Gaga Confirms Which Big Voices Will Appear on Her New Album</a></h2>
+<a aria-label="Lady Gaga Confirms Which Big Voices Will Appear on Her New Album" href="https://oceanup.com/36420/lady-gaga-confirms-which-big-voices-will-appear-on-her-new-album/" class="post-thumb"><img width="220" height="150" src="https://cdn1.oceanup.com/uploads/lady-gaga-2-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" loading="lazy" /></a>			<div class="post-details">
+<p class="post-excerpt">Fame can be hard for some, especially when you want to keep&hellip;</p>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">23/04/2020</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/36407/jordyn-wood-flashes-her-tantalizing-curves/">Jordyn Wood Flashes Her Tantalizing Curves</a></h2>
+<a aria-label="Jordyn Wood Flashes Her Tantalizing Curves" href="https://oceanup.com/36407/jordyn-wood-flashes-her-tantalizing-curves/" class="post-thumb"><img width="220" height="150" src="https://cdn1.oceanup.com/uploads/jordynwoods_8-scaled-e1587642575928-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" loading="lazy" /></a>			<div class="post-details">
+<p class="post-excerpt">Although Jordyn Woods was always known as Kylie Jenner&#8217;s best friend until&hellip;</p>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">23/04/2020</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/36396/naomi-campbell-admits-that-she-eats-only-once-a-day-to-stay-skinny/">Naomi Campbell Admits That She Eats Only Once a Day to Stay Skinny</a></h2>
+<a aria-label="Naomi Campbell Admits That She Eats Only Once a Day to Stay Skinny" href="https://oceanup.com/36396/naomi-campbell-admits-that-she-eats-only-once-a-day-to-stay-skinny/" class="post-thumb"><img width="220" height="150" src="https://cdn1.oceanup.com/uploads/naomi-cambell1-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" loading="lazy" /></a>			<div class="post-details">
+<p class="post-excerpt">We have seen recently how Naomi Campbell copes with the Coronavirus pandemic,&hellip;</p>
+</div>
+</li>
+<li class="post-item  tie-standard">
+<div class="post-meta clearfix"><span class="date meta-item tie-icon">23/04/2020</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/36384/saweetie-puts-on-a-busty-display-as-she-poses-in-animal-print-swimsuit/">Saweetie Puts on a Busty Display as She Poses in Animal Print Swimsuit</a></h2>
+<a aria-label="Saweetie Puts on a Busty Display as She Poses in Animal Print Swimsuit" href="https://oceanup.com/36384/saweetie-puts-on-a-busty-display-as-she-poses-in-animal-print-swimsuit/" class="post-thumb"><img width="220" height="150" src="https://cdn1.oceanup.com/uploads/saweetie_2-scaled-e1587636524691-220x150.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="" loading="lazy" /></a>			<div class="post-details">
+<p class="post-excerpt">An American rapper and singer, known as Saweetie, treated her 5.3 million&hellip;</p>
+</div>
+</li>
+</ul><div class="clearfix"></div>
+</div><!-- .mag-box-container /-->
+<div class="pages-nav"><ul class="pages-numbers">
+<li class="current"><span class="pages-nav-item">1</span></li><li><a class="pages-nav-item" href="https://oceanup.com/page/2/" title="2">2</a></li><li><a class="pages-nav-item" href="https://oceanup.com/page/3/" title="3">3</a></li><li class="the-next-page"><a href="https://oceanup.com/page/2/" >&raquo;</a></li><li><a class="pages-nav-item" href="https://oceanup.com/page/10/" title="10">10</a></li><li><a class="pages-nav-item" href="https://oceanup.com/page/20/" title="20">20</a></li><li class="extend"><span class="pages-nav-item">...</span></li><li class="last-page first-last-pages"><a class="pages-nav-item" href="https://oceanup.com/page/37/" title="Last">Last<span class="fa" aria-hidden="true"></span></a></li></ul></div>
+</div><!-- .container-wrapper /-->
+</div><!-- .mag-box /-->
+<section id="tie-block_1167" class="slider-area mag-box">
+<div class="slider-area-inner">
+<div id="tie-main-slider-7-block_1167" class="tie-main-slider main-slider boxed-four-taller-slider boxed-slider tie-slick-slider-wrapper" data-slider-id="7"  data-speed="3000">
+<div class="loader-overlay"><div class="spinner-circle"></div></div>
+<div class="main-slider-inner">
+<ul class="tie-slider-nav"></ul>
+<div class="containerblock_1167">
+<div class="tie-slick-slider">
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/vpn-7-780x470.jpg)" class="slide slide-id-44535 tie-slide-1 tie-standard">
+<a href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/" class="all-over-thumb-link" aria-label="How VPN Can Benefit You at Home &#8211; 2021 Guide"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">01/02/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/">How VPN Can Benefit You at Home &#8211; 2021 Guide</a></h2>
+<div class="thumb-desc">People go online at home for all sorts of reasons these days. Many people now work from home either remotely&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/Beneficial-Video-Games-for-Your-Brain-780x470.jpg)" class="slide slide-id-44424 tie-slide-2 tie-standard">
+<a href="https://oceanup.com/44424/beneficial-video-games-for-brain/" class="all-over-thumb-link" aria-label="6 Most Beneficial Video Games for Your Brain"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">27/01/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44424/beneficial-video-games-for-brain/">6 Most Beneficial Video Games for Your Brain</a></h2>
+<div class="thumb-desc">Playing games is often scrutinized as a waste of time. Most parents fail to notice the benefits that games have&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/Cyber-Threats-to-Thwart-780x470.jpg)" class="slide slide-id-44412 tie-slide-3 tie-standard">
+<a href="https://oceanup.com/44412/top-cyber-threats-to-thwart/" class="all-over-thumb-link" aria-label="Top 6 Cyber Threats to Thwart in 2021"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">26/01/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44412/top-cyber-threats-to-thwart/">Top 6 Cyber Threats to Thwart in 2021</a></h2>
+<div class="thumb-desc">Privacy and data security are the number one priority for all of us. Unfortunately, it is hard to keep all&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+<div style="background-image: url(https://cdn1.oceanup.com/uploads/Apps-People-Use-to-Hide-Their-Affairs-780x470.jpg)" class="slide slide-id-44287 tie-slide-4 tie-standard">
+<a href="https://oceanup.com/44287/apps-people-use-to-hide-affairs/" class="all-over-thumb-link" aria-label="8 Apps People Use to Hide Their Affairs"></a>
+<div class="thumb-overlay"><div class="thumb-content"><div class="thumb-meta"><span class="date meta-item tie-icon">18/01/2021</span></div>
+<h2 class="thumb-title"><a href="https://oceanup.com/44287/apps-people-use-to-hide-affairs/">8 Apps People Use to Hide Their Affairs</a></h2>
+<div class="thumb-desc">In most situations, individuals that engage in love affairs use different technology and devices – including their phones, gadgets, and&hellip;</div><!-- .thumb-desc --></div> <!-- .thumb-content /-->
+</div><!-- .thumb-overlay /-->
+</div><!-- .slide || .grid-item /-->
+</div><!-- .tie-slick-slider /-->
+</div><!-- container /-->
+</div><!-- .main-slider-inner  /-->
+</div><!-- .main-slider /-->
+</div><!-- .slider-area-inner -->		</section><!-- .slider-area -->
+<div id="tie-block_3320" class="mag-box wide-post-box top-news-box" data-current="1">
+<div class="container-wrapper">
+<div class="mag-box-container clearfix">
+<ul class="posts-items posts-list-container">
+<li class="post-item  post-44550 post type-post status-publish format-standard has-post-thumbnail category-health tag-protein-powder tag-supplements tag-weight-loss tie-standard">
+<a aria-label="How Effective Are Weight Loss Supplements?" href="https://oceanup.com/44550/weight-loss-supplements/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-9755">Health</span></span><img width="390" height="220" src="https://cdn1.oceanup.com/uploads/weight-loss-supplements-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" loading="lazy" /></a>
+<div class="post-details">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-38"><span class="meta-author"><a href="https://oceanup.com/author/leaonida/" class="author-name tie-icon" title="Leaonida Manduru">Leaonida Manduru</a></span></span></span><span class="date meta-item tie-icon">02/02/2021</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/44550/weight-loss-supplements/">How Effective Are Weight Loss Supplements?</a></h2>
+<p class="post-excerpt">All of us have at one point in time searched, and rummaged the internet for a fast and, most importantly,&hellip;</p>
+<a class="more-link button" href="https://oceanup.com/44550/weight-loss-supplements/">Read More &raquo;</a>	</div>
+</li>
+<li class="post-item  post-44541 post type-post status-publish format-standard has-post-thumbnail category-travel tag-female-travelers tag-important-documents tag-medical-kit tag-packing tag-personal-items tie-standard">
+<a aria-label="Last Packing list for Female Travelers" href="https://oceanup.com/44541/packing-list-for-female-travelers/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-9756">Travel</span></span><img width="390" height="220" src="https://cdn1.oceanup.com/uploads/travel-essentials-for-women-1-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" loading="lazy" /></a>
+<div class="post-details">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-38"><span class="meta-author"><a href="https://oceanup.com/author/leaonida/" class="author-name tie-icon" title="Leaonida Manduru">Leaonida Manduru</a></span></span></span><span class="date meta-item tie-icon">01/02/2021</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/44541/packing-list-for-female-travelers/">Last Packing list for Female Travelers</a></h2>
+<p class="post-excerpt">Every girl has a traveling bucket list that she is yearning to tick off. Isn’t that right? Traveling is therapeutic&hellip;</p>
+<a class="more-link button" href="https://oceanup.com/44541/packing-list-for-female-travelers/">Read More &raquo;</a>	</div>
+</li>
+<li class="post-item  post-44535 post type-post status-publish format-standard has-post-thumbnail category-home category-tech tag-benefit tag-home tag-internet tag-privacy tag-virtual-private-network tag-vpn tie-standard">
+<a aria-label="How VPN Can Benefit You at Home &#8211; 2021 Guide" href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-10794">Home</span></span><img width="390" height="220" src="https://cdn1.oceanup.com/uploads/vpn-7-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" loading="lazy" /></a>
+<div class="post-details">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-35"><span class="meta-author"><a href="https://oceanup.com/author/janet/" class="author-name tie-icon" title="Janet Fletcher">Janet Fletcher</a></span></span></span><span class="date meta-item tie-icon">01/02/2021</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/">How VPN Can Benefit You at Home &#8211; 2021 Guide</a></h2>
+<p class="post-excerpt">People go online at home for all sorts of reasons these days. Many people now work from home either remotely&hellip;</p>
+<a class="more-link button" href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/">Read More &raquo;</a>	</div>
+</li>
+<li class="post-item  post-44525 post type-post status-publish format-standard has-post-thumbnail category-health tag-help tag-lockdown tag-online-counseling tag-online-therapy tag-therapy tie-standard">
+<a aria-label="5 Ways Online Therapy Can Help You &#8211; 2021 Guide" href="https://oceanup.com/44525/online-therapy-can-help-you/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-9755">Health</span></span><img width="390" height="220" src="https://cdn1.oceanup.com/uploads/Online-Therapy-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" loading="lazy" /></a>
+<div class="post-details">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-35"><span class="meta-author"><a href="https://oceanup.com/author/janet/" class="author-name tie-icon" title="Janet Fletcher">Janet Fletcher</a></span></span></span><span class="date meta-item tie-icon">01/02/2021</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/44525/online-therapy-can-help-you/">5 Ways Online Therapy Can Help You &#8211; 2021 Guide</a></h2>
+<p class="post-excerpt">For quite a lot of people, therapy is a highly-effective way to help them overcome a lot of complicated situations&hellip;</p>
+<a class="more-link button" href="https://oceanup.com/44525/online-therapy-can-help-you/">Read More &raquo;</a>	</div>
+</li>
+<li class="post-item  post-44513 post type-post status-publish format-standard has-post-thumbnail category-casino tag-blackjack tag-books tag-story tie-standard">
+<a aria-label="The Story of Blackjack" href="https://oceanup.com/44513/story-of-blackjack/" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-11274">Casino</span></span><img width="390" height="220" src="https://cdn1.oceanup.com/uploads/The-Story-of-Blackjack-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" loading="lazy" /></a>
+<div class="post-details">
+<div class="post-meta clearfix"><span class="author-meta single-author no-avatars"><span class="meta-item meta-author-wrapper meta-author-38"><span class="meta-author"><a href="https://oceanup.com/author/leaonida/" class="author-name tie-icon" title="Leaonida Manduru">Leaonida Manduru</a></span></span></span><span class="date meta-item tie-icon">29/01/2021</span></div><!-- .post-meta -->
+<h2 class="post-title"><a href="https://oceanup.com/44513/story-of-blackjack/">The Story of Blackjack</a></h2>
+<p class="post-excerpt">In today&#8217;s article, we will travel back in time to unravel the tangle of the origin of one of the&hellip;</p>
+<a class="more-link button" href="https://oceanup.com/44513/story-of-blackjack/">Read More &raquo;</a>	</div>
+</li>
+</ul><div class="clearfix"></div>
+</div><!-- .mag-box-container /-->
+<div class="pages-nav"><ul class="pages-numbers">
+<li class="current"><span class="pages-nav-item">1</span></li><li><a class="pages-nav-item" href="https://oceanup.com/page/2/" title="2">2</a></li><li><a class="pages-nav-item" href="https://oceanup.com/page/3/" title="3">3</a></li><li class="the-next-page"><a href="https://oceanup.com/page/2/" >&raquo;</a></li><li><a class="pages-nav-item" href="https://oceanup.com/page/10/" title="10">10</a></li><li><a class="pages-nav-item" href="https://oceanup.com/page/20/" title="20">20</a></li><li class="extend"><span class="pages-nav-item">...</span></li><li class="last-page first-last-pages"><a class="pages-nav-item" href="https://oceanup.com/page/1508/" title="Last">Last<span class="fa" aria-hidden="true"></span></a></li></ul></div>
+</div><!-- .container-wrapper /-->
+</div><!-- .mag-box /-->
+</div><!-- .main-content /-->
+</div><!-- .main-content-row /-->
+</div><!-- .container /-->	</div><!-- .section-item /-->
+</div><!-- .tiepost-10827-section-2014 /-->
+
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+<div id="footer-widgets-container">
+<div class="container">
+<div class="footer-widget-area ">
+<div class="tie-row">
+<div class="tie-col-sm-6 normal-side">
+<div id="search-4" class="container-wrapper widget widget_search"><form role="search" method="get" class="search-form" action="https://oceanup.com/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form><div class="clearfix"></div></div><!-- .widget /--><div id="text-18" class="container-wrapper widget widget_text">			<div class="textwidget"><p><span style="font-size: 18px;"><strong>Contact Us</strong></span></p>
+<p><span style="color: #ff8c00;"><span style="font-size: 16px;"><strong>sinisavuk [at] opptrends.com</strong></span></span></p>
+</div>
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+<div class="tie-col-sm-6 normal-side">
+<div id="recent-posts-3" class="container-wrapper widget widget_recent_entries">
+<div class="widget-title the-global-title has-block-head-4"><div class="the-subtitle">Recent Posts</div></div>
+<ul>
+<li>
+<a href="https://oceanup.com/44550/weight-loss-supplements/">How Effective Are Weight Loss Supplements?</a>
+</li>
+<li>
+<a href="https://oceanup.com/44541/packing-list-for-female-travelers/">Last Packing list for Female Travelers</a>
+</li>
+<li>
+<a href="https://oceanup.com/44535/vpn-can-benefit-you-at-home/">How VPN Can Benefit You at Home &#8211; 2021 Guide</a>
+</li>
+<li>
+<a href="https://oceanup.com/44525/online-therapy-can-help-you/">5 Ways Online Therapy Can Help You &#8211; 2021 Guide</a>
+</li>
+<li>
+<a href="https://oceanup.com/44513/story-of-blackjack/">The Story of Blackjack</a>
+</li>
+</ul>
+<div class="clearfix"></div></div><!-- .widget /-->					</div><!-- .tie-col /-->
+</div><!-- .tie-row /-->
+</div><!-- .footer-widget-area /-->
+</div><!-- .container /-->
+</div><!-- #Footer-widgets-container /-->
+<div id="site-info" class="site-info">
+<div class="container">
+<div class="tie-row">
+<div class="tie-col-md-12">
+</div><!-- .tie-col /-->
+</div><!-- .tie-row /-->
+</div><!-- .container /-->
+</div><!-- #site-info /-->
+</footer><!-- #footer /-->
+<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body">
+<span class="tie-icon-angle-up"></span>
+<span class="screen-reader-text">Back to top button</span>
+</a>
+</div><!-- #tie-wrapper /-->
+</div><!-- #tie-container /-->
+</div><!-- .background-overlay /-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151213866-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-151213866-1');
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script>
+<div id="is-scroller-outer"><div id="is-scroller"></div></div><div id="fb-root"></div><script type='text/javascript' id='tie-scripts-js-extra'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/oceanup.com\/wp-admin\/admin-ajax.php","is_taqyeem_active":"","is_sticky_video":"","mobile_menu_top":"","mobile_menu_active":"","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"","is_singular":"1","autoload_posts":"","reading_indicator":"","lazyload":"","select_share":"","select_share_twitter":"","select_share_facebook":"","select_share_linkedin":"","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"","responsive_tables":"","ad_blocker_detector":"","sticky_behavior":"default","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"","lang_no_results":"Nothing Found","sticky_share_mobile":"","sticky_share_post":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/themes/jannah/assets/js/scripts.min.js?ver=5.3.1' id='tie-scripts-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/themes/jannah/assets/ilightbox/lightbox.js?ver=5.3.1' id='tie-js-ilightbox-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/themes/jannah/assets/js/sliders.min.js?ver=5.3.1' id='tie-js-sliders-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/themes/jannah/assets/js/shortcodes.js?ver=5.3.1' id='tie-js-shortcodes-js'></script>
+<script type='text/javascript' src='https://oceanup.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=5.3.1' id='tie-js-desktop-js'></script>
+<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(238,238,34,1);"><div class="cookie-notice-container" style="color: #000000;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="Ok">Ok</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+</div>
+<!-- / Cookie Notice plugin -->		<script type='text/javascript'>
+!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+</script>
+<script type='text/javascript'>
+var c = document.body.className;
+c = c.replace(/tie-no-js/, 'tie-js');
+document.body.className = c;
+</script>
+<div class="wpautoterms-footer"><p>
+<a href="https://oceanup.com/wpautoterms/contact-us/">Contact Us</a><span class="separator"> - </span><a href="https://oceanup.com/wpautoterms/terms-and-conditions/">Terms and Conditions</a><span class="separator"> - </span><a href="https://oceanup.com/wpautoterms/privacy-policy/">Privacy Policy</a></p>
+</div>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.65500998497009 seconds, on 02-02-21 11:52:39 -->

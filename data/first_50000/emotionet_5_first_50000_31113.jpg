@@ -1,0 +1,5554 @@
+<!DOCTYPE html>
+<html id="htmlTag" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+	
+	
+	<base href="https://pak.gupshup.org/" />
+	
+		<link rel="Shortcut Icon" href="https://pak.gupshup.org/core/css/0/0/5/3/1/4//images/favicon.ico" type="image/x-icon" />
+	
+
+	
+	
+	
+		
+		
+	
+
+	
+
+	
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=100&amp;td=ltr&amp;sheet=css_reset.css,css_unreset.css,css_utilities.css&amp;ts=1604351697 " />
+<link rel="stylesheet" type="text/css" href="css.php?styleid=100&amp;td=ltr&amp;sheet=css_imgareaselect-animated.css,css_jquery-ui-1_12_1_custom.css,css_jquery_qtip.css,css_jquery_selectBox.css,css_jquery_autogrow.css,css_global.css,css_fonts.css,css_b_link.css,css_b_layout.css,css_b_button.css,css_b_button_group.css,css_b_icon.css,css_b_tabbed_pane.css,css_b_form_control.css,css_b_form_input.css,css_b_form_select.css,css_b_form_textarea.css,css_b_media.css,css_b_divider.css,css_b_avatar.css,css_b_ajax_loading_indicator.css,css_responsive.css,css_b_vbscroller.css,css_b_theme_selector.css,css_b_top_background.css,css_b_module.css,css_b_comp_menu_horizontal.css,css_b_comp_menu_dropdown.css,css_b_comp_menu_vert.css,css_b_top_menu.css&amp;ts=1604351697 " />
+
+<script type="text/javascript" src="js/header-rollup-564.js"></script>
+
+	
+	
+		<meta property="og:site_name" content="GupShup Forums" />
+		<meta property="og:description" content="vBulletin Forums" />
+		<meta property="og:url" content="https://pak.gupshup.org" />
+		
+		<meta property="og:type" content="website" />
+	
+	<link rel="sitemap" href="xmlsitemap.php" type="application/xml" />
+
+	
+	
+	<link rel="canonical" href="https://pak.gupshup.org" />
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+	
+	
+	
+		
+		
+		
+	
+
+	
+	
+	
+		
+
+	<title>
+		
+			
+			Forums - 
+		
+		GupShup Forums
+	</title>
+
+	<meta name="description" content="vBulletin Forums" />
+	<meta name="generator" content="vBulletin 5.6.4" />
+
+	
+	
+
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=100&amp;td=ltr&amp;sheet=css_login.css&amp;ts=1604351697 " />
+<link rel="stylesheet" type="text/css" href="css.php?styleid=100&amp;td=ltr&amp;sheet=css_b_post.css,css_b_post_control.css,css_b_post_attachments.css,css_b_post_notice.css,css_b_post_sm.css,css_b_comments.css,css_b_comment.css,css_b_comment_entry.css,css_b_userinfo.css,css_b_meter.css,css_b_inlinemod.css,css_b_bbcode_user.css,css_b_event.css,css_b_link_thumbnail_list.css,css_b_thumbnail_nav.css&amp;ts=1604351697 " />
+<link class="js-additional-css" rel="stylesheet" type="text/css" href="css.php?styleid=100&amp;td=ltr&amp;sheet=css_additional.css&amp;ts=1604351697 " />
+
+<script type="text/javascript">
+		if (location.hash) {
+			document.write('<style type="text/css"> a.anchor { display:none;} <\/style>');
+		}
+
+		var uploadUrlTarget = "https://pak.gupshup.org/uploader/url";
+		var pageData = {
+			"baseurl": "https://pak.gupshup.org",
+			"baseurl_path": "/",
+			"baseurl_core": "https://pak.gupshup.org/core",
+			"baseurl_pmchat": "https://pak.gupshup.org/pmchat/chat",
+			"pageid": "1",
+			"pagetemplateid": "1",
+			"channelid": "1",
+			"nodeid": "1",
+			"userid": "0",
+			"username": "Guest",
+			"musername": "Guest",
+			"user_startofweek": "1",
+			
+			"user_lang_pickerdateformatoverride": "",
+			"user_editorstate": "",
+			"textDirLeft": "left",
+			"textDirRight": "right",
+			"textdirection": "ltr",
+			"can_use_sitebuilder": "",
+			"cookie_prefix": "vb5314",
+			"cookie_path": "/",
+			"cookie_domain": "",
+			"inlinemod_cookie_name": "inlinemod_nodes",
+			
+				"pagenum": "1",
+			
+			"languageid": "1",
+			"threadmarking": "2",
+			"lastvisit": "1612315154",
+			"phrasedate": "1611002753",
+			"optionsdate": "1604351769",
+			
+			"current_server_datetime": "1612315154",
+			"simpleversion": "v=564",
+			
+			"showhv_post": "1",
+			"nextcron": "1612315200",
+			"securitytoken": "guest",
+			"privacystatus": "0",
+			"flash_message": "",
+			"registerurl": "https://pak.gupshup.org/register",
+			"activationurl": "https://pak.gupshup.org/activateuser",
+			"helpurl": "https://pak.gupshup.org/help",
+			"contacturl": "https://pak.gupshup.org/contact-us",
+			"datenow": "Feb 2, 2021"
+		};
+		
+		
+
+	</script>
+	
+	
+</head>
+
+	
+
+
+
+
+
+
+
+	
+
+<body id="vb-page-body" class="l-desktop page1 vb-page view-mode logged-out" itemscope itemtype="http://schema.org/WebPage" data-usergroupid="1" data-styleid="100">
+<script type="text/javascript">
+	vBulletin.Responsive.Debounce.checkBrowserSize();
+</script>
+
+
+
+
+	
+
+
+<div class="b-top-menu__background b-top-menu__background--sitebuilder js-top-menu-sitebuilder h-hide-on-small h-hide">
+	<div class="b-top-menu__container">
+		<ul class="b-top-menu b-top-menu--sitebuilder js-top-menu-sitebuilder--list js-shrink-event-parent">
+			
+		</ul>
+	</div>
+</div>
+
+<nav class="b-top-menu__background js-top-menu-user">
+	<div class="b-top-menu__container">
+		<ul class="b-top-menu b-top-menu--user js-top-menu-user--list js-shrink-event-parent">
+			
+
+
+
+
+	
+
+
+
+	<li class="b-top-menu__item b-top-menu__item--no-left-divider b-top-menu__item--no-right-divider username-container js-shrink-event-child">
+
+		<div class="b-comp-menu-dropdown b-comp-menu-dropdown--headerbar js-comp-menu-dropdown b-comp-menu-dropdown--open-on-hover js-login-menu">
+			<div id="lnkLoginSignupMenu" class="b-comp-menu-dropdown__trigger js-comp-menu-dropdown__trigger b-comp-menu-dropdown__trigger--arrow b-comp-menu-dropdown__trigger--headerbar js-button" tabindex="0">
+				Login or Sign Up
+			</div>
+
+			<ul class="b-comp-menu-dropdown__content js-comp-menu-dropdown__content b-comp-menu-dropdown__content--right">
+
+				<li class="b-comp-menu-dropdown__content-item js-comp-menu-dropdown__content-maintain-menu b-comp-menu-dropdown__content-item--no-hover">
+					
+
+<div class='js-login-form-main-container login-form-main-container'>
+
+<div class="js-error-box error h-margin-bottom-l h-hide"></div>
+
+<div class="js-login-message-box login-message-box h-hide">
+	<div class="h-center-container"><div class="h-center">Logging in...</div></div>
+</div>
+
+<form action="" method="post" class="h-clearfix js-login-form-main ">
+	<div class="login-fieldset table">
+		<div class="tr">
+			
+				
+			
+			<span class="td">
+				<input type="text" name="username" value="" class="js-login-username b-form-input__input b-form-input__input--full" placeholder="User Name" />
+			</span>
+		</div>
+		<div class="tr">
+			<span class="td">
+				<input type="password" autocomplete="off" name="password" class="js-login-password b-form-input__input b-form-input__input--full" placeholder="Password" />
+			</span>
+		</div>
+	</div>
+
+	
+	
+
+	<div class="secondary-controls h-left h-clear-left h-margin-top-s">
+		<label><input type="checkbox" name="rememberme"  />Save</label>
+	</div>
+
+	<div class="primary-controls h-right h-clear-right h-margin-top-s">
+		<button type="button" class="js-login-button b-button b-button--primary">Log in</button>
+	</div>
+
+	<div class="secondary-controls h-left h-clear-left">
+		<a href="https://pak.gupshup.org/lostpw" class='b-link lost-password-link'>Forgot password or user name?</a>
+	</div>
+
+	<div class="primary-controls h-right h-clear-right">
+		
+		or <a id="idLoginSignup" href="https://pak.gupshup.org/register" target="_top">Sign Up</a>
+	</div>
+
+</form>
+</div>
+				</li>
+
+				
+				
+
+				<li id="externalLoginProviders" class="b-comp-menu-dropdown__content-item js-comp-menu-dropdown__content-maintain-menu b-comp-menu-dropdown__content-item--no-hover js-external-login-providers h-clearfix h-hide-imp">
+					<span class="h-left h-margin-left-s h-margin-top-s">Log in with</span>
+					
+					
+					
+				</li>
+
+			</ul>
+
+		</div>
+
+	</li>
+
+	
+
+		</ul>
+	</div>
+</nav>
+
+<div id="sitebuilder-wrapper" class="noselect h-clearfix h-hide-on-small">
+	
+</div>
+
+<div class="main-navbar-bottom-line"></div>
+
+<div id="outer-wrapper">
+<div id="wrapper">
+
+	
+	<div id="header-axd" class="header-edit-box axdnum_1 h-clearfix">
+		
+		<div class="axd-container axd-container_header">
+			<div class="admin-only">
+				
+			</div>
+			<div class="axd axd_header">
+				
+			</div>
+		</div>
+		<div class="axd-container axd-container_header2">
+			<div class="admin-only">
+				
+			</div>
+			<div class="axd axd_header2">
+				
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	<header class="b-top-background__header-mainnav-subnav">
+
+		
+		<div class="b-top-background__header-mainnav">
+
+			
+			<div id="header" class="noselect">
+				<div class="header-cell">
+					
+					<div class="site-logo header-edit-box">
+						<a href="https://pak.gupshup.org/"><img src="filedata/fetch?filedataid=56550" data-orig-src="filedata/fetch?filedataid=56550" alt="Logo" title="Powered by vBulletin" /></a>
+					</div>
+				</div>
+				<div class="toolbar">
+					<ul class="h-right">
+						
+						
+						
+						<li class="search-container">
+							<form id="searchForm" action="https://pak.gupshup.org/search" class="h-left" method="GET">
+								<div class="h-left">
+
+									
+									<div class="search-box h-clearfix">
+
+										<div class="search-term-container">
+
+											<input type="text" name="q" id="q" placeholder="Search" class="search-term b-form-input__input b-form-input__input--shadow" autocomplete="off" />
+
+											<div class="search-menu-container h-clearfix">
+												<div class="vertical-divider-left"></div>
+												<div class="b-comp-menu-dropdown js-comp-menu-dropdown b-comp-menu-dropdown--open-on-hover b-comp-menu-dropdown--header-search">
+													<div class="b-comp-menu-dropdown__trigger js-comp-menu-dropdown__trigger b-comp-menu-dropdown__trigger--arrow js-button" tabindex="0"></div>
+													<ul class="b-comp-menu-dropdown__content js-comp-menu-dropdown__content">
+
+	<li class="b-comp-menu-dropdown__content-item b-comp-menu-dropdown__content-item--first b-comp-menu-dropdown__content-item--no-hover js-comp-menu-dropdown__content-maintain-menu">
+
+		<div class="searchPopupBody">
+
+			<label><input type="checkbox" name="searchFields[title_only]" class="searchFields_title_only" value="1" />Search in titles only</label>
+
+			
+
+			
+				
+				
+			
+
+			<div class="b-button-group h-margin-top-xs">
+				<button type="submit" id="btnSearch-popup" class="b-button b-button--primary">Search</button>
+			</div>
+
+		</div>
+
+		<input type="hidden" name="searchJSON" value="" />
+	</li>
+
+	<li class="b-comp-menu-dropdown__content-item js-comp-menu-dropdown__content-maintain-menu">
+		<a href="#" id="btnAdvSearch" class="adv-search-btn">Advanced Search</a>
+	</li>
+
+</ul>
+												</div>
+											</div>
+
+										</div>
+
+										<button type="submit" id="btnSearch" class="search-btn" title="Search"><span class="b-icon b-icon__search"></span></button>
+
+									</div>
+
+								</div>
+							</form>
+						</li>
+						
+					</ul>
+				</div>
+				
+			</div>
+
+			
+			<nav id="channel-tabbar" class="h-clearfix noselect">
+				<ul class="channel-tabbar-list h-left b-comp-menu-horizontal js-comp-menu-horizontal js-comp-menu--dropdown-on-small b-comp-menu-dropdown--inactive js-comp-menu-dropdown__content--main-menu h-hide-on-small js-shrink-event-parent">
+
+					
+						
+					
+
+					
+					
+					
+						
+						
+						
+						<li class="current section-item js-shrink-event-child">
+							<a   href="" class="h-left navbar_home">Forums</a>
+							
+								<span class="channel-tabbar-divider"></span>
+							
+							<span class="mobile dropdown-icon"><span class="icon h-right"></span></span>
+						</li>
+					
+						
+						
+						
+						<li class=" section-item js-shrink-event-child">
+							<a   href="blogs" class="h-left navbar_blogs">Blogs</a>
+							
+								<span class="channel-tabbar-divider"></span>
+							
+							<span class="mobile dropdown-icon"><span class="icon h-right"></span></span>
+						</li>
+					
+						
+						
+						
+						<li class=" section-item js-shrink-event-child">
+							<a   href="articles" class="h-left navbar_articles">Articles</a>
+							
+								<span class="channel-tabbar-divider"></span>
+							
+							<span class="mobile dropdown-icon"><span class="icon h-right"></span></span>
+						</li>
+					
+						
+						
+						
+						<li class=" section-item js-shrink-event-child">
+							<a   href="social-groups" class="h-left navbar_social_groups">Groups</a>
+							
+							<span class="mobile dropdown-icon"><span class="icon h-right"></span></span>
+						</li>
+					
+					
+				</ul>
+			</nav>
+
+
+		</div>
+
+
+		
+		<nav id="channel-subtabbar" class="h-clearfix  h-hide-on-small h-block js-channel-subtabbar">
+			<ul class="h-left channel-subtabbar-list js-channel-subtabbar-list js-shrink-event-parent">
+				
+					
+					
+					<li class=" js-shrink-event-child">
+						<a   href="memberlist" class="navbar_member_list">Member List</a>
+					</li>
+				
+					
+					
+					<li class=" js-shrink-event-child">
+						<a   href="https://gupshup.org/calendar" class="navbar_calendar">calendar</a>
+					</li>
+				
+			</ul>
+		</nav>
+
+
+	</header>
+
+
+	
+
+	
+	
+		
+		<nav class="breadcrumbs-wrapper">
+			<div id="breadcrumbs"></div>
+		</nav>
+	
+
+	
+
+	
+	
+
+	
+
+	
+
+<ul id="notices" class="notices">
+	
+	
+		
+		<li class="notice restore" data-notice-id="1039" data-notice-persistent="1">Dear Guppie,<br>
+Due to recent hacking attempts and subsequent move to a new home, we have reset all passwords. As such, you will have to click on <a href="https://pak.gupshup.org/lostpw">Lost Password</a> and enter your email to obtain a new password. Otherwise, feel free to use the form <a href="https://pak.gupshup.org/contact-us">Contact Us</a>  and we will respond asap. We apologize for the inconvenience but this step makes everyone here safer. -Admins</li>
+	
+</ul>
+
+
+	
+
+
+	
+	<main id="content">
+		<div class="canvas-layout-container js-canvas-layout-container">
+
+<div id="canvas-layout-wide-narrow" class="canvas-layout" data-layout-id="2">
+
+	
+
+	
+
+		
+	
+
+
+
+	
+
+
+
+<!-- row -->
+<div class="canvas-layout-row l-row no-columns h-clearfix">
+
+	
+	
+
+	
+
+		
+		
+		
+
+		
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+<!-- section 200 -->
+
+
+
+<div class="canvas-widget-list section-200 js-sectiontype-global_after_breadcrumb h-clearfix l-col__large-12 l-col__small--full l-wide-column">
+
+	
+
+	
+
+	
+
+</div>
+
+	
+
+</div>
+
+	
+
+		
+	
+
+
+
+	
+
+
+
+<!-- row -->
+<div class="canvas-layout-row l-row no-columns h-clearfix">
+
+	
+	
+
+	
+
+		
+		
+		
+
+		
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+<!-- section 2 -->
+
+
+
+<div class="canvas-widget-list section-2 js-sectiontype-notice h-clearfix l-col__large-12 l-col__small--full l-wide-column">
+
+	
+
+	
+	<!-- *** START WIDGET widgetid:36, widgetinstanceid:1, template:widget_announcement *** -->
+	
+	
+
+
+	
+	
+
+
+
+
+
+<div class="b-module canvas-widget default-widget announcement-widget empty" id="widget_1" data-widget-id="36" data-widget-instance-id="1">
+	
+	<div class="widget-header h-clearfix">
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">Announcement</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+
+	<div class="widget-content">
+		
+			
+				No announcement yet.
+				
+			
+				
+	</div>
+</div>
+	<!-- *** END WIDGET widgetid:36, widgetinstanceid:1, template:widget_announcement *** -->
+
+
+	
+
+</div>
+
+	
+
+</div>
+
+	
+
+		
+	
+
+
+
+	
+	
+
+
+
+<!-- row -->
+<div class="canvas-layout-row l-row has-columns l-row__fixed--right">
+
+	
+	
+
+	
+
+		
+		
+		
+
+		
+	
+
+
+
+
+
+	
+		
+		
+			
+		
+	
+
+
+
+	
+		
+	
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+<!-- section 0 -->
+
+
+
+<div class="canvas-widget-list section-0 js-sectiontype-primary h-clearfix l-col__flex-6 l-col__small--full l-col--flex-first has-adjacent-right-col l-wide-column">
+
+	
+		<div class="l-col__flex-content">
+	
+
+	
+	<!-- *** START WIDGET widgetid:6, widgetinstanceid:3, template:widget_activitystream *** -->
+	
+	
+
+
+	
+	
+
+
+
+
+	
+
+
+<div class="b-module canvas-widget default-widget activity-stream-widget forum-activity-stream-widget widget-tabs ui-tabs widget-no-header-buttons widget-no-border" id="widget_3" data-widget-id="6" data-widget-instance-id="3" data-widget-default-tab="#forum-tab">
+	
+	<div class="widget-header widget-tabs-nav h-clearfix">
+		
+		<div class="module-title h-left">
+			<ul class="ui-tabs-nav hide-on-editmode h-clearfix b-comp-menu-horizontal js-module-tab-menu js-comp-menu-horizontal js-comp-menu--dropdown-on-xsmall b-comp-menu-dropdown--inactive">
+				
+					<li class="ui-tabs-active"><a href="#forum-tab">Forums</a></li>
+					<li><a href="#activity-stream-tab">Latest Activity</a></li>
+					<li><a href="#subscribed-tab">My Subscriptions</a></li>
+				
+			</ul>
+
+		</div>
+		<div class="module-buttons">
+			<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+		</div>
+	</div>
+	<div class="widget-content widget-tabs-panel">
+		
+			<div id="activity-stream-tab" class="h-hide">
+				
+				
+					
+				
+				
+					
+				
+				
+				
+				
+				
+				
+					
+						
+						
+					
+					
+				
+
+				
+
+				
+	
+
+
+
+	
+		
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<div class="conversation-toolbar-wrapper  top h-clear hide-on-editmode
+	
+		scrolltofixed-floating
+		scrolltofixed-top
+	
+" data-allow-history="0">
+	<div class="conversation-toolbar">
+
+
+		
+
+		
+			
+			<div class="toolset-left">
+
+				
+				<div class="conversation-toolbar-height-shim js-shrink-event-child">
+					<div class="b-button">&nbsp;</div>
+				</div>
+
+			</div>
+		
+		
+
+		
+
+		<ul class="toolset-right js-shrink-event-parent">
+
+			
+
+			
+			
+				
+			
+
+			
+			
+
+			
+				<li class="toolbar-filter toolbar-filter-top js-shrink-event-child">
+					<div class="filter-wrapper h-clearfix js-button" tabindex="0">
+						<div class="label h-left">Filter</div>
+						<div class="arrow vb-icon-wrapper h-left"><span class="vb-icon vb-icon-triangle-down-wide"></span></div>
+					</div>
+				</li>
+			
+
+			
+
+			
+		</ul>
+	</div>
+
+
+	
+
+	
+		
+			
+		
+		
+		<form action="activity/get" method="post" class="toolbar-filter-overlay h-clearfix">
+			<input type="hidden" name="nodeid" value="0" />
+			<input type="hidden" name="view" value="activity" />
+			
+			
+			
+			
+			
+				<input type="hidden" name="per-page" value="30" />
+				<input type="hidden" name="pagenum" value="1" />
+			
+			
+				<input type="hidden" name="maxpages" value="20" />
+			
+			
+			
+				<input type="hidden" name="userid" value="0" />
+			
+			
+			
+			<input type="hidden" name="showChannelInfo" value="1" />
+			<ul class="filter-options-list">
+				
+				
+				<li>
+					<div class="filter-header">Time</div>
+					<div class="filter-options">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+
+						
+							<label><input type="radio" name="filter_time" value="time_all" /><span>All Time</span></label>
+						
+						<label><input type="radio" name="filter_time" value="time_today" /><span>Today</span></label>
+						<label><input type="radio" name="filter_time" value="time_lastweek" /><span>Last Week</span></label>
+						<label><input type="radio" name="filter_time" value="time_lastmonth" checked="checked" class="js-default-checked" /><span>Last Month</span></label>
+					</div>
+				</li>
+				
+				
+				<li>
+					<div class="filter-header">Show</div>
+					<div class="filter-options">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+
+						<label><input type="radio" name="filter_show" value="show_all" checked="checked" class="js-default-checked" /><span>All</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Text" /><span>Discussions only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Gallery" /><span>Photos only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Video" /><span>Videos only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Link" /><span>Links only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Poll" /><span>Polls only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Event" /><span>Events only</span></label>
+					</div>
+				</li>
+				
+				
+				
+				
+				<li>
+					<div class="filter-header">New Topics</div>
+					<div class="filter-options">
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+
+						<label><input type="radio" name="filter_new_topics" value="1" checked="checked" class="js-default-checked" /><span>On</span></label>
+						<label><input type="radio" name="filter_new_topics" value="0" /><span>Off</span></label>
+					</div>
+				</li>
+				
+				
+				
+
+				
+
+				
+				<!-- end if prefixsets -->
+			</ul>
+		</form>
+
+		
+
+		<div class="filtered-by h-clearfix h-hide">
+			<label>Filtered by:</label>
+			<div class="filter-text-wrapper h-left">
+				
+				
+				
+			</div>
+			<a href="#" class="clear-all h-hide">Clear All</a>
+		</div>
+		<div class="new-conversations-strip"><span></span> new posts</div>
+	
+</div>
+
+
+
+
+				<ul class="conversation-list list-container stream-view stream-view-full-width activity-view full-activity-view h-clearfix h-hide">
+					
+				</ul>
+				<div class="conversation-empty">No content found</div>
+				<div class="js-conversation-showmore b-button-group h-margin-top-xl h-hide">
+					<div class="js-conversation-showmore-button b-button js-button" tabindex="0">Show More</div>
+				</div>
+			</div>
+		
+		
+		
+			<div id="subscribed-tab" class="h-hide">
+				
+				
+					
+					
+				
+
+				
+				
+				
+				
+				
+					
+					
+				
+
+				
+					
+					
+				
+
+				
+					
+				
+
+				
+					
+				
+
+				
+
+				
+				
+				
+	
+
+
+
+	
+		
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<div class="conversation-toolbar-wrapper  top h-clear hide-on-editmode
+	
+		scrolltofixed-floating
+		scrolltofixed-top
+	
+" data-allow-history="0">
+	<div class="conversation-toolbar">
+
+
+		
+
+		
+			
+			<div class="toolset-left">
+
+				
+				<div class="conversation-toolbar-height-shim js-shrink-event-child">
+					<div class="b-button">&nbsp;</div>
+				</div>
+
+			</div>
+		
+		
+
+		
+
+		<ul class="toolset-right js-shrink-event-parent">
+
+			
+
+			
+			
+				
+			
+
+			
+			
+
+			
+				<li class="toolbar-filter toolbar-filter-top js-shrink-event-child">
+					<div class="filter-wrapper h-clearfix js-button" tabindex="0">
+						<div class="label h-left">Filter</div>
+						<div class="arrow vb-icon-wrapper h-left"><span class="vb-icon vb-icon-triangle-down-wide"></span></div>
+					</div>
+				</li>
+			
+
+			
+
+			
+		</ul>
+	</div>
+
+
+	
+
+	
+		
+			
+		
+		
+		<form action="profile/ApplyFollowingFilter" method="post" class="toolbar-filter-overlay h-clearfix">
+			<input type="hidden" name="nodeid" value="0" />
+			<input type="hidden" name="view" value="subscribed" />
+			
+			
+			
+			
+			
+				<input type="hidden" name="per-page" value="10" />
+				<input type="hidden" name="pagenum" value="1" />
+			
+			
+				<input type="hidden" name="maxpages" value="20" />
+			
+			
+			
+				<input type="hidden" name="userid" value="0" />
+			
+			
+			
+			<input type="hidden" name="showChannelInfo" value="1" />
+			<ul class="filter-options-list">
+				
+				
+				<li>
+					<div class="filter-header">Time</div>
+					<div class="filter-options">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+
+						
+							<label><input type="radio" name="filter_time" value="time_all" /><span>All Time</span></label>
+						
+						<label><input type="radio" name="filter_time" value="time_today" /><span>Today</span></label>
+						<label><input type="radio" name="filter_time" value="time_lastweek" /><span>Last Week</span></label>
+						<label><input type="radio" name="filter_time" value="time_lastmonth" checked="checked" class="js-default-checked" /><span>Last Month</span></label>
+					</div>
+				</li>
+				
+				
+				<li>
+					<div class="filter-header">Show</div>
+					<div class="filter-options">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+
+						<label><input type="radio" name="filter_show" value="show_all" checked="checked" class="js-default-checked" /><span>All</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Text" /><span>Discussions only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Gallery" /><span>Photos only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Video" /><span>Videos only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Link" /><span>Links only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Poll" /><span>Polls only</span></label>
+						<label><input type="radio" name="filter_show" value="vBForum_Event" /><span>Events only</span></label>
+					</div>
+				</li>
+				
+				
+				
+				
+				<li>
+					<div class="filter-header">New Topics</div>
+					<div class="filter-options">
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+
+						<label><input type="radio" name="filter_new_topics" value="1" checked="checked" class="js-default-checked" /><span>On</span></label>
+						<label><input type="radio" name="filter_new_topics" value="0" /><span>Off</span></label>
+					</div>
+				</li>
+				
+				
+				
+
+				
+
+				
+				<!-- end if prefixsets -->
+			</ul>
+		</form>
+
+		
+
+		<div class="filtered-by h-clearfix h-hide">
+			<label>Filtered by:</label>
+			<div class="filter-text-wrapper h-left">
+				
+				
+				
+			</div>
+			<a href="#" class="clear-all h-hide">Clear All</a>
+		</div>
+		<div class="new-conversations-strip"><span></span> new posts</div>
+	
+</div>
+
+
+
+
+				
+					<div class="conversation-empty">Please log in to your account to view your subscribed posts.</div>
+					
+				
+			</div>
+		
+		
+			
+	
+
+		
+
+		
+			
+			
+			
+		
+	
+
+	
+		<div id="forum-tab" class=" dataLoaded">
+	
+	
+
+	
+		<table class="forum-list-container stretch">
+<tr class="forum-list-header">
+	<th class="header-forum"><span>Directory</span></th>
+	<th class="header-topics"><span>Topics</span></th>
+	<th class="header-posts"><span>Posts</span></th>
+	<th class="header-lastpost"><span>Last Post</span></th>
+</tr>
+	
+	
+
+
+
+
+	
+
+		
+		
+		<tr class="category-header" id="forum16">
+			<td colspan="4"><a class="category" data-nodeid="16" href="https://pak.gupshup.org/forum/hangout">Hangout</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum27" data-channel-id="27" data-lastcontent="1612245311" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/hangout/gupshup-cafe%E2%B4" class="forum-title">GupShup Cafe</a>
+
+							<div class="forum-desc">Welcome to Cafe! Your first stop to make intros, unwind and have fun.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 114,720
+						Posts: 4,619,983
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/hangout/gupshup-cafe%E2%B4/684930-what-r-u-watching?p=16695874#post16695874" class="lastpost-title">What R U Watching??</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">114,720</td>
+			<td class="posts-count">4,619,983</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/66160-a7mado" class="avatar  h-left">
+		<img src="./core/image.php?userid=66160&thumb=1" alt="a7mado" title="a7mado" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/hangout/gupshup-cafe%E2%B4/684930-what-r-u-watching?p=16695874#post16695874" class="lastpost-title">What R U Watching??</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/66160-a7mado">a7mado</a>
+							
+						</div>
+						<div class="lastpost-date post-date">19 hours ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum32" data-channel-id="32" data-lastcontent="1610643439" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/hangout/humor-rated-g" class="forum-title">Humor (Rated G)</a>
+
+							<div class="forum-desc">Came across a joke? Share it here!</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 17,711
+						Posts: 124,561
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/hangout/humor-rated-g/16695153-sunehri-baatein?p=16695491#post16695491" class="lastpost-title">Sunehri Baatein..</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">17,711</td>
+			<td class="posts-count">124,561</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/134058-hakuna-matata" class="avatar  h-left">
+		<img src="./core/image.php?userid=134058&thumb=1&dateline=1597714026" alt="Hakuna Matata" title="Hakuna Matata" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/hangout/humor-rated-g/16695153-sunehri-baatein?p=16695491#post16695491" class="lastpost-title">Sunehri Baatein..</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/134058-hakuna-matata">Hakuna Matata</a>
+							
+						</div>
+						<div class="lastpost-date post-date">2 weeks ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+
+	
+
+		
+		
+		<tr class="category-header" id="forum23">
+			<td colspan="4"><a class="category" data-nodeid="23" href="https://pak.gupshup.org/forum/entertainment">Entertainment</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum37" data-channel-id="37" data-lastcontent="1612245876" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/entertainment/showbiz-pakistan-bollywood-world-entertainment" class="forum-title">Showbiz Pakistan , Bollywood &amp; World Entertainment</a>
+
+							<div class="forum-desc">From movies to TV, this is the place to discuss Pakistani showbiz! Also for all Bollywood and World entertainment gossip and news.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 27,967
+						Posts: 299,662
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/entertainment/showbiz-pakistan-bollywood-world-entertainment/684497-what-shows-are-you-currently-watching-or-recently-saw?p=16695875#post16695875" class="lastpost-title">What shows are you currently watching or recently saw</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">27,967</td>
+			<td class="posts-count">299,662</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/66160-a7mado" class="avatar  h-left">
+		<img src="./core/image.php?userid=66160&thumb=1" alt="a7mado" title="a7mado" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/entertainment/showbiz-pakistan-bollywood-world-entertainment/684497-what-shows-are-you-currently-watching-or-recently-saw?p=16695875#post16695875" class="lastpost-title">What shows are you currently watching or recently saw</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/66160-a7mado">a7mado</a>
+							
+						</div>
+						<div class="lastpost-date post-date">19 hours ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum55" data-channel-id="55" data-lastcontent="1612238774" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/entertainment/media" class="forum-title">Media</a>
+
+							<div class="forum-desc">Want to share a picture? An audio byte? How about some video?</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 43,111
+						Posts: 602,352
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/entertainment/media/682638-animal-art-videos?p=16695873#post16695873" class="lastpost-title">Animal Art Videos</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">43,111</td>
+			<td class="posts-count">602,352</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/109626-kraft-dinner" class="avatar  h-left">
+		<img src="./core/image.php?userid=109626&thumb=1&dateline=1606695088" alt="Kraft Dinner" title="Kraft Dinner" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/entertainment/media/682638-animal-art-videos?p=16695873#post16695873" class="lastpost-title">Animal Art Videos</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/109626-kraft-dinner">Kraft Dinner</a>
+							
+						</div>
+						<div class="lastpost-date post-date">21 hours ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum36" data-channel-id="36" data-lastcontent="1611946684" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/entertainment/cricket-and-other-sports" class="forum-title">Cricket and Other Sports</a>
+
+							<div class="forum-desc">Cricket, Football, Hockey, Basketball, American Football, F1, Baseball, Tennis whatever takes your fancy; come in and lets talk!</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 15,787
+						Posts: 555,858
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/entertainment/cricket-and-other-sports/16695761-its-lights-out-formula-gupshup-2021-season-discussion-thread?p=16695817#post16695817" class="lastpost-title">&quot;Its lights out...&quot; - Formula GupShup - 2021 Season Discussion Thread</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">15,787</td>
+			<td class="posts-count">555,858</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/66160-a7mado" class="avatar  h-left">
+		<img src="./core/image.php?userid=66160&thumb=1" alt="a7mado" title="a7mado" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/entertainment/cricket-and-other-sports/16695761-its-lights-out-formula-gupshup-2021-season-discussion-thread?p=16695817#post16695817" class="lastpost-title">&quot;Its lights out...&quot; - Formula GupShup - 2021 Season Discussion Thread</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/66160-a7mado">a7mado</a>
+							
+						</div>
+						<div class="lastpost-date post-date">4 days ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+
+	
+
+		
+		
+		<tr class="category-header" id="forum17">
+			<td colspan="4"><a class="category" data-nodeid="17" href="https://pak.gupshup.org/forum/society">Society</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum28" data-channel-id="28" data-lastcontent="1612305104" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs" class="forum-title">Pakistan &amp; World Affairs</a>
+
+							<div class="forum-desc">politics, economy, international relations, etc.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 55,642
+						Posts: 748,953
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs/16695850-axis-of-evil?p=16695889#post16695889" class="lastpost-title">Axis Of Evil....</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">55,642</td>
+			<td class="posts-count">748,953</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/277525-bobby1" class="avatar  h-left">
+		<img src="./core/image.php?userid=277525&thumb=1&dateline=1597714026" alt="Bobby1" title="Bobby1" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs/16695850-axis-of-evil?p=16695889#post16695889" class="lastpost-title">Axis Of Evil....</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+							
+						</div>
+						<div class="lastpost-date post-date">2 hours ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum34" data-channel-id="34" data-lastcontent="1612308288" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/society/religion-philosophy" class="forum-title">Religion &amp; Philosophy</a>
+
+							<div class="forum-desc">Discussions on Islamic and other Philosophical matters</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 20,756
+						Posts: 310,939
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/society/religion-philosophy/16695883-are-you-a-materialist?p=16695890#post16695890" class="lastpost-title">Are you a materialist?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">20,756</td>
+			<td class="posts-count">310,939</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/277525-bobby1" class="avatar  h-left">
+		<img src="./core/image.php?userid=277525&thumb=1&dateline=1597714026" alt="Bobby1" title="Bobby1" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/society/religion-philosophy/16695883-are-you-a-materialist?p=16695890#post16695890" class="lastpost-title">Are you a materialist?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 hour ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum47" data-channel-id="47" data-lastcontent="1612232514" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/society/travel-tourism" class="forum-title">Travel &amp; Tourism</a>
+
+							<div class="forum-desc">Been to or going to any amazing places? Share it here!</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 3,987
+						Posts: 50,292
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/society/travel-tourism/16695603-my-trip-to-gilgit-baltistan-khunjerab-pass?p=16695870#post16695870" class="lastpost-title">My trip to Gilgit Baltistan - Khunjerab Pass</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">3,987</td>
+			<td class="posts-count">50,292</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/277525-bobby1" class="avatar  h-left">
+		<img src="./core/image.php?userid=277525&thumb=1&dateline=1597714026" alt="Bobby1" title="Bobby1" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/society/travel-tourism/16695603-my-trip-to-gilgit-baltistan-khunjerab-pass?p=16695870#post16695870" class="lastpost-title">My trip to Gilgit Baltistan - Khunjerab Pass</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+							
+						</div>
+						<div class="lastpost-date post-date">22 hours ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum35" data-channel-id="35" data-lastcontent="1612246724" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/society/business-and-career" class="forum-title">Business and Career</a>
+
+							<div class="forum-desc">This is the place to be if you have study related queries, career questions or just some knowledge to share!</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 6,259
+						Posts: 52,351
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/society/business-and-career/16695804-occupy-wallstreet?p=16695878#post16695878" class="lastpost-title">Occupy wallstreet?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">6,259</td>
+			<td class="posts-count">52,351</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/66160-a7mado" class="avatar  h-left">
+		<img src="./core/image.php?userid=66160&thumb=1" alt="a7mado" title="a7mado" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/society/business-and-career/16695804-occupy-wallstreet?p=16695878#post16695878" class="lastpost-title">Occupy wallstreet?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/66160-a7mado">a7mado</a>
+							
+						</div>
+						<div class="lastpost-date post-date">19 hours ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+
+	
+
+		
+		
+		<tr class="category-header" id="forum14">
+			<td colspan="4"><a class="category" data-nodeid="14" href="https://pak.gupshup.org/forum/arts-culture">Arts &amp; Culture</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum61" data-channel-id="61" data-lastcontent="1611768275" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/arts-culture/poetry-intikhaab-sho-ra-e-gupshup" class="forum-title">Poetry ( Intikhaab &amp;  Sho'ra-e-Gupshup)</a>
+
+							<div class="forum-desc">Did you just remember or read a great piece of poetry? Share with us. Has something inspired you to write a piece yourself? Post it here.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 47,908
+						Posts: 702,152
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/arts-culture/poetry-intikhaab-sho-ra-e-gupshup/16695774-paon-k-zakhm-dikhany-ki-ejazat-di-ja-ay#post16695774" class="lastpost-title">Paon k zakhm dikhany ki ejazat di ja,ay...</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">47,908</td>
+			<td class="posts-count">702,152</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/81145-enter10" class="avatar  h-left">
+		<img src="./core/image.php?userid=81145&thumb=1&dateline=1597714026" alt="enter10" title="enter10" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/arts-culture/poetry-intikhaab-sho-ra-e-gupshup/16695774-paon-k-zakhm-dikhany-ki-ejazat-di-ja-ay#post16695774" class="lastpost-title">Paon k zakhm dikhany ki ejazat di ja,ay...</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/81145-enter10">enter10</a>
+							
+						</div>
+						<div class="lastpost-date post-date">6 days ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum31" data-channel-id="31" data-lastcontent="1611483119" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/arts-culture/culture-arts-literature-linguistics" class="forum-title">Culture, Arts, Literature &amp; Linguistics</a>
+
+							<div class="forum-desc">This is the forum to discuss our cultural heritage, dialects, traditions, clothes, ceremonies, folklore and all other things that make us into who we are.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 9,485
+						Posts: 186,398
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/arts-culture/culture-arts-literature-linguistics/16695588-burns-road-food-street-karachi-street-food-pakistan?p=16695665#post16695665" class="lastpost-title">Burns Road Food Street, Karachi | Street Food Pakistan</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">9,485</td>
+			<td class="posts-count">186,398</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/54218-happyheart" class="avatar  h-left">
+		<img src="./core/image.php?userid=54218&thumb=1&dateline=1611133094" alt="happyheart" title="happyheart" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/arts-culture/culture-arts-literature-linguistics/16695588-burns-road-food-street-karachi-street-food-pakistan?p=16695665#post16695665" class="lastpost-title">Burns Road Food Street, Karachi | Street Food Pakistan</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/54218-happyheart">happyheart</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 week ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum81" data-channel-id="81" data-lastcontent="1610392809" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/arts-culture/history" class="forum-title">History</a>
+
+							<div class="forum-desc">All you history geeks</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 952
+						Posts: 25,938
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/arts-culture/history/16694089-what-month-is-the-most-depressing?p=16695444#post16695444" class="lastpost-title">What month is the most depressing?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">952</td>
+			<td class="posts-count">25,938</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/317844-gothamist" class="avatar  h-left">
+		<img src="./core/images/default/default_avatar_thumb.png" alt="Gothamist" title="Gothamist" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/arts-culture/history/16694089-what-month-is-the-most-depressing?p=16695444#post16695444" class="lastpost-title">What month is the most depressing?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/317844-gothamist">Gothamist</a>
+							
+						</div>
+						<div class="lastpost-date post-date">3 weeks ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+
+	
+
+		
+		
+		<tr class="category-header" id="forum19">
+			<td colspan="4"><a class="category" data-nodeid="19" href="https://pak.gupshup.org/forum/lifestyle">Lifestyle</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum42" data-channel-id="42" data-lastcontent="1611202965" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/lifestyle/relationships" class="forum-title">Relationships</a>
+
+							<div class="forum-desc">Share your wisdom, views, frustrations, experiences and hopes regarding all kinds of relationships</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 20,784
+						Posts: 616,373
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/lifestyle/relationships/16695010-she-broke-up-with-me?p=16695619#post16695619" class="lastpost-title">She broke up with me</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">20,784</td>
+			<td class="posts-count">616,373</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/12955-yaasir" class="avatar  h-left">
+		<img src="./core/image.php?userid=12955&thumb=1&dateline=1597714026" alt="yaasir" title="yaasir" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/lifestyle/relationships/16695010-she-broke-up-with-me?p=16695619#post16695619" class="lastpost-title">She broke up with me</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/12955-yaasir">yaasir</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 week ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum68" data-channel-id="68" data-lastcontent="1612142526" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/lifestyle/wedding-fashion-beauty" class="forum-title">Wedding, Fashion &amp; Beauty</a>
+
+							<div class="forum-desc">Getting married? This forum should make your planning a breeze!  Want some tips to help you look and feel your best? Discuss the hottest trends in clothes, make-up, etc. Stop by and share your best beauty secret.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 22,606
+						Posts: 399,901
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/lifestyle/wedding-fashion-beauty/16695824-what-is-your-signature-perfume-or-cologne?p=16695855#post16695855" class="lastpost-title">What is your signature perfume or cologne?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">22,606</td>
+			<td class="posts-count">399,901</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/277525-bobby1" class="avatar  h-left">
+		<img src="./core/image.php?userid=277525&thumb=1&dateline=1597714026" alt="Bobby1" title="Bobby1" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/lifestyle/wedding-fashion-beauty/16695824-what-is-your-signature-perfume-or-cologne?p=16695855#post16695855" class="lastpost-title">What is your signature perfume or cologne?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 day ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum56" data-channel-id="56" data-lastcontent="1607800380" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/lifestyle/bazaar-talk" class="forum-title">Bazaar  Talk</a>
+
+							<div class="forum-desc">Pop in if you're interested in buying a product and want advice or want to share your reviews of different products and vendors!</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 6,330
+						Posts: 71,714
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/lifestyle/bazaar-talk/16695046-how-to-find-prices-of-imported-ceramic-tiles?p=16695071#post16695071" class="lastpost-title">How to find prices of imported ceramic tiles?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">6,330</td>
+			<td class="posts-count">71,714</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/285553-decentguy" class="avatar  h-left">
+		<img src="./core/images/default/default_avatar_thumb.png" alt="decentGuy" title="decentGuy" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/lifestyle/bazaar-talk/16695046-how-to-find-prices-of-imported-ceramic-tiles?p=16695071#post16695071" class="lastpost-title">How to find prices of imported ceramic tiles?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/285553-decentguy">decentGuy</a>
+							
+						</div>
+						<div class="lastpost-date post-date">Dec 12, 2020, 02:13 PM</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+			<!-- Sub-Forums -->
+			<tr class="subforum-list"><td colspan="4">
+				<div class="subforum-header h-clear">Sub-Forums:</div>
+				<table>
+				
+				
+					
+						<tr>
+					
+					
+					
+						
+					
+							<td class="subforum-item" data-lastcontent="1603761062" data-channel-id="93" colspan="3">
+								<div class="subforum-info">
+
+									
+										<span class="icon b-icon b-icon__speech-single2--blue"></span>
+									
+
+									<a href="https://pak.gupshup.org/forum/lifestyle/bazaar-talk/classified-ads" class="subforum-title">Classified Ads</a>
+									<span class="counts">(2,163/24,447)</span>
+								</div>
+							</td>
+					
+						</tr>
+					
+					
+				
+				</table>
+			</td></tr>
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum71" data-channel-id="71" data-lastcontent="1612155796" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/lifestyle/health-fitness" class="forum-title">Health &amp; Fitness</a>
+
+							<div class="forum-desc">Want some tips to help you feel your best? Discuss work out routines, healthy diets, and other fitness topics right here</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 3,685
+						Posts: 47,954
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/lifestyle/health-fitness/16684175-diet-to-fight-depression?p=16695859#post16695859" class="lastpost-title">Diet to fight depression</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">3,685</td>
+			<td class="posts-count">47,954</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/12955-yaasir" class="avatar  h-left">
+		<img src="./core/image.php?userid=12955&thumb=1&dateline=1597714026" alt="yaasir" title="yaasir" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/lifestyle/health-fitness/16684175-diet-to-fight-depression?p=16695859#post16695859" class="lastpost-title">Diet to fight depression</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/12955-yaasir">yaasir</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 day ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum58" data-channel-id="58" data-lastcontent="1611203994" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/lifestyle/parenting-household-affairs-and-cuisine-corner" class="forum-title">Parenting, Household Affairs and Cuisine corner</a>
+
+							<div class="forum-desc">Give and get advice related to fertility, pregnancy, and parenting children of all ages. . Plus, are you the king of your kitchen? A closet organizing queen? Share recipes and tips or ask for advice from other experts</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 12,604
+						Posts: 193,777
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/lifestyle/parenting-household-affairs-and-cuisine-corner/684469-your-cooking-personality-videos?p=16695621#post16695621" class="lastpost-title">Your cooking personality videos...</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">12,604</td>
+			<td class="posts-count">193,777</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/277525-bobby1" class="avatar  h-left">
+		<img src="./core/image.php?userid=277525&thumb=1&dateline=1597714026" alt="Bobby1" title="Bobby1" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/lifestyle/parenting-household-affairs-and-cuisine-corner/684469-your-cooking-personality-videos?p=16695621#post16695621" class="lastpost-title">Your cooking personality videos...</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 week ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+
+	
+
+		
+		
+		<tr class="category-header" id="forum21">
+			<td colspan="4"><a class="category" data-nodeid="21" href="https://pak.gupshup.org/forum/science-technology">Science &amp; Technology</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum72" data-channel-id="72" data-lastcontent="1610836519" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/science-technology/science-nature" class="forum-title">Science &amp; Nature</a>
+
+							<div class="forum-desc">A new discovery, or a scientific breakthrough? Here you can discuss nature's deepest hidden secrets...</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 983
+						Posts: 20,277
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/science-technology/science-nature/16695540-wildlife-takeover-how-animals-reclaimed-chernobyl#post16695540" class="lastpost-title">Wildlife Takeover: How Animals Reclaimed Chernobyl</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">983</td>
+			<td class="posts-count">20,277</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/40834-mostar95" class="avatar  h-left">
+		<img src="./core/images/default/default_avatar_thumb.png" alt="Mostar95" title="Mostar95" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/science-technology/science-nature/16695540-wildlife-takeover-how-animals-reclaimed-chernobyl#post16695540" class="lastpost-title">Wildlife Takeover: How Animals Reclaimed Chernobyl</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/40834-mostar95">Mostar95</a>
+							
+						</div>
+						<div class="lastpost-date post-date">2 weeks ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum43" data-channel-id="43" data-lastcontent="1611644405" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/science-technology/information-technology-gaming-machines-gadgets-automotive" class="forum-title">Information Technology, Gaming, Machines, Gadgets &amp; Automotive</a>
+
+							<div class="forum-desc">Ask, teach and learn about anything related to Computers &amp; IT! Are you a gaming or gadget geek, a machine maniac or maybe an inventor? Come on in ..</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 154,177
+						Posts: 241,599
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/science-technology/information-technology-gaming-machines-gadgets-automotive/16695629-any-php-guruz-here?p=16695715#post16695715" class="lastpost-title">Any PHP guruz here?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">154,177</td>
+			<td class="posts-count">241,599</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/40884-sindsagar" class="avatar  h-left">
+		<img src="./core/image.php?userid=40884&thumb=1&dateline=1597714026" alt="SindSagar" title="SindSagar" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/science-technology/information-technology-gaming-machines-gadgets-automotive/16695629-any-php-guruz-here?p=16695715#post16695715" class="lastpost-title">Any PHP guruz here?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/40884-sindsagar">SindSagar</a>
+							
+						</div>
+						<div class="lastpost-date post-date">1 week ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+	
+
+	
+
+		
+		
+		<tr class="category-header" id="forum15">
+			<td colspan="4"><a class="category" data-nodeid="15" href="https://pak.gupshup.org/forum/gs-services">GS Services</a></td>
+		</tr>
+
+	
+
+	
+	
+	
+		
+			
+		
+	
+	
+
+	
+		
+		
+			
+		
+
+		
+			<!-- Top level Forums -->
+			
+		
+
+		
+	
+
+
+
+
+	
+
+
+	<tr class="forum-item main new" id="forum45" data-channel-id="45" data-lastcontent="1612019631" data-readtime="0">
+		
+			<td class="cell-forum">
+				<div class="forum-wrapper">
+						<div class="forum-info">
+							
+								
+									<span class="icon b-icon b-icon__speech-double-large--blue h-left"
+										title="Contains unread posts."
+										></span>
+								
+							
+
+							<a href="https://pak.gupshup.org/forum/gs-services/gs-news-support" class="forum-title">GS News  &amp;  Support</a>
+
+							<div class="forum-desc">Changes, additions, upcoming events, and other related news items are posted here by the admins. ALSO .. Got a question on how to use the forums and services GS has offer? Use this forum to seek help from Techs and your peers.</div>
+							
+						</div>
+
+						
+						
+						
+				</div>
+
+				<div class="rx-forum-stats h-hide">
+					
+						Topics: 5,622
+						Posts: 57,248
+					
+				</div>
+
+				
+					<div class="rx-lastpost-info h-hide">
+						Last Post:
+						
+
+						
+
+						
+						
+						<a href="https://pak.gupshup.org/forum/gs-services/gs-news-support/16695797-too-many-subforums?p=16695835#post16695835" class="lastpost-title">Too many subforums?</a>
+
+					</div>
+				
+			</td>
+			<td class="topics-count">5,622</td>
+			<td class="posts-count">57,248</td>
+			<td class="lastpost">
+				<div class="lastpost-wrapper">
+					
+						
+						
+						
+							
+							
+							
+						
+
+						
+
+
+
+
+
+
+
+	
+	<a href="https://pak.gupshup.org/member/81566-lp" class="avatar  h-left">
+		<img src="./core/image.php?userid=81566&thumb=1&dateline=1597714026" alt="LP" title="LP" />
+	</a>
+
+					
+					<div class="lastpost-info">
+						
+
+						<div class="lastpost-title-wrapper ellipsis">
+							
+
+							
+							
+							<a href="https://pak.gupshup.org/forum/gs-services/gs-news-support/16695797-too-many-subforums?p=16695835#post16695835" class="lastpost-title">Too many subforums?</a>
+						</div>
+
+						<div class="lastpost-by">
+							
+								
+								by <a href="https://pak.gupshup.org/member/81566-lp">LP</a>
+							
+						</div>
+						<div class="lastpost-date post-date">3 days ago</div>
+					</div>
+				
+				</div>
+			</td>
+		
+	</tr>
+
+		
+			<!-- Sub-Forums -->
+			<tr class="subforum-list"><td colspan="4">
+				<div class="subforum-header h-clear">Sub-Forums:</div>
+				<table>
+				
+				
+					
+						<tr>
+					
+					
+					
+						
+					
+							<td class="subforum-item" data-lastcontent="1594999223" data-channel-id="112" colspan="3">
+								<div class="subforum-info">
+
+									
+										<span class="icon b-icon b-icon__speech-single2--blue"></span>
+									
+
+									<a href="https://pak.gupshup.org/forum/gs-services/gs-news-support/news-suport-archive" class="subforum-title">News &amp; Suport Archive</a>
+									<span class="counts">(5,544/56,447)</span>
+								</div>
+							</td>
+					
+						</tr>
+					
+					
+				
+				</table>
+			</td></tr>
+		
+	
+
+	</table>
+
+<div class="list-footer"><a href="#" class="markchannelsread">Mark Channels Read</a></div>
+	
+
+	
+		</div>
+	
+		
+	</div>
+</div>
+	<!-- *** END WIDGET widgetid:6, widgetinstanceid:3, template:widget_activitystream *** -->
+
+	<!-- *** START WIDGET widgetid:16, widgetinstanceid:4, template:widget_onlineusers *** -->
+	
+	
+
+
+	
+	
+
+
+
+	
+	
+
+
+
+
+<div class="b-module canvas-widget default-widget wol-widget" id="widget_4" data-widget-id="16" data-widget-instance-id="4">
+
+	
+	<div class="widget-header h-clearfix">
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">What's Going On</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+		<hr class="widget-header-divider" />
+	
+
+
+	<div class="widget-content">
+		
+			
+				
+				<p>There are currently 55 <a href="https://pak.gupshup.org/online">users online</a>. 0 members and 55 guests.</p>
+				<p>Most users ever online was 3,725 at 12:12 PM on Oct 21, 2015.</p>
+				
+				
+			
+		
+	</div>
+</div>
+	<!-- *** END WIDGET widgetid:16, widgetinstanceid:4, template:widget_onlineusers *** -->
+
+	<!-- *** START WIDGET widgetid:66, widgetinstanceid:5, template:widget_statistics *** -->
+	
+	
+
+
+	
+	
+
+
+<div class="b-module canvas-widget default-widget custom-html-widget" id="widget_5" data-widget-id="66" data-widget-instance-id="5">
+
+	
+	
+		
+	
+
+	
+	<div class="widget-header h-clearfix">
+		
+			
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">GupShup Forums Statistics</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+		<hr class="widget-header-divider" />
+	
+
+
+	<div class="widget-content">
+
+		<div class="h-margin-bottom-s">
+			
+			
+			Topics: 649,045 &nbsp;
+			Posts: 10,409,042 &nbsp;
+			Members: 102,407 &nbsp;
+			Active Members: 96
+		</div>
+
+		<div>
+			Welcome to our newest member, <a href="https://pak.gupshup.org/member/320273-johnelia">johnelia</a>.
+		</div>
+
+	</div>
+</div>
+	<!-- *** END WIDGET widgetid:66, widgetinstanceid:5, template:widget_statistics *** -->
+
+
+	
+		</div>
+	
+
+</div>
+
+	
+
+		
+		
+		
+
+		
+	
+
+
+
+
+
+	
+		
+	
+
+
+
+	
+		
+	
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+
+
+<!-- section 1 -->
+
+
+
+<div class="canvas-widget-list section-1 js-sectiontype-secondary h-clearfix l-col__fixed-6 l-col__small--full has-adjacent-left-col h-padding-left-xl l-narrow-column">
+
+	
+
+	
+	<!-- *** START WIDGET widgetid:11, widgetinstanceid:7, template:widget_search *** -->
+	
+	
+
+
+	
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+	
+	
+		
+	
+
+	
+
+
+
+
+
+<div class="b-module canvas-widget search-widget" id="widget_7" data-widget-id="11" data-widget-instance-id="7">
+
+	
+	<div class="widget-header h-clearfix">
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">Latest Topics</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+		<hr class="widget-header-divider" />
+	
+
+
+	<div class="widget-content">
+		
+			
+				
+				
+				<ul class="conversation-list list-container h-clearfix">
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695883">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/40052-krash">
+					<img src="./core/images/default/default_avatar_thumb.png" width="32" height="32" alt="krash" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/religion-philosophy/16695883-are-you-a-materialist">Are you a materialist?</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/40052-krash">krash</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		Materialism is a philosophy that is based on the following foundational principle<br />
+<br />
+A thing is said to exist if,<br />
+1. It can be directly observed by our senses<br />
+2. It's existence can be logically deduced from direct observation by our senses<br />
+Anything that doesn't meet the above...
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695883">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/religion-philosophy">Religion &amp; Philosophy</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">7 hours ago</div>
+	
+	</div>
+</li>
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695852">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/40052-krash">
+					<img src="./core/images/default/default_avatar_thumb.png" width="32" height="32" alt="krash" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs/16695852-coup-unfolding-in-myanmar">Coup unfolding in Myanmar</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/40052-krash">krash</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		<a href="https://www.theguardian.com/world/2021/feb/01/aung-san-suu-kyi-and-other-figures-detained-in-myanmar-raids-says-ruling-party" target="_blank" rel="nofollow">https://www.theguardian.com/world/20...s-ruling-party</a><br />
+<br />
+Hard to feel sympathy for Aung San Suu Kyi after her betrayal of the Rohingya but the military might be even worse.
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695852">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs">Pakistan &amp; World Affairs</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">2 days ago</div>
+	
+	</div>
+</li>
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695850">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/277525-bobby1">
+					<img src="./core/image.php?userid=277525&amp;thumb=1&amp;dateline=1597714026" width="32" height="32" alt="Bobby1" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs/16695850-axis-of-evil">Axis Of Evil....</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		Biden is jolting the Saudi Israeli evil axis, halting arm sales, restoring aid to Palestinians, talking to Iran, opening Khashoggi case again. Hopefully he can curtail Saudi atrocities. Yuppp!!! You need liberals to protect Muslims from other Muslims atrocities. So next time you attack liberals for...
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695850">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs">Pakistan &amp; World Affairs</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">2 days ago</div>
+	
+	</div>
+</li>
+					
+				</ul>
+			
+			<div class="widget-footer h-align-left h-clear">
+				
+				<a href="https://pak.gupshup.org/search?r=36328828" class="b-button">View All</a>
+			</div>
+		
+	</div>
+</div>
+
+
+
+	<!-- *** END WIDGET widgetid:11, widgetinstanceid:7, template:widget_search *** -->
+
+	<!-- *** START WIDGET widgetid:11, widgetinstanceid:8, template:widget_search *** -->
+	
+	
+
+
+	
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+	
+	
+		
+	
+
+	
+
+
+
+
+
+<div class="b-module canvas-widget search-widget" id="widget_8" data-widget-id="11" data-widget-instance-id="8">
+
+	
+	<div class="widget-header h-clearfix">
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">Recent Blog Posts</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+		<hr class="widget-header-divider" />
+	
+
+
+	<div class="widget-content">
+		
+			<p><em>There are no results that meet this criteria.</em></p>
+		
+	</div>
+</div>
+
+
+
+	<!-- *** END WIDGET widgetid:11, widgetinstanceid:8, template:widget_search *** -->
+
+	<!-- *** START WIDGET widgetid:20, widgetinstanceid:9, template:widget_tagcloud *** -->
+	
+	
+
+
+	
+	
+
+
+
+	
+
+
+<div class="b-module canvas-widget default-widget tagcloud-widget" id="widget_9" data-widget-id="20" data-widget-instance-id="9">
+
+	
+	<div class="widget-header h-clearfix">
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">Tag Cloud</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+		<hr class="widget-header-divider" />
+	
+
+
+	<div class="widget-content">
+		
+			
+			
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22%26%231605%3B%26%231740%3B%26%231722%3B%22%5D%7D">&#1605;&#1740;&#1722;</a></span>&nbsp;
+				
+					<span class="tagcloudlink level2">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22allah%22%5D%7D">allah</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22cricket%22%5D%7D">cricket</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22day%22%5D%7D">day</a></span>&nbsp;
+				
+					<span class="tagcloudlink level2">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22hai%22%5D%7D">hai</a></span>&nbsp;
+				
+					<span class="tagcloudlink level2">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22india%22%5D%7D">india</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22karachi%22%5D%7D">karachi</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22khan%22%5D%7D">khan</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22lahore%22%5D%7D">lahore</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22love%22%5D%7D">love</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22marriage%22%5D%7D">marriage</a></span>&nbsp;
+				
+					<span class="tagcloudlink level5">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22pakistan%22%5D%7D">pakistan</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22pakistani%22%5D%7D">pakistani</a></span>&nbsp;
+				
+					<span class="tagcloudlink level2">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22people%22%5D%7D">people</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22share%22%5D%7D">share</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22team%22%5D%7D">team</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22test%22%5D%7D">test</a></span>&nbsp;
+				
+					<span class="tagcloudlink level2">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22time%22%5D%7D">time</a></span>&nbsp;
+				
+					<span class="tagcloudlink level2">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22wedding%22%5D%7D">wedding</a></span>&nbsp;
+				
+					<span class="tagcloudlink level1">
+					
+					
+					<a href="https://pak.gupshup.org/search?searchJSON=%7B%22tag%22%3A%5B%22world%22%5D%7D">world</a></span>&nbsp;
+				
+			
+		
+	</div>
+</div>
+	<!-- *** END WIDGET widgetid:20, widgetinstanceid:9, template:widget_tagcloud *** -->
+
+	<!-- *** START WIDGET widgetid:13, widgetinstanceid:10, template:widget_search *** -->
+	
+	
+
+
+	
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+	
+	
+		
+	
+
+	
+
+
+
+
+
+<div class="b-module canvas-widget search-widget" id="widget_10" data-widget-id="13" data-widget-instance-id="10">
+
+	
+	<div class="widget-header h-clearfix">
+		
+		
+			
+		
+
+		<div class="module-title h-left">
+			
+				<h1 class="main-title js-main-title hide-on-editmode">trending</h1>
+				
+				
+				
+			
+		</div>
+		
+			<div class="module-buttons">
+				
+					<span class="toggle-button module-button-item collapse" title="Collapse" data-toggle-title="Expand"><span class="b-icon b-icon__toggle-collapse">Collapse</span></span>
+				
+			</div>
+		
+	</div>
+	
+		<hr class="widget-header-divider" />
+	
+
+
+	<div class="widget-content">
+		
+			
+				
+				
+				<ul class="conversation-list list-container h-clearfix">
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695883">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/40052-krash">
+					<img src="./core/images/default/default_avatar_thumb.png" width="32" height="32" alt="krash" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/religion-philosophy/16695883-are-you-a-materialist">Are you a materialist?</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/40052-krash">krash</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		Materialism is a philosophy that is based on the following foundational principle<br />
+<br />
+A thing is said to exist if,<br />
+1. It can be directly observed by our senses<br />
+2. It's existence can be logically deduced from direct observation by our senses<br />
+Anything that doesn't meet the above...
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695883">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/religion-philosophy">Religion &amp; Philosophy</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">7 hours ago</div>
+	
+	</div>
+</li>
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695850">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/277525-bobby1">
+					<img src="./core/image.php?userid=277525&amp;thumb=1&amp;dateline=1597714026" width="32" height="32" alt="Bobby1" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs/16695850-axis-of-evil">Axis Of Evil....</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/277525-bobby1">Bobby1</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		Biden is jolting the Saudi Israeli evil axis, halting arm sales, restoring aid to Palestinians, talking to Iran, opening Khashoggi case again. Hopefully he can curtail Saudi atrocities. Yuppp!!! You need liberals to protect Muslims from other Muslims atrocities. So next time you attack liberals for...
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695850">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs">Pakistan &amp; World Affairs</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">2 days ago</div>
+	
+	</div>
+</li>
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695852">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/40052-krash">
+					<img src="./core/images/default/default_avatar_thumb.png" width="32" height="32" alt="krash" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs/16695852-coup-unfolding-in-myanmar">Coup unfolding in Myanmar</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/40052-krash">krash</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		<a href="https://www.theguardian.com/world/2021/feb/01/aung-san-suu-kyi-and-other-figures-detained-in-myanmar-raids-says-ruling-party" target="_blank" rel="nofollow">https://www.theguardian.com/world/20...s-ruling-party</a><br />
+<br />
+Hard to feel sympathy for Aung San Suu Kyi after her betrayal of the Rohingya but the military might be even worse.
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695852">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/pakistan-world-affairs">Pakistan &amp; World Affairs</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">2 days ago</div>
+	
+	</div>
+</li>
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695804">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/317844-gothamist">
+					<img src="./core/images/default/default_avatar_thumb.png" width="32" height="32" alt="Gothamist" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/society/business-and-career/16695804-occupy-wallstreet">Occupy wallstreet?</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/317844-gothamist">Gothamist</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		What the heck is going in stock market? Is it Reddit group v/s Wallstreet? Or small stock holders v/s Hedge fund bankers?<br />
+<br />
+Gamestop is sky high.<br />
+<br />
+Robinhood has banned everyone from buying it anymore. They can only sell
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695804">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/society/business-and-career">Business and Career</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">5 days ago</div>
+	
+	</div>
+</li>
+					
+							
+							
+							
+	
+
+
+
+
+<li class="b-post-sm js-post-sm" data-nodeid="16695824">
+
+	
+	
+		<div class="b-post-sm__avatar avatar h-left">
+			
+				
+				<a href="https://pak.gupshup.org/member/320237-lara75">
+					<img src="./core/images/default/default_avatar_thumb.png" width="32" height="32" alt="lara75" />
+				</a>
+			
+		</div>
+	
+
+	
+	<div class="b-post-sm__content b-post-sm__content--has-avatar">
+
+		
+		<div class="b-post-sm__title ellipsis">
+			
+			
+				<a href="https://pak.gupshup.org/forum/lifestyle/wedding-fashion-beauty/16695824-what-is-your-signature-perfume-or-cologne">What is your signature perfume or cologne?</a>
+			
+		</div>
+
+		
+		
+			<div class="b-post-sm__author">
+				
+					by <a href="https://pak.gupshup.org/member/320237-lara75">lara75</a>
+				
+			</div>
+		
+
+
+
+	
+	<div class="b-post-sm__post-content post-content ellipsis restore">
+		
+		My signature perfume is Victoria&#8217;s Secret love spell and the scent is cheerful in the summer. This scent is <a href="https://pak.gupshup.org" target="_blank"><span style="color:#000000">affordable victoria secret perfume</span></a> and has good longevity.<br />
+<b>AND</b><br />
+What is your signature perfume or cologne?
+	</div>
+
+
+
+
+	
+		
+		
+
+			
+			
+				<div class="list-item-footer h-clearfix">
+					<ul class="replylike_count h-left">
+						<li id="channel-16695824">
+							<div class="channel h-left">
+								<div class="channel_text">
+									Channel: <a href="https://pak.gupshup.org/forum/lifestyle/wedding-fashion-beauty">Wedding, Fashion &amp; Beauty</a>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+			<div class="b-post-sm__date">4 days ago</div>
+	
+	</div>
+</li>
+					
+				</ul>
+			
+			<div class="widget-footer h-align-left h-clear">
+				
+				<a href="https://pak.gupshup.org/search?r=36328830" class="b-button">View All</a>
+			</div>
+		
+	</div>
+</div>
+
+
+
+	<!-- *** END WIDGET widgetid:13, widgetinstanceid:10, template:widget_search *** -->
+
+
+	
+
+</div>
+
+	
+
+</div>
+
+	
+
+		
+	
+
+
+
+	
+
+
+
+<!-- row -->
+<div class="canvas-layout-row l-row no-columns h-clearfix">
+
+	
+	
+
+	
+
+		
+		
+		
+
+		
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+<!-- section 3 -->
+
+
+
+<div class="canvas-widget-list section-3 js-sectiontype-extra h-clearfix l-col__large-12 l-col__small--full l-wide-column">
+
+	
+
+	
+
+	
+
+</div>
+
+	
+
+</div>
+
+	
+
+		
+	
+
+
+
+	
+
+
+
+<!-- row -->
+<div class="canvas-layout-row l-row no-columns h-clearfix">
+
+	
+	
+
+	
+
+		
+		
+		
+
+		
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+<!-- section 201 -->
+
+
+
+<div class="canvas-widget-list section-201 js-sectiontype-global_before_footer h-clearfix l-col__large-12 l-col__small--full l-wide-column">
+
+	
+
+	
+
+	
+
+</div>
+
+	
+
+</div>
+
+	
+
+</div>
+
+</div>
+	<div class="h-clear"></div>
+</main>
+
+	<footer id="footer">
+		
+		
+		<nav id="footer-tabbar" class="h-clearfix js-shrink-event-parent">
+			
+			
+			
+			
+			
+				
+			
+			
+			<ul class="h-left js-footer-chooser-list h-margin-left-xxl js-shrink-event-child">
+				
+				
+					<li>
+
+						<div class="b-comp-menu-dropdown js-comp-menu-dropdown b-comp-menu-dropdown--open-on-hover b-comp-menu-dropdown--direction-up js-languagechooser js-select-on-xsmall h-margin-right-l">
+							<div class="b-comp-menu-dropdown__trigger js-comp-menu-dropdown__trigger b-comp-menu-dropdown__trigger--arrow">
+								
+									
+								
+									
+										English (US)
+									
+								
+									
+								
+									
+								
+							</div>
+							<ul class="b-comp-menu-dropdown__content js-comp-menu-dropdown__content b-comp-menu-dropdown__content--left">
+								
+									<li class="b-comp-menu-dropdown__content-item">
+										<a href="#" data-languageid="2">Deutsch (Du)</a>
+									</li>
+								
+									<li class="b-comp-menu-dropdown__content-item b-comp-menu-dropdown__content-item--current">
+										<a href="#" data-languageid="1">English (US)</a>
+									</li>
+								
+									<li class="b-comp-menu-dropdown__content-item">
+										<a href="#" data-languageid="4">French</a>
+									</li>
+								
+									<li class="b-comp-menu-dropdown__content-item">
+										<a href="#" data-languageid="3">Spanish</a>
+									</li>
+								
+							</ul>
+						</div>
+
+					</li>
+				
+				
+			</ul>
+
+			<ul class="nav-list h-right js-footer-nav-list h-margin-right-xxl b-comp-menu-horizontal js-comp-menu-horizontal js-comp-menu--dropdown-on-xsmall b-comp-menu-dropdown--inactive js-shrink-event-child" data-dropdown-trigger-phrase="go_to_ellipsis" data-dropdown-menu-classes="h-margin-vert-l b-comp-menu-dropdown--direction-up" data-dropdown-trigger-classes="b-comp-menu-dropdown__trigger--arrow">
+				
+				
+					
+					
+					
+						
+						
+					
+					
+					
+					
+					
+					
+					
+					
+
+					<li class="">
+						<a rel="nofollow" href="https://pak.gupshup.org/help">Help</a>
+					</li>
+
+				
+					
+					
+					
+						
+						
+					
+					
+					
+					
+					
+					
+					
+					
+
+					<li class="">
+						<a rel="nofollow" href="https://pak.gupshup.org/contact-us">Contact Us</a>
+					</li>
+
+				
+				<li><a href="#" class="js-footer-go-to-top">Go to top</a></li>
+			</ul>
+		</nav>
+		
+      
+      
+      
+      
+
+      
+    
+
+	</footer>
+</div>
+<div id="footer-copyright">
+	<div id="footer-user-copyright"></div>
+	<div id="footer-vb-copyright">Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 5.6.4 <br />Copyright &copy; 2021 MH Sub I, LLC dba vBulletin. All rights reserved. </div>
+	<div id="footer-current-datetime">All times are GMT-6. This page was generated at 1 minute ago.</div>
+</div>
+</div>
+
+<div id="loading-indicator" class="js-loading-indicator b-ajax-loading-indicator h-hide">
+	<span>Working...</span>
+</div>
+<div class="js-flash-message b-ajax-loading-indicator b-ajax-loading-indicator--medium h-hide">
+	<span class="js-flash-message-content"></span>
+</div>
+<div id="confirm-dialog" class="sb-dialog">
+	<div class="dialog-content h-clearfix">
+		<div class="icon h-left"></div>
+		<div class="message"></div>
+	</div>
+	<div class="b-button-group">
+		<button id="btnConfirmDialogYes" type="button" class="b-button b-button--primary js-button">Yes</button>
+		<button id="btnConfirmDialogNo" type="button" class="b-button b-button--secondary js-button">No</button>
+	</div>
+</div>
+<div id="alert-dialog" class="sb-dialog">
+	<div class="dialog-content h-clearfix">
+		<div class="icon h-left"></div>
+		<div class="message"></div>
+	</div>
+	<div class="b-button-group">
+		<button id="btnAlertDialogOK" type="button" class="b-button b-button--primary js-button">OK</button>
+	</div>
+</div>
+<div id="prompt-dialog" class="sb-dialog">
+	<div class="dialog-content table h-clearfix">
+		<div class="message td"></div>
+		<div class="input-box-container td">
+			<input type="text" class="input-box textbox" />
+			<textarea class="input-box textbox h-hide" rows="3"></textarea>
+		</div>
+	</div>
+	<div class="js-prompt-error h-hide"></div>
+	<div class="b-button-group">
+		<button id="btnPromptDialogOK" type="button" class="b-button b-button--primary js-button">OK</button>
+		<button id="btnPromptDialogCancel" type="button" class="b-button b-button--secondary js-button">Cancel</button>
+	</div>
+</div>
+<div id="slideshow-dialog" class="sb-dialog slideshow">
+	<div class="b-icon b-icon__x-square--gray close-btn">X</div>
+	<div class="slideshow-wrapper"></div>
+	<div class="caption"></div>
+	<div class="thumbnails-wrapper">
+		<div class="thumbnails"></div>
+	</div>
+
+</div>
+
+<div class="unsubscribe-overlay-container"></div>
+
+<div id="fb-root" data-facebook-language="en_US"></div>
+
+
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+
+<script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="js/jquery/jquery-3.5.1.min.js"><\/script>');</script>
+
+<script type="text/javascript" src="js/footer-rollup-564.js"></script>
+
+
+
+<script type="text/javascript">
+	
+		window.vBulletin = window.vBulletin || {};
+	
+		vBulletin.version = '5.6.4';
+</script>
+
+
+
+
+
+
+<script type="text/javascript" src="js/login.js?v=564"></script>
+</body>
+</html>

@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+
+<html  lang="en-US">
+	
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="generator" content="Theme: Vogue by Creative-Dive | Version: 2.0" />
+    <!-- Theme support: Vogue by Creative-Dive | Version: 2.0 | Installed: Vogue CD | Mode: User | WP: 5.4.4 -->
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://thebestfashionblog.com/xmlrpc.php">
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Best Fashion Blog | All Your Fashion Needs in One Place</title>
+	<meta name="description" content="Have a look at our blog for the latest fashion trends and stay up to date with fashionable trends to stay looking slick and sassy." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://thebestfashionblog.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="The Best Fashion Blog | All Your Fashion Needs in One Place" />
+	<meta property="og:description" content="Have a look at our blog for the latest fashion trends and stay up to date with fashionable trends to stay looking slick and sassy." />
+	<meta property="og:url" content="https://thebestfashionblog.com/" />
+	<meta property="og:site_name" content="The Best Fashion Blog" />
+	<meta property="article:modified_time" content="2020-12-14T16:52:19+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" value="Written by">
+	<meta name="twitter:data1" value="Caro">
+	<meta name="twitter:label2" value="Est. reading time">
+	<meta name="twitter:data2" value="0 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://thebestfashionblog.com/#website","url":"https://thebestfashionblog.com/","name":"The Best Fashion Blog","description":"All Your Fashion Needs In One Place","potentialAction":[{"@type":"SearchAction","target":"https://thebestfashionblog.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://thebestfashionblog.com/#webpage","url":"https://thebestfashionblog.com/","name":"The Best Fashion Blog | All Your Fashion Needs in One Place","isPartOf":{"@id":"https://thebestfashionblog.com/#website"},"datePublished":"2020-11-01T11:02:20+00:00","dateModified":"2020-12-14T16:52:19+00:00","description":"Have a look at our blog for the latest fashion trends and stay up to date with fashionable trends to stay looking slick and sassy.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://thebestfashionblog.com/"]}]}]}</script>
+	<meta name="google-site-verification" content="Iu3TOKHcvqpa0o4KYa2uEo1VbSGOIteS3bYR3vbW8FM" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Best Fashion Blog &raquo; Feed" href="https://thebestfashionblog.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Best Fashion Blog &raquo; Comments Feed" href="https://thebestfashionblog.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thebestfashionblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://thebestfashionblog.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://thebestfashionblog.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='vogue_cd_webfonts-css'  href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Montserrat:400,500,600,700&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gutenberg-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/gutenberg-less.css?ver=1612308295' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://thebestfashionblog.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/css/animate.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/css/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/style-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='button-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/button-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='color-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/color-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-second-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/menu-second-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='footerbar-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/footerbar-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='form-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/form-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='subscription-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/subscription-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='loading-screen-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/loading-screen.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='spinner-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/spinner.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='recipes-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/recipes-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='cookieconsent-css'  href='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/css/cookieconsent.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-banner-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/cookie-banner-less.css?ver=1612308296' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-less-css'  href='https://thebestfashionblog.com/wp-content/uploads/wp-less-cache/theme-less.css?ver=1612308296' type='text/css' media='all' />
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://thebestfashionblog.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thebestfashionblog.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thebestfashionblog.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.4" />
+<link rel='shortlink' href='https://thebestfashionblog.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://thebestfashionblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthebestfashionblog.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://thebestfashionblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthebestfashionblog.com%2F&#038;format=xml" />
+                <!-- auto ad code generated with Easy Google AdSense plugin v1.0.3 -->
+                <script data-ad-client="ca-pub-5138210152799247" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>      
+                <!-- / Easy Google AdSense plugin --><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171629592-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171629592-1');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFXSM5J');</script>
+<!-- End Google Tag Manager -->
+<script data-ad-client="ca-pub-5138210152799247" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>			<link rel="shortcut icon" href="https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/img/favicon.ico">
+		</head>
+
+<body class="home page-template-default page page-id-2082 wp-embed-responsive frontend content-center menu-style-2 btn-rounded-2 ">
+	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFXSM5J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<div class="logo-overlay">
+			<div class="logo-overlay-img">
+
+					
+	<div class="spinner dual-ring"></div>
+	
+			</div>
+		</div>
+
+		
+	<div class="page-wrapper">
+		<div class="page-wrapper-in">
+			
+			<div class="top-wrapper">
+
+				
+	<div class="main-logo logo-above">
+		<div class="container">
+			<a href="https://thebestfashionblog.com/" rel="home" class="logo">
+				<img width="768" height="715" src="https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301-768x715.png" class="attachment-medium_large size-medium_large" alt="logo for best fashion blog" style="width:200px" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301-768x715.png 768w, https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301-300x279.png 300w, https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301.png 822w" sizes="(max-width: 768px) 100vw, 768px" />			</a>
+		</div>
+	</div>
+
+
+<header class="navbar navbar-fixed-top">
+	<div class="container">
+
+		<div class="navbar-header">
+
+			
+<div class="mobile-menu-spacer">
+
+	<div class="mobile-menu-logo">
+		
+		
+		<a href="https://thebestfashionblog.com/" rel="home" class="logo logo-mobile">
+			<img width="768" height="715" src="https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301-768x715.png" class="attachment-medium_large size-medium_large" alt="logo for best fashion blog" style="width:200px" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301-768x715.png 768w, https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301-300x279.png 300w, https://thebestfashionblog.com/wp-content/uploads/2020/09/logo-best-fashion-blog-e1600269543301.png 822w" sizes="(max-width: 768px) 100vw, 768px" />		</a>
+		
+	</div>
+		
+	<div class="mobile-menu-icons">
+
+		
+			<button class="nav-icon top-search">
+				<i class="fa fa-search"></i>
+			</button>
+
+		
+		<button type="button" class="nav-icon navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+			<div class="mobile-menu-icon">
+				<div class="bar1"></div>
+				<div class="bar2"></div>
+				<div class="bar3"></div>
+			</div>
+		</button>
+
+	</div>
+	
+</div>
+		</div>
+
+					<div class="mobile-search">
+				<div class="mobile-search-form">
+					<form role="search" method="get" class="search-form" action="https://thebestfashionblog.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>					
+					<div class="mobile-search-close">
+						<span>&times;</span>
+					</div>
+				</div>
+				<div class="mobile-search-overlay"></div>
+			</div>
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse">
+
+			
+	<div class="navbar-icons">
+		<div class="navbar-icons-wrapper">
+
+			
+				<button class="nav-icon top-search">
+					<i class="fa fa-search"></i>
+				</button>
+
+			
+		</div>
+	</div>
+
+<div id="primary-menu" class="main-menu"><ul id="menu-main-menu" class="nav navbar-nav navbar-right"><li id="menu-item-2099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2082 current_page_item menu-item-2099"><a href="https://thebestfashionblog.com/" aria-current="page"><span>Home</span></a></li>
+<li id="menu-item-737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-737"><a href="https://thebestfashionblog.com/womens-fashion/"><span>Women&#8217;s Fashion</span></a></li>
+<li id="menu-item-738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-738"><a href="https://thebestfashionblog.com/womens-hairstyles/"><span>Women&#8217;s Hairstyles</span></a></li>
+<li id="menu-item-739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-739"><a href="https://thebestfashionblog.com/mens-fashion/"><span>Men&#8217;s Fashion</span></a></li>
+<li id="menu-item-740" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-740"><a href="https://thebestfashionblog.com/mens-hairstyles/"><span>Men&#8217;s Hairstyles</span></a></li>
+<li id="menu-item-3296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3296"><a href="https://thebestfashionblog.com/about-us/"><span>About Us</span></a></li>
+</ul></div>
+		</div>
+		
+	</div>
+</header>
+
+				
+
+			</div>
+
+							<div class="content" id="content-scroll">		
+    <section class="post-2082 page type-page status-publish hentry post-type-body">
+        <div class="container">
+
+                        <div class="has-sidebar col-md-9 has-sidebar-right">
+        
+                <article id="page-2082" class="page-body">
+
+                                <header class="page-header">
+                <h1 itemprop="headline">Home</h1>            </header>
+        
+            <div class="wpcontent showtop">        
+                
+<h2><strong><a href="https://thebestfashionblog.com/womens-fashion/" target="_blank" rel="noreferrer noopener">WOMEN&#8217;S FASHION</a></strong></h2>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><ul class="wp-block-latest-posts wp-block-latest-posts__list aligncenter is-grid columns-3"><li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/chirstmas-gifts-for-your-boyfriend-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="new year christmas gifts for your boyfriend" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/chirstmas-gifts-for-your-boyfriend-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/chirstmas-gifts-for-your-boyfriend-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/top-new-year-christmas-gifts-for-your-boyfriend/">Top New Year Christmas Gifts For Your Boyfriend</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/street-style-for-women-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="new york street style for women" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/street-style-for-women-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/street-style-for-women-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/new-york-street-style-for-women/">New York Street Style For Women</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/long-elbow-gloves-with-elegant-evening-dresses-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="fashion trend long elbow gloves*" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/long-elbow-gloves-with-elegant-evening-dresses-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/long-elbow-gloves-with-elegant-evening-dresses-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/fashion-trend-long-elbow-gloves/">Fashion Trend: Long Elbow Gloves</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-urban-style-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="urban style women&#039;s wear" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-urban-style-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-urban-style-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/urban-style-womens-wear/">Urban Style Women&#8217;s Wear</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-high-boots-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="women&#039;s tall high boots" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-high-boots-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-high-boots-150x150.jpg 150w, https://thebestfashionblog.com/wp-content/uploads/2020/12/womens-high-boots.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/tall-high-boots-for-women/">Tall High Boots For Women</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/winter-gloves-for-women-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="winter gloves buying guide for women" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/winter-gloves-for-women-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/winter-gloves-for-women-150x150.jpg 150w, https://thebestfashionblog.com/wp-content/uploads/2020/12/winter-gloves-for-women-768x768.jpg 768w, https://thebestfashionblog.com/wp-content/uploads/2020/12/winter-gloves-for-women.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/winter-gloves-buying-guide-for-women/">Winter Gloves Buying Guide For Women</a></li>
+</ul></div></div>
+
+
+
+<p></p>
+
+
+
+<h2><a href="https://thebestfashionblog.com/womens-hairstyles/">Women&#8217;s Hairstyles</a></h2>
+
+
+
+<p></p>
+
+
+<ul class="wp-block-latest-posts wp-block-latest-posts__list is-grid columns-3"><li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/chic-short-jagged-haircut-for-women-1-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="jagged long haircuts for women" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/chic-short-jagged-haircut-for-women-1-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/chic-short-jagged-haircut-for-women-1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/jagged-haircuts-for-women/">Jagged Haircuts For Women</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/reverse-ombre-brown-lowlights-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="reverse ombre blonde hair color with brown lowlights" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/reverse-ombre-brown-lowlights-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/reverse-ombre-brown-lowlights-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/reverse-ombre-blonde-hair-brown-lowlights/">Reverse Ombre: Blonde Hair &#038; Brown Lowlights</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/ginger-red-hair-for-women-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="ginger &amp; red hair looks" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/ginger-red-hair-for-women-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/ginger-red-hair-for-women-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/ginger-red-hair-looks-for-women/">Ginger &#038; Red Hair Looks For Women</a></li>
+</ul>
+
+
+<p></p>
+
+
+
+<h2><strong><a href="https://thebestfashionblog.com/mens-fashion/">MEN&#8217;S FASHION</a></strong></h2>
+
+
+
+<p></p>
+
+
+<ul class="wp-block-latest-posts wp-block-latest-posts__list is-grid columns-3"><li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-v-neck-sweater-outfits-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="men&#039;s v-neck sweaters for fall-winter" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-v-neck-sweater-outfits-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-v-neck-sweater-outfits-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/mens-v-neck-sweaters-for-fall-winter/">Men&#8217;s V-neck Sweaters For Fall-Winter</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/classic-celebrities-style-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="celebrities style" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/classic-celebrities-style-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/classic-celebrities-style-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/celebrities-style-of-clothing/">Celebrities Style Of Clothing</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-cardigan-sweaters-1-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-cardigan-sweaters-1-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-cardigan-sweaters-1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/mens-cardigan-sweaters/">Men&#8217;s Cardigan Sweaters</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-puffer-vests-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="men&#039;s puffer vests for winter" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-puffer-vests-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/12/mens-puffer-vests-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/mens-puffer-vests-for-winter/">Men&#8217;s Puffer Vests For Winter</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/11/leather-jackets-for-men-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="leather jackets for men" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/11/leather-jackets-for-men-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/11/leather-jackets-for-men-150x150.jpg 150w, https://thebestfashionblog.com/wp-content/uploads/2020/11/leather-jackets-for-men-570x568.jpg 570w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/casual-leather-jacket-for-men/">Casual Leather Jacket For Men</a></li>
+<li><div class="wp-block-latest-posts__featured-image aligncenter"><img width="300" height="300" src="https://thebestfashionblog.com/wp-content/uploads/2020/11/mens-casual-smart-looks-for-spring-summer-300x300.jpg" class="attachment-vogue_cd_square_medium size-vogue_cd_square_medium wp-post-image" alt="men&#039;s smart casual style for spring summer season" style="" srcset="https://thebestfashionblog.com/wp-content/uploads/2020/11/mens-casual-smart-looks-for-spring-summer-300x300.jpg 300w, https://thebestfashionblog.com/wp-content/uploads/2020/11/mens-casual-smart-looks-for-spring-summer-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div><a href="https://thebestfashionblog.com/mens-smart-casual-style-for-spring-summer/">Men&#8217;s Smart Casual Style For Spring-Summer</a></li>
+</ul>            
+            </div>
+        
+        
+                </article>
+
+                            </div>
+
+            <div class="sidebar col-md-3 sidebar-right">
+                		<aside id="recent-posts-2" class="widget-side widget_recent_entries">		<div class="widget-title">Recent Posts</div>		<ul>
+											<li>
+					<a href="https://thebestfashionblog.com/top-new-year-christmas-gifts-for-your-boyfriend/">Top New Year Christmas Gifts For Your Boyfriend</a>
+									</li>
+											<li>
+					<a href="https://thebestfashionblog.com/new-york-street-style-for-women/">New York Street Style For Women</a>
+									</li>
+											<li>
+					<a href="https://thebestfashionblog.com/fashion-trend-long-elbow-gloves/">Fashion Trend: Long Elbow Gloves</a>
+									</li>
+											<li>
+					<a href="https://thebestfashionblog.com/mens-v-neck-sweaters-for-fall-winter/">Men&#8217;s V-neck Sweaters For Fall-Winter</a>
+									</li>
+											<li>
+					<a href="https://thebestfashionblog.com/jagged-haircuts-for-women/">Jagged Haircuts For Women</a>
+									</li>
+					</ul>
+		</aside><aside id="categories-2" class="widget-side widget_categories"><div class="widget-title">Categories</div>		<ul>
+				<li class="cat-item cat-item-18"><a href="https://thebestfashionblog.com/mens-fashion/" title="Check out the latest men&#039;s fashion style trends, find tips and ideas to add a new trendy touch to your personal style.">Men&#039;s Fashion</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://thebestfashionblog.com/mens-hairstyles/" title="Check out the latest trends for men&#039;s hairstyles, find tips and ideas to add a new trendy touch to your personal style.">Men&#039;s Hairstyles</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://thebestfashionblog.com/womens-fashion/" title="In this category you&#039;ll find all types of articles related with women&#039;s fashion, we update our categories daily with new articles, so stay tuned.">Women&#039;s Fashion</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://thebestfashionblog.com/womens-hairstyles/" title="In this category you&#039;ll find all types of trendy women&#039;s hairstyles, tips and fresh ideas to inspire you to add a fresh touch to your personal style.">Women&#039;s Hairstyles</a>
+</li>
+		</ul>
+			</aside>            </div>
+        
+        </div>
+    </section>
+        
+
+			</div>
+			<footer>
+
+				
+	
+		<section class="footer text-center only-one-item">
+			<div class="container">
+
+										<div class="left">
+
+							<div id="footer-menu" class="footer-menu"><ul id="menu-footer-menu" class="footer-menu-list"><li id="menu-item-2096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2096"><a href="https://thebestfashionblog.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097"><a href="https://thebestfashionblog.com/contact-us/">Contact Us</a></li>
+</ul></div>
+						</div>
+					
+					<div class="copyright" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+
+						&copy; 2020-2021							- <span itemprop="name">The Best Fashion Blog</span>
+						
+					</div>
+				
+			</div>
+		</section>
+
+	
+			</footer>
+
+		</div>	</div>				
+		<div class="top-search-form">
+			<div class="top-search-form-wrapper">
+				<div class="top-search-form-center">
+					<form role="search" method="get" class="search-form" action="https://thebestfashionblog.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</div>
+			</div>
+		</div>
+				
+	
+			<div id="login-register-popup" class="popup modal fade text-center" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog" role="document">					
+					<div class="modal-content login-register-content">
+						
+						<div class="modal-header">
+							<span class="close" data-dismiss="modal" aria-label="Close">&times;</span>
+							<div class="h2-title">
+								Login							</div>
+						</div>
+						
+						<div class="modal-body">
+																<div class="tab-content">
+										<div id="tab-wp_login" class="tab-pane fade in active">
+											
+		<form name="wp_loginform" id="wp_loginform" action="https://thebestfashionblog.com/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="wp_user_login">Username or Email Address</label>
+				<input type="text" name="log" id="wp_user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="wp_user_pass">Password</label>
+				<input type="password" name="pwd" id="wp_user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="wp_rememberme" value="forever" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp_login_submit" class="button button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="https://thebestfashionblog.com/" />
+			</p>
+			
+		</form>											<p>
+												<a href="https://thebestfashionblog.com/wp-login.php?action=lostpassword">Lost your password?</a>
+											</p>
+										</div>
+																			</div>
+						
+														</div>
+						
+					</div>
+				</div>
+			</div>
+
+				<div class="scrolltop"></div>
+				
+		<div id="cookie-banner"></div>
+				
+	
+	<div class="mobile-check"></div>
+	<div class="mobile-check-992"></div>
+
+	<style type="text/css">.saboxplugin-wrap{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;border:1px solid #eee;width:100%;clear:both;display:block;overflow:hidden;word-wrap:break-word;position:relative}.saboxplugin-wrap .saboxplugin-gravatar{float:left;padding:20px}.saboxplugin-wrap .saboxplugin-gravatar img{max-width:100px;height:auto;border-radius:0;}.saboxplugin-wrap .saboxplugin-authorname{font-size:18px;line-height:1;margin:20px 0 0 20px;display:block}.saboxplugin-wrap .saboxplugin-authorname a{text-decoration:none}.saboxplugin-wrap .saboxplugin-authorname a:focus{outline:0}.saboxplugin-wrap .saboxplugin-desc{display:block;margin:5px 20px}.saboxplugin-wrap .saboxplugin-desc a{text-decoration:underline}.saboxplugin-wrap .saboxplugin-desc p{margin:5px 0 12px}.saboxplugin-wrap .saboxplugin-web{margin:0 20px 15px;text-align:left}.saboxplugin-wrap .sab-web-position{text-align:right}.saboxplugin-wrap .saboxplugin-web a{color:#ccc;text-decoration:none}.saboxplugin-wrap .saboxplugin-socials{position:relative;display:block;background:#fcfcfc;padding:5px;border-top:1px solid #eee}.saboxplugin-wrap .saboxplugin-socials a svg{width:20px;height:20px}.saboxplugin-wrap .saboxplugin-socials a svg .st2{fill:#fff; transform-origin:center center;}.saboxplugin-wrap .saboxplugin-socials a svg .st1{fill:rgba(0,0,0,.3)}.saboxplugin-wrap .saboxplugin-socials a:hover{opacity:.8;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;box-shadow:none!important;-webkit-box-shadow:none!important}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color{box-shadow:none;padding:0;border:0;-webkit-transition:opacity .4s;-moz-transition:opacity .4s;-o-transition:opacity .4s;transition:opacity .4s;display:inline-block;color:#fff;font-size:0;text-decoration:inherit;margin:5px;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0;border-radius:0;overflow:hidden}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey{text-decoration:inherit;box-shadow:none;position:relative;display:-moz-inline-stack;display:inline-block;vertical-align:middle;zoom:1;margin:10px 5px;color:#444;fill:#444}.clearfix:after,.clearfix:before{content:' ';display:table;line-height:0;clear:both}.ie7 .clearfix{zoom:1}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitch{border-color:#38245c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-addthis{border-color:#e91c00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-behance{border-color:#003eb0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-delicious{border-color:#06c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-deviantart{border-color:#036824}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-digg{border-color:#00327c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-dribbble{border-color:#ba1655}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-facebook{border-color:#1e2e4f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-flickr{border-color:#003576}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-github{border-color:#264874}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-google{border-color:#0b51c5}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-googleplus{border-color:#96271a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-html5{border-color:#902e13}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-instagram{border-color:#1630aa}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-linkedin{border-color:#00344f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-pinterest{border-color:#5b040e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-reddit{border-color:#992900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-rss{border-color:#a43b0a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-sharethis{border-color:#5d8420}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-skype{border-color:#00658a}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-soundcloud{border-color:#995200}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-spotify{border-color:#0f612c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stackoverflow{border-color:#a95009}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-steam{border-color:#006388}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-user_email{border-color:#b84e05}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-stumbleUpon{border-color:#9b280e}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-tumblr{border-color:#10151b}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-twitter{border-color:#0967a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vimeo{border-color:#0d7091}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-windows{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-whatsapp{border-color:#003f71}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-wordpress{border-color:#0f3647}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-yahoo{border-color:#14002d}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-youtube{border-color:#900}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-xing{border-color:#000202}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mixcloud{border-color:#2475a0}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-vk{border-color:#243549}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-medium{border-color:#00452c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-quora{border-color:#420e00}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-meetup{border-color:#9b181c}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-goodreads{border-color:#000}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-snapchat{border-color:#999700}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-500px{border-color:#00557f}.saboxplugin-socials.sabox-colored .saboxplugin-icon-color .sab-mastodont{border-color:#185886}.sabox-plus-item{margin-bottom:20px}@media screen and (max-width:480px){.saboxplugin-wrap{text-align:center}.saboxplugin-wrap .saboxplugin-gravatar{float:none;padding:20px 0;text-align:center;margin:0 auto;display:block}.saboxplugin-wrap .saboxplugin-gravatar img{float:none;display:inline-block;display:-moz-inline-stack;vertical-align:middle;zoom:1}.saboxplugin-wrap .saboxplugin-desc{margin:0 10px 20px;text-align:center}.saboxplugin-wrap .saboxplugin-authorname{text-align:center;margin:10px 0 20px}}body .saboxplugin-authorname a,body .saboxplugin-authorname a:hover{box-shadow:none;-webkit-box-shadow:none}a.sab-profile-edit{font-size:16px!important;line-height:1!important}.sab-edit-settings a,a.sab-profile-edit{color:#0073aa!important;box-shadow:none!important;-webkit-box-shadow:none!important}.sab-edit-settings{margin-right:15px;position:absolute;right:0;z-index:2;bottom:10px;line-height:20px}.sab-edit-settings i{margin-left:5px}.saboxplugin-socials{line-height:1!important}.rtl .saboxplugin-wrap .saboxplugin-gravatar{float:right}.rtl .saboxplugin-wrap .saboxplugin-authorname{display:flex;align-items:center}.rtl .saboxplugin-wrap .saboxplugin-authorname .sab-profile-edit{margin-right:10px}.rtl .sab-edit-settings{right:auto;left:0}img.sab-custom-avatar{max-width:75px;}.saboxplugin-wrap .saboxplugin-desc a, .saboxplugin-wrap .saboxplugin-desc  {color:0 !important;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey {color:0; fill:0;}.saboxplugin-wrap .saboxplugin-authorname a,.saboxplugin-wrap .saboxplugin-authorname span {color:0;}.saboxplugin-wrap {margin-top:0px; margin-bottom:0px; padding: 0px 0px }.saboxplugin-wrap .saboxplugin-authorname {font-size:18px; line-height:25px;}.saboxplugin-wrap .saboxplugin-desc p, .saboxplugin-wrap .saboxplugin-desc {font-size:14px !important; line-height:21px !important;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials a svg {width:18px;height:18px;}</style><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/thebestfashionblog.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/wow.min.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/cookieconsent.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WP_JS_Var_CookieBanner = {"cookie_position":"bottom","cookie_policy_btn":"1","cookie_policy_label":"Privacy Policy","cookie_policy_url":"https:\/\/thebestfashionblog.com\/privacy-policy\/","cookie_title":"Yep, we like cookies, and we use them!","cookie_msg":"This website uses cookies to ensure you get the best experience while browsing our website.","accept_btn":"1","accept_label":"I understand","accept_timeout":"","accept_scroll":"","cookie_animate_hide":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/cookie-banner.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/jquery.countdown.min.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/simpleParallax.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_ajax_data = {"wp_ajax_url":"https:\/\/thebestfashionblog.com\/wp-admin\/admin-ajax.php"};
+var wp_ajax_data = {"wp_ajax_url":"https:\/\/thebestfashionblog.com\/wp-admin\/admin-ajax.php","codes":{"SUCCESS":1,"ALREADY_VOTED":0,"UNKNOWN":-1,"ERROR":2},"messages":{"success":"Thanks for rating.","already_voted":"You have already voted.","unknown":"An error has occurred.","error":"It is something went wrong, try again."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/main.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/ajax-search.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WP_JS_Var_Custom = {"disable_sticky_menu":"","cookie_status_check":"","cookie_status_txt":"Your browser does not accept cookies! Please enable cookies in your browser settings to continue.","dropcap_show":"","dropcap_recipe_show":"","dropcap_post_list":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-content/themes/vogue-cd/assets/js/custom-js.js'></script>
+<script type='text/javascript' src='https://thebestfashionblog.com/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+	
+</body>
+</html>

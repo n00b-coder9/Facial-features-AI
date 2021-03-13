@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="unsupported-ie ie" lang="no"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="no"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="no"><!--<![endif]-->
+<head>                                  
+  
+    <title>Høgskolen i Innlandet</title>  
+<meta property="fb:app_id" content="1848425748792914" />
+
+<meta property="og:url" content="https://www.inn.no" />
+    <meta property="og:type" content="website" />
+
+            <meta property="og:title" content="Høgskolen i Innlandet" />
+    
+            <meta property="og:description" content="Vi tilbyr forskningsbasert utdanning på bachelor-, master- og ph.d.-nivå og et bredt utvalg av etter- og videreutdanninger." />
+    
+      
+<meta name="twitter:card" content="summary" />
+            <meta name="twitter:title" content="Høgskolen i Innlandet" />
+    
+            <meta name="twitter:description" content="Vi tilbyr forskningsbasert utdanning på bachelor-, master- og ph.d.-nivå og et bredt utvalg av etter- og videreutdanninger." />
+    
+          <meta name="keywords" content="utdanning, forskning, lærer, førskolelærer, sykepleier, idrett, skog, landbruk, jakt, helse, musikk, musikkproduksjon, økonomi, ledelse, regnskap, revisjon, bioteknologi, animasjon, spill">
+        <meta name="description" content="Vi tilbyr forskningsbasert utdanning på bachelor-, master- og ph.d.-nivå og et bredt utvalg av etter- og videreutdanninger." />
+  
+
+
+
+
+        
+<link rel="Home" href="/" title="Hovedside" />
+<link rel="Index" href="/" />
+<link rel="Search" href="/content/search" title="Søk Nettvisning" />    <link rel="Shortcut icon" href="/extension/hihm_main/design/hihm_main/images/favicon.ico" type="image/x-icon" /><link rel="Alternate" type="application/rss+xml" title="RSS" href="/rss/feed/my_feed" />
+
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/layout/set/print" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Utskriftsversjon";
+    head.appendChild(printNode);
+})();
+</script>
+    
+    <meta name="google-site-verification" content="6hZDCMVnNlyp4qDXP0NlPgDACYp0DwHyrSWfdKAvdPA" />
+
+
+<style type="text/css">
+.limitdisplay-user { display: none; }.limitdisplay-user-10 { display: inline; }.limitdisplay-user-block-10 { display: block; }</style>  <script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/c0619d1372ed2363a97e3defb41bd4f6.js" charset="utf-8"></script>
+            
+<script>
+    
+        window.dataLayer = window.dataLayer || [{
+            'consent_analytics': eval(window.getCookieValue('consent_analytics')),
+            'consent_marketing': eval(window.getCookieValue('consent_marketing')),
+    
+            }];
+</script>
+    
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K75JQ9Q');</script>
+<!-- End Google Tag Manager -->
+
+    
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
+
+
+  
+<link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/304677f47ef03ce7b5cd54d931d78e6f_all.css" />
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/f41b0579b226d7e66ec0feafad20d6d5_all.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css"/>        <link rel="apple-touch-icon" sizes="180x180" href="/extension/hihm_main/design/hihm_main/images//apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/extension/hihm_main/design/hihm_main/images//android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/extension/hihm_main/design/hihm_main/images//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/extension/hihm_main/design/hihm_main/images//favicon-16x16.png">
+<link rel="manifest" href="/extension/hihm_main/design/hihm_main/images//site.webmanifest">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/extension/hihm_main/design/hihm_main/images//mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+
+
+<body class="">
+<div id="svg-icons" style="display:none;"></div>
+    <!-- Complete page area: START -->
+    
+    
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K75JQ9Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="page" class="nosidemenu noextrainfo section_id_10 subtree_level_0_node_id_2 subtree_level_1_node_id_1498" itemscope itemtype="https://schema.org/WebPage">
+    
+
+    
+    <!-- Toolbar area: START -->
+        <!-- Toolbar area: END -->
+
+    <!-- Header area: START -->
+    
+  
+<header class="header" role="banner">
+  <div class="container">
+    <div class="header__wrapper">
+        <div class="header__logo">
+    <a href="/" class="header__logo-image" title="Nettvisning">
+      <img src="/extension/hihm_main/design/hihm_main/images/logo-INN.svg" alt="Logo INN">
+      <span class="visuallyhidden" itemprop="name">Høgskolen<br /> i Innlandet</span>
+    </a>
+    <span class="header__logo-title">Høgskolen<br /> i Innlandet</span>
+  </div>
+
+      <div class="header__controls">
+  <div class="top-search">
+  <div class="top-search__view">
+    <div class="top-search__search">
+      <svg class="icon">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#search"></use>
+      </svg>
+    </div>
+    <div class="top-search__field">
+      <form class="top-search__form" method="get" action="/content/search" role="search">
+                  <input class="top-search__input" type="text" title="Søk" name="SearchText" id="site-wide-search-field" />
+                        </form>
+    </div>
+    <div class="top-search__close">
+      <svg class="icon icon-search-close">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#clear-button"></use>
+      </svg>
+    </div>
+  </div>
+  <div class="top-search__text">Søk</div>
+</div>  <div class="top-menu">
+    <span class="top-menu__icon">
+      <span class="hamburger">
+        <span class="hamburger__box">
+          <span class="hamburger__rib hamburger__rib--1"></span>
+          <span class="hamburger__rib hamburger__rib--2"></span>
+          <span class="hamburger__rib hamburger__rib--3"></span>
+          <span class="hamburger__rib hamburger__rib--4"></span>
+        </span>
+      </span>
+    </span>
+    <span class="top-menu__text">Meny</span>
+    <span class="top-menu__text-on-open">Lukk</span>
+  </div>
+</div>    </div>
+  </div>
+  <div class="header__dropdown">
+    <div class="container">
+      <hr class="header__divider"/>
+        <div class="header__page-nav">
+      <ul class="header__page-nav-list">
+                              <li class="header__page-nav-item">
+                              <a class="header__page-nav-link" href="/studier"><span>Studier</span></a>
+                          </li>
+                                        <li class="header__page-nav-item">
+                              <a class="header__page-nav-link" href="/student"><span>Student</span></a>
+                          </li>
+                                        <li class="header__page-nav-item">
+                              <a class="header__page-nav-link" href="/forskning"><span>Forskning</span></a>
+                          </li>
+                                        <li class="header__page-nav-item">
+                              <a class="header__page-nav-link" href="/samarbeid-og-oppdrag"><span>Samarbeid og oppdrag</span></a>
+                          </li>
+                                        <li class="header__page-nav-item">
+                              <a class="header__page-nav-link" href="/etter-og-videreutdanning"><span>Etter- og videreutdanning</span></a>
+                          </li>
+                                        <li class="header__page-nav-item">
+                              <a class="header__page-nav-link" href="/om-hoegskolen"><span>Om høgskolen</span></a>
+                          </li>
+                                          </ul>
+  </div>
+      
+<div class="header__control-nav" role="navigation">
+  <div class="control-nav">
+    <ul class="control-nav__list">
+              <li class="control-nav__item control-nav__item--user">
+            <a class="control-nav__link" href="/om-hoegskolen/for-studenter-og-ansatte"><span>Innlogginger</span></a>
+        </li>
+                                                                                                                                <li class="control-nav__item">
+                <a class="control-nav__link" href="/bibliotek"><span>Bibliotek</span></a>
+              </li>
+                        
+              <li class="control-nav__item">
+                      <a class="control-nav__link" href="/kvalitet"><span>Kvalitetssystem</span></a>
+                  </li>
+      
+      <li class="control-nav__item">
+        <a class="control-nav__link" rel="nofollow" href="/content/view/sitemap/1498" title="Sidekart"><span>Sidekart</span></a>
+      </li>
+      <li class="control-nav__item font-adjust">
+        <span class="font-adjust__chars js-font-adjust" role="presentation"><span class="font-adjust__char--small">A</span><span class="font-adjust__char--medium">A</span><span class="font-adjust__char--large">A</span></span>
+        <div class="font-adjust__text">
+          <div class="font-adjust__text__box container">
+            For å endre tekststørrelsen, hold inne <kbd>Ctrl</kbd> (Windows/Linux) eller <kbd>Cmd</kbd> (Mac) og trykk på <kbd>+</kbd> for å forstørre eller <kbd>-</kbd> for å forminske
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+
+      <div class="control-nav">
+      <h4 class="control-nav__title">Language</h4>
+      <ul class="control-nav__list">
+        <li class="control-nav__item">
+                      <a class="control-nav__link" href="https://eng.inn.no" lang="en"><span>English</span></a>
+                  </li>
+      </ul>
+    </div>
+  
+</div>
+    </div>
+  </div>
+</header>    <!-- Header area: END -->
+
+    
+    <!-- Language bar area: START -->
+        <div class="language">
+        <div class="container">
+            <div class="language__bar">
+                Language: <a href="https://www.inn.no" lang="no">NOR</a> | <a href="https://eng.inn.no" lang="en">ENG</a>
+            </div>
+        </div>
+    </div>    <!-- Language bar area: END -->
+
+    <!-- Columns area: START -->
+        <!-- Side menu area: START -->
+                <!-- Side menu area: END -->
+                <!-- Main area: START -->
+        
+
+
+
+<main class="main" id="main">
+    
+
+
+
+
+                            
+    
+    <div class="hero">
+ <div class="container">
+    <div class="hero__wrapper">
+        <div class="swiper-container hero-swiper hero-slider">
+            <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                        <div class="hero__item slide-0 hero__item-small" style="background-image:url('/var/ezflow_site/storage/images/media/bilder/heroslider2/moet-oss-paa-digitale-messer/3251409-3-nor-NO/moet-oss-paa-digitale-messer_w1175.jpg');">
+                            <div class="hero__content">
+                                <h1 class="hero__title">
+                                    <a class="" href="https://www.inn.no/om-hoegskolen/nyheter/moet-oss-paa-digitale-messer" title="Møt oss på digitale messer!">
+                                        Møt oss på digitale messer!
+                                    </a>
+                                </h1>
+                                                                    <div class="hero__body">
+                                        
+<p>12. januar - 18. februar&nbsp;</p>                                    </div>
+                                                            </div>
+                        </div>  
+                    </div>
+                                    <div class="swiper-slide">
+                        <div class="hero__item slide-1 hero__item-small" style="background-image:url('/var/ezflow_site/storage/images/hovedsiden/studier/finn-ditt-droemmestudium/3251064-3-nor-NO/finn-ditt-droemmestudium_w1175.jpg');">
+                            <div class="hero__content">
+                                <h1 class="hero__title">
+                                    <a class="" href="https://www.inn.no/studier" title="Finn ditt drømmestudium">
+                                        Finn ditt drømmestudium
+                                    </a>
+                                </h1>
+                                                            </div>
+                        </div>  
+                    </div>
+                            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+ </div>
+</div>    
+    
+                
+    
+        <div class="section section--attract-inverse">
+    <div class="container">
+        <div class="icon-links">
+            <div class="icon-links__wrapper">
+                                    <div class="icon-links__item">
+                            <div class="icon-links__icon" style="background-color:#4fc34e;">
+                                                                                                                                                                                                                                                                                                        <div class="icon-links__thumb" style="background-image:url('/content/download/164069/2720050/file/4_For-studenter.svg');"></div>
+                                                                                                </div>
+                            <div class="icon-links__name">
+                                <a class="" href="https://www.inn.no/om-hoegskolen/informasjon-om-korona" title="Korona">
+                                    Korona
+                                </a>
+                            </div>
+                        </div>
+                                    <div class="icon-links__item">
+                            <div class="icon-links__icon" >
+                                                                                                                                                                                                                                                                                                        <div class="icon-links__thumb" style="background-image:url('/content/download/164060/2719975/file/5_Studentbloggen.svg');"></div>
+                                                                                                </div>
+                            <div class="icon-links__name">
+                                <a class="" href="https://www.inn.no/student" title="For studenter">
+                                    For studenter
+                                </a>
+                            </div>
+                        </div>
+                                    <div class="icon-links__item">
+                            <div class="icon-links__icon" >
+                                                                                                                                                                                                                                                                                                        <div class="icon-links__thumb" style="background-image:url('/content/download/164066/2720029/file/1_Våre-studier.svg');"></div>
+                                                                                                </div>
+                            <div class="icon-links__name">
+                                <a class="" href="/studier" title="Våre studier">
+                                    Våre studier
+                                </a>
+                            </div>
+                        </div>
+                                    <div class="icon-links__item">
+                            <div class="icon-links__icon" >
+                                                                                                                                                                                                                                                                                                        <div class="icon-links__thumb" style="background-image:url('/content/download/164072/2720071/file/3_Etter-videreutdanning.svg');"></div>
+                                                                                                </div>
+                            <div class="icon-links__name">
+                                <a class="" href="/etter-og-videreutdanning" title="Etter- og videreutdanning">
+                                    Etter- og videreutdanning
+                                </a>
+                            </div>
+                        </div>
+                                    <div class="icon-links__item">
+                            <div class="icon-links__icon" >
+                                                                                                                                                                                                                                                                                                        <div class="icon-links__thumb" style="background-image:url('/content/download/164061/2719982/file/2_Forskning.svg');"></div>
+                                                                                                </div>
+                            <div class="icon-links__name">
+                                <a class="" href="/forskning" title="Forskning">
+                                    Forskning
+                                </a>
+                            </div>
+                        </div>
+                                    <div class="icon-links__item">
+                            <div class="icon-links__icon" >
+                                                                                                                                                                                                                                                                                                        <div class="icon-links__thumb" style="background-image:url('/content/download/164068/2720043/file/6_Samarbeid-oppdrag.svg');"></div>
+                                                                                                </div>
+                            <div class="icon-links__name">
+                                <a class="" href="/samarbeid-og-oppdrag" title="Samarbeid og oppdrag">
+                                    Samarbeid og oppdrag
+                                </a>
+                            </div>
+                        </div>
+                            </div>
+        </div>
+    </div>
+</div>
+    
+    
+                
+    
+    
+<div class="section  ">
+<div class="container">
+
+
+  <h2 class="content-title content-title--space-xl wrapper">Finn et studieprogram</h2>
+  <div class="search-study">
+    <form class="page-form" action="/content/action" method="post"                                                                >
+      <div class="search-study__wrapper">
+
+	    <input type="hidden" name="DestinationURL" value="studier/studietilbud" />
+        <div class="search-study__item search-study__item-full">
+          <div class="search-study__search">
+            <div class="input-group">
+              <input class="input-field" placeholder="Skriv inn ditt søk..." title="Søk" id="keyword" name="(keyword)" type="search" data-name="keyword">
+              <div class="input-group__append">
+                <button class="btn btn--secondary" type="submit"><svg class="icon">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#search"></use>
+                  </svg> Søk</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="search-study__item">
+        <select id="study_cat" name="(study_cat)" title="Fagområde" data-name="studyCat">
+          <option value="" disabled selected>Fagområde</option>
+          <option value="0">Alle</option>
+                      <option value="1">Barnehagelærer</option>
+                      <option value="2">Beredskap og krisehåndtering</option>
+                      <option value="3">Bioteknologi</option>
+                      <option value="4">Film og TV</option>
+                      <option value="5">Helse og sosialfag</option>
+                      <option value="6">Idrett og folkehelse</option>
+                      <option value="7">Innovasjon</option>
+                      <option value="8">Jordbruk</option>
+                      <option value="9">Juss</option>
+                      <option value="10">Ledelse og organisasjon</option>
+                      <option value="11">Lærerutdanninger</option>
+                      <option value="12">Markedsføring og kommunikasjon</option>
+                      <option value="13">Musikk</option>
+                      <option value="14">Pedagogikk</option>
+                      <option value="15">Psykologi</option>
+                      <option value="16">Reiseliv</option>
+                      <option value="17">Samfunnsfag og politikk</option>
+                      <option value="18">Skog- og utmarksforvaltning</option>
+                      <option value="19">Spill og animasjon</option>
+                      <option value="20">Språk og litteratur</option>
+                      <option value="21">Økonomi</option>
+                  </select>
+      </div>
+
+      <div class="search-study__item">
+        <select id="campus" name="(campus)" title="Studiested" data-name="campus">
+          <option value="" disabled selected>Studiested</option>
+          <option value="0">Alle</option>
+          	    
+              <option value="1">Blæstad</option>
+	    
+          	    
+              <option value="2">Elverum</option>
+	    
+          	    
+              <option value="3">Evenstad</option>
+	    
+          	    
+              <option value="4">Hamar</option>
+	    
+          	    
+              <option value="5">Kongsvinger</option>
+	    
+          	    
+              <option value="6">Lillehammer</option>
+	    
+          	    
+              <option value="7">Oslo</option>
+	    
+          	    
+              <option value="8">Rena</option>
+	    
+          	    
+              <option value="9">Studiesenteret.no</option>
+	    
+          	    
+              <option value="10">Annet studiested</option>
+	    
+                  </select>
+      </div>
+
+
+      <div class="search-study__item">
+        <select id="degree" name="(level)" title="Nivå" data-name="programLevel">
+          <option value="" disabled selected>Nivå</option>
+          <option value="0">Alle</option>
+                      
+                           <option value="1">Bachelorgrad</option>
+	                          
+                           <option value="2">Mastergrad</option>
+	                          
+                           <option value="3">Doktorgrad</option>
+	                          
+                           <option value="4">Årsstudium</option>
+	                          
+                           <option value="5">Halvårsstudium</option>
+	                          
+                           <option value="6">Kortere studier</option>
+	                          
+                           <option value="7">Etter- og videreutdanning</option>
+	                          
+                           <option value="8">Kurs uten studiepoeng</option>
+	                      </select>
+      </div>
+      <div class="search-study__item">
+        <select id="scope" name="(scope)" title="Organisering" data-name="scope">
+          <option value="" disabled selected>Organisering</option>
+          <option value="0">Alle</option>
+                      <option value="1">Heltid</option>
+                      <option value="2">Deltid</option>
+                      <option value="3">Samlingsbasert</option>
+                      <option value="6">Betalingsstudium</option>
+                      <option value="7">Kompetanse for kvalitet</option>
+                      <option value="8">Nettbasert</option>
+                  </select>
+      </div>
+
+
+
+      </div>
+    </form>
+  </div>
+
+  <div class="cta wrapper">
+    <a class="cta__link nav-links__link" href="/studier/studietilbud#findcourselist">Vis alle studier <svg class="icon">
+        <use xlink:href="#arrow-right"></use>
+      </svg></a>
+  </div>
+</div>
+</div>    
+    
+                
+    
+      
+
+<div class="section section--attract-inverse">
+  <div class="container">
+    <h2 class="content-title content-title--space-xl wrapper">Nyheter</h2>
+
+        <div class="content-boxes">
+    <div class="content-boxes__wrapper">
+                           <div class="content-boxes__item content-boxes__item--4">
+                  <article>
+      <div class="content-boxes__image">
+      <figure>
+        
+
+    
+        
+    
+                                                                                                                                    <a href="/om-hoegskolen/nyheter/arrangerer-konferanse-om-livslang-laering2">        <img src="/var/ezflow_site/storage/images/hovedsiden/om-hoegskolen/nyheter/arrangerer-konferanse-om-livslang-laering2/3255281-2-nor-NO/arrangerer-konferanse-om-livslang-laering_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="Statsminister Erna Solberg" itemprop="contentUrl" />
+        </a>    
+    
+    
+          </figure>
+    </div>
+    <h3 class="content-boxes__heading">
+    <a href="/om-hoegskolen/nyheter/arrangerer-konferanse-om-livslang-laering2" class="teaser-link">Arrangerer konferanse om livslang læring</a>
+  </h3>
+      <div class="content-boxes__description">
+      16. og 17. februar står Senter for livslang læring (SELL) ved HiNN som arrangør for en virtuell konferanse om livslang læring, Lill...
+    </div>
+  </article>
+            </div>
+                     <div class="content-boxes__item content-boxes__item--4">
+                  <article>
+      <div class="content-boxes__image">
+      <figure>
+        
+
+    
+        
+    
+                                                                                                                                    <a href="/om-hoegskolen/nyheter/naa-kan-du-legge-inn-studieoenskene-dine">        <img src="/var/ezflow_site/storage/images/hovedsiden/om-hoegskolen/nyheter/naa-kan-du-legge-inn-studieoenskene-dine/3255300-1-nor-NO/naa-kan-du-legge-inn-studieoenskene-dine_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="To studenter på biblioteket. " itemprop="contentUrl" />
+        </a>    
+    
+    
+          </figure>
+    </div>
+    <h3 class="content-boxes__heading">
+    <a href="/om-hoegskolen/nyheter/naa-kan-du-legge-inn-studieoenskene-dine" class="teaser-link">Nå kan du legge inn studieønskene dine</a>
+  </h3>
+      <div class="content-boxes__description">
+      
+Vårt lokale søknadsweb og Samordna Opptak åpner 1. februar. Studieoversikten blir lagt ut til samme tid. 
+
+    </div>
+  </article>
+            </div>
+                     <div class="content-boxes__item content-boxes__item--4">
+                  <article>
+      <div class="content-boxes__image">
+      <figure>
+        
+
+    
+        
+    
+                                                                                                                                    <a href="/om-hoegskolen/nyheter/koronatiltakene-viderefoeres-med-noen-justeringer">        <img src="/var/ezflow_site/storage/images/hovedsiden/om-hoegskolen/nyheter/koronatiltakene-viderefoeres-med-noen-justeringer/3256377-1-nor-NO/koronatiltakene-viderefoeres-med-noen-justeringer_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="En student sitter hjemme foran pc-en" itemprop="contentUrl" />
+        </a>    
+    
+    
+          </figure>
+    </div>
+    <h3 class="content-boxes__heading">
+    <a href="/om-hoegskolen/nyheter/koronatiltakene-viderefoeres-med-noen-justeringer" class="teaser-link">Koronatiltakene videreføres med noen justeringer</a>
+  </h3>
+      <div class="content-boxes__description">
+      
+HINN viderefører gjeldende koronatiltak, men åpner for praktisk trening ved filmskolen i Oslo.
+
+    </div>
+  </article>
+            </div>
+                     <div class="content-boxes__item content-boxes__item--4">
+                  <article>
+      <div class="content-boxes__image">
+      <figure>
+        
+
+    
+        
+    
+                                                                                                                                    <a href="/om-hoegskolen/nyheter/digital-markering-av-samefolkets-dag">        <img src="/var/ezflow_site/storage/images/hovedsiden/om-hoegskolen/nyheter/digital-markering-av-samefolkets-dag/3256511-1-nor-NO/digital-markering-av-samefolkets-dag_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="Logo for samisk nasjonaldag" itemprop="contentUrl" />
+        </a>    
+    
+    
+          </figure>
+    </div>
+    <h3 class="content-boxes__heading">
+    <a href="/om-hoegskolen/nyheter/digital-markering-av-samefolkets-dag" class="teaser-link">Digital markering av Samefolkets dag</a>
+  </h3>
+      <div class="content-boxes__description">
+      
+Høgskolen i Innlandet markerer samefolkets dag med et digitalt arrangement, et forskningsseminar og en ny utstilling.
+
+    </div>
+  </article>
+            </div>
+                      </div>
+  </div>
+    <div class="cta wrapper">
+      <a class="cta__link"  href="/om-hoegskolen/nyheter">Flere nyheter</a>
+    </div>
+  </div>
+</div>    
+    
+                
+    
+                
+<div class="section section--attract-inverse">
+  <div class="container">
+    <h2 class="content-title content-title--space-xl wrapper">Siste blogginnlegg</h2>
+
+          <div class="content-boxes">
+        <div class="content-boxes__wrapper">
+          
+            
+            <div class="content-boxes__item content-boxes__item--4">
+              <article>
+                <div class="content-boxes__image">
+                  <figure>
+                    <a href="/student/studentbloggen/blogginnlegg/mitt-siste-semester-med-folkehelse">
+                        
+
+    
+        
+    
+                                                                                                                                            <img src="/var/ezflow_site/storage/images/hovedsiden/student/studentbloggen/blogginnlegg/mitt-siste-semester-med-folkehelse/3256130-1-nor-NO/mitt-siste-semester-med-folkehelse_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="Mitt siste semester med folkehelse" itemprop="contentUrl" />
+            
+    
+    
+                        </a>
+                  </figure>
+                </div>
+                <h3 class="content-boxes__heading">
+                  <a href="/student/studentbloggen/blogginnlegg/mitt-siste-semester-med-folkehelse" class="teaser-link">Mitt siste semester med folkehelse</a>
+                </h3>
+                <div class="content-boxes__description">
+                    
+<p>Tiden som student på bachelor i folkehelsearbeid går mot slutten. Men hva har jeg i vente de neste månedene?</p>                </div>
+              </article>
+            </div>
+          
+            
+            <div class="content-boxes__item content-boxes__item--4">
+              <article>
+                <div class="content-boxes__image">
+                  <figure>
+                    <a href="/student/studentbloggen/blogginnlegg/et-kritisk-syn-paa-seksualundervisningen">
+                        
+
+    
+        
+    
+                                                                                                                                            <img src="/var/ezflow_site/storage/images/hovedsiden/student/studentbloggen/blogginnlegg/et-kritisk-syn-paa-seksualundervisningen/3256018-2-nor-NO/et-kritisk-syn-paa-seksualundervisningen_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="Kondom og banan" itemprop="contentUrl" />
+            
+    
+    
+                        </a>
+                  </figure>
+                </div>
+                <h3 class="content-boxes__heading">
+                  <a href="/student/studentbloggen/blogginnlegg/et-kritisk-syn-paa-seksualundervisningen" class="teaser-link">Et kritisk syn på seksualundervisningen</a>
+                </h3>
+                <div class="content-boxes__description">
+                    
+<p>Å lage en samfunnskritisk dokumentar er noe av det vi skal gjennomføre dette semesteret. Sammen med fire medstudenter på TV-skolen retter vi oppmerksomheten mot seksualundervisningen i Norge.&nbsp;</p>                </div>
+              </article>
+            </div>
+          
+            
+            <div class="content-boxes__item content-boxes__item--4">
+              <article>
+                <div class="content-boxes__image">
+                  <figure>
+                    <a href="/student/studentbloggen/blogginnlegg/hva-gleder-du-deg-til">
+                        
+
+    
+        
+    
+                                                                                                                                            <img src="/var/ezflow_site/storage/images/hovedsiden/student/studentbloggen/blogginnlegg/hva-gleder-du-deg-til/3255926-1-nor-NO/hva-gleder-du-deg-til_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="Hva gleder du deg til?" itemprop="contentUrl" />
+            
+    
+    
+                        </a>
+                  </figure>
+                </div>
+                <h3 class="content-boxes__heading">
+                  <a href="/student/studentbloggen/blogginnlegg/hva-gleder-du-deg-til" class="teaser-link">Hva gleder du deg til?</a>
+                </h3>
+                <div class="content-boxes__description">
+                    
+<p>Hei på deg! Nå er 2021 godt i gang, og jeg håper du har hatt en fin start på det nye året. I dette innlegget deler jeg refleksjoner rundt årsskiftet, samt hva jeg gleder meg til i tiden som kommer.</p>                </div>
+              </article>
+            </div>
+          
+            
+            <div class="content-boxes__item content-boxes__item--4">
+              <article>
+                <div class="content-boxes__image">
+                  <figure>
+                    <a href="/student/studentbloggen/blogginnlegg/min-vei-til-rena">
+                        
+
+    
+        
+    
+                                                                                                                                            <img src="/var/ezflow_site/storage/images/hovedsiden/student/studentbloggen/blogginnlegg/min-vei-til-rena/3255856-4-nor-NO/min-vei-til-rena_w576h324.jpg" width="576" height="324"  style="border: 0px  ;" alt="Emil Smedal Olin. " itemprop="contentUrl" />
+            
+    
+    
+                        </a>
+                  </figure>
+                </div>
+                <h3 class="content-boxes__heading">
+                  <a href="/student/studentbloggen/blogginnlegg/min-vei-til-rena" class="teaser-link">Min vei til Rena</a>
+                </h3>
+                <div class="content-boxes__description">
+                    
+<p>Hei! Mitt navn er Emil og jeg er en av høgskolens nye studentambassadører. I dette innlegget skal dere bli bedre kjent med meg, få vite hva jeg studerer og få vite hvorfor jeg valgte Rena som studiested.&nbsp;</p>                </div>
+              </article>
+            </div>
+                  </div>
+      </div>
+    
+    <div class="cta wrapper">
+      <a class="cta__link"  href="/student/studentbloggen/blogginnlegg">Se alle blogginnlegg</a>
+    </div>
+  </div>
+</div>    
+    
+                
+    
+      
+  
+  
+            
+  
+  
+      
+  
+  
+            
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+      
+  
+  
+              
+<div class="section section--attract-inverse">
+  <div class="container">
+    <h2 class="content-title content-title--space-s wrapper">Kalender</h2>
+          <div class="calendar-grid">
+        <div class="calendar-grid__wrapper">
+                      <div class="calendar-grid__day">
+                <h3 class="calendar-grid__title"><time class="calendar__title__text" datetime="2021-02-03">3. februar</time></h3>
+                <ul class="calendar-grid__list">
+                                      <li class="calendar-grid__item">
+                        <div class="calendar-grid__description">
+                          <a class="calendar-grid__link" href="/om-hoegskolen/kalender/grunnleggende-kurs-i-zotero-3.-februar-2021">Grunnleggende kurs i Zotero, 3. februar 2021</a>
+                        </div>
+                        <time class="calendar-grid__period" datetime="2021-02-03" role="presentation">
+                          03. feb 14:00 - 03. feb 15:00
+                                                                                                                                                  Digitalt
+                                                                                </time>
+                    </li>
+                                                    </ul>
+            </div>
+                      <div class="calendar-grid__day">
+                <h3 class="calendar-grid__title"><time class="calendar__title__text" datetime="2021-02-05">5. februar</time></h3>
+                <ul class="calendar-grid__list">
+                                      <li class="calendar-grid__item">
+                        <div class="calendar-grid__description">
+                          <a class="calendar-grid__link" href="/om-hoegskolen/kalender/digital-markering-av-samefolkets-dag">Digital markering av Samefolkets dag</a>
+                        </div>
+                        <time class="calendar-grid__period" datetime="2021-02-05" role="presentation">
+                          05. feb 12:00 - 05. feb 13:00
+                                                                                                                                                                                                                                                                                                                          Digitalt
+                                                                                </time>
+                    </li>
+                                                    </ul>
+            </div>
+                      <div class="calendar-grid__day">
+                <h3 class="calendar-grid__title"><time class="calendar__title__text" datetime="2021-02-16">16. februar</time></h3>
+                <ul class="calendar-grid__list">
+                                      <li class="calendar-grid__item">
+                        <div class="calendar-grid__description">
+                          <a class="calendar-grid__link" href="/om-hoegskolen/kalender/lillehammer-lifelong-learning-conference">Lillehammer Lifelong Learning Conference</a>
+                        </div>
+                        <time class="calendar-grid__period" datetime="2021-02-16" role="presentation">
+                          16. feb 15:00 - 17. feb 12:00
+                                                                                                                                                  Lillehammer
+                                                                                                                        Digitalt
+                                                                                </time>
+                    </li>
+                                                    </ul>
+            </div>
+                  </div>
+      </div>
+      <div>
+        <div class="cta wrapper">
+          <a class="cta__link" href="/om-hoegskolen/kalender">Alle arrangementer</a>
+        </div>
+      </div>
+      </div>
+</div>    
+    
+          
+
+</main>
+
+        <!-- Main area: END -->
+        
+        <!-- Extra area: START -->
+                <!-- Extra area: END -->
+    <!-- Columns area: END -->
+
+    <!-- Footer area: START -->
+            <footer class="footer" itemscope itemtype="https://schema.org/EducationalOrganization">
+  <div class="container">
+    <hr class="footer__divider">
+    <div class="info-groups">
+      <div class="info-groups__item">
+        <h2 class="info-groups__title">Kontaktinformasjon</h2>
+<dl class="defs defs--inline">
+  <dt class="inline">E-post:</dt>
+  <dd class="inline"><a itemprop="email" href="mailto:postmottak@inn.no">postmottak@inn.no</a></dd>
+  <dt class="inline">Sentralbord:</dt>
+  <dd class="inline"><span itemprop="telephone"> 62 43 00 00</span> (<time>09:00</time>&ndash;<time>15:00</time>)
+  <dt class="inline">Opptakskontor:</dt>
+  <dd class="inline"><span itemprop="telephone"> 62 43 00 04</span> (<time>10:00</time>&ndash;<time>14:00</time>)
+  <dd class="inline"><a href="/om-hoegskolen/kontakt-oss">Kontakt oss</a></dd>
+</dl>
+<dl class="defs" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+  <dt id="postadress">Postadresse for hele høgskolen:</dt>
+  <dd>
+    <span itemprop="name">Høgskolen i Innlandet</span><br>
+    Postboks <span itemprop="postOfficeBoxNumber">400</span><br>
+    <span itemprop="postalCode">2418</span> <span itemprop="addressLocality">Elverum</span>
+      </dd>
+</dl>      </div>
+      <div class="info-groups__item">
+          <h2 class="info-groups__title">Våre studiesteder</h2>      <ul class="nostyle">
+                                                <li>
+                      <a href="/om-hoegskolen/studiesteder/studiested-blaestad">Blæstad</a>
+                  </li>
+                                                                        <li>
+                      <a href="/om-hoegskolen/studiesteder/studiested-elverum">Elverum</a>
+                  </li>
+                                                                        <li>
+                      <a href="/om-hoegskolen/studiesteder/studiested-evenstad">Evenstad</a>
+                  </li>
+                                                                        <li>
+                      <a href="/om-hoegskolen/studiesteder/studiested-hamar">Hamar</a>
+                  </li>
+                                                                        <li>
+                      <a href="/om-hoegskolen/studiesteder/studiested-lillehammer">Lillehammer</a>
+                  </li>
+                                                                        <li>
+                      <a href="/om-hoegskolen/studiesteder/studiested-rena">Rena</a>
+                  </li>
+                                  </ul>
+        </div>
+      <div class="info-groups__item">
+        <h2 class="info-groups__title">Andre linker</h2>
+<ul class="nav-list">
+    <li class="nav-list__item"><a class="nav-list__link" href="/om-hoegskolen/ansatte">Finn en ansatt</a></li>
+    <li class="nav-list__item"><a class="nav-list__link" href="/om-hoegskolen">Om høgskolen</a></li>
+    <li class="nav-list__item"><a class="nav-list__link" href="/om-hoegskolen/hinn-som-arbeidsgiver/ledige-stillinger">Ledige stillinger</a></li>
+    <li class="nav-list__item"><a class="nav-list__link" href="/om-hoegskolen/krise-og-beredskap">Krise og beredskap</a></li>
+            <li class="nav-list__item"><a class="nav-list__link" href="https://www.inn.no/smittevern">Smittevernveileder</a></li>
+        <li class="nav-list__item"><a class="nav-list__link" href="/user/login">Rediger nettsiden</a></li>
+    <li class="nav-list__item"><a class="nav-list__link" href="mailto:redaksjon@inn.no">Webredaksjonen</a></li>
+    <li class="nav-list__item"><a class="nav-list__link" href="/om-hoegskolen/pressekontakter">Pressekontakter</a></li>
+    <li class="nav-list__item"><a class="nav-list__link" target="_blank" href="https://use.mazemap.com/#v=1&zlevel=1&left=7.6387360&right=14.4118454&top=61.9088029&bottom=60.2789515&campuses=hinn">Kart</a></li>
+    	<li class="nav-list__item"><a class="nav-list__link" href="https://www.inn.no/om-hoegskolen/charter-code">Charter &amp; Code</a></li>
+        <li class="nav-list__item"><a class="nav-list__link" href="https://eng.inn.no">English version</a></li>
+        <li class="nav-list__item"><a class="nav-list__link cookie-bar__dialog-link" href="#">Innstillinger for informasjonskapsler</a></li>
+</ul>
+      </div>
+      <div class="info-groups__item">
+        <h2 class="info-groups__title">Sosiale medier</h2>
+
+<ul class="nav-list">
+
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.facebook.com/hogskoleniinnlandet">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#facebook"></use>
+      </svg>
+    </span>
+   <span class="nav-list__text">Facebook</span>
+  </a>
+  </li>
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.facebook.com/forskninginnlandet">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#facebook"></use>
+      </svg>
+    </span>
+    <span class="nav-list__text">Facebook (forskning)</span>
+  </a>
+  </li>
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.instagram.com/hogskoleninnlandet/">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#instagram"></use>
+      </svg>
+    </span>
+  <span class="nav-list__text">Instagram</span>
+  </a>
+  </li>
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.snapchat.com/add/hogskoleninnlandet">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#snapchat"></use>
+      </svg>
+    </span>
+  <span class="nav-list__text">Snapchat</span>
+  </a>
+  </li>
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.youtube.com/channel/UC4dt2hoM-OvxYHXG_9U7LiQ/featured">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#youtube"></use>
+      </svg>
+    </span>
+    <span class="nav-list__text">YouTube</span>
+  </a>
+  </li>
+  <li class="nav-list__item">
+    <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.youtube.com/channel/UCM8udEJeGDsrhX4H6rb1YyQ/featured">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#youtube"></use>
+      </svg>
+    </span>
+      <span class="nav-list__text">YouTube (forskning)</span>
+    </a>
+  </li>
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://twitter.com/hiinnlandet">
+    <span class="nav-list__icon">
+      <svg class="icon">
+        <use xlink:href="#twitter"></use>
+      </svg>
+    </span>
+    <span class="nav-list__text">Twitter</span>
+  </a>
+  </li>
+  <li class="nav-list__item">
+  <a class="nav-list__link" target="_blank" style="border:none;" href="https://www.linkedin.com/school/17925846">
+   <span class="nav-list__icon">
+    <svg class="icon">
+      <use xlink:href="#linkedin"></use>
+    </svg>
+   </span>
+   <span class="nav-list__text">LinkedIn</span>
+  </a>
+  </li>
+</ul>
+      </div>
+    </div>
+  </div>
+</footer>        <!-- Footer area: END -->
+
+    <!-- Cookie consent bar: START -->
+    <div id="cookie_consent_bar" class="cookie-bar">
+    <div class="container">
+        <div class="wrapper">
+            Denne nettløsningen bruker informasjonskapsler (cookies). Du kan selv bestemme hvilke informasjonskapler du tillater brukt ved å 
+            <a href="#" class="cookie-bar__dialog-link">endre innstillingene for informasjonskapsler</a>.
+
+            <div>
+                <a href="#" class="btn btn--secondary btn--small cookie-bar__save-default-consent">Godta standardinnstillinger</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <!-- Cookie consent bar: END -->
+
+    <!-- Cookie consent dialog: START -->
+    
+<div id="cookie_consent_dialog_wrapper" class="cookie-dialog">
+    <div id="cookie_consent_dialog_overlay" class="cookie-dialog__overlay"></div>
+    <div id="cookie_consent_dialog" class="cookie-dialog__wrapper">
+        <form id="cookie_consent_form" action="/cookie_consent/save" method="post" class="cookie-dialog__form">
+            <div id="cookie_consent_dialog_top" class="cookie-dialog__top">
+                <a id="cookie_consent_dialog_close" href="#" class="cookie-dialog__close-link">Avbryt</a>
+                <h2>Informasjonskapsler og personvern</h2>
+            </div>
+            <div id="cookie_consent_dialog_middle" class="cookie-dialog__middle">
+                <a class="cookie-dialog__link active" id="intro_link" href="#intro">
+Introduksjon</a>
+                <div id="intro" class="cookie-dialog__panel">
+                    <h3>
+Introduksjon</h3>
+                    
+                    
+<p>Høgskolen i Innlandet tar ditt personvern på alvor. Ved hjelp av denne veilederen kan du lese hvordan vår nettløsning bruker informasjonskapsler, og hva du samtykker til ved å la oss ta i bruk noen flere.</p><p>Etter du har lagret dine samtykkeinnstillinger vil du ikke bli vist denne veilederen på nytt, men du kan når som helst åpne den på nytt ved å trykke &quot;Innstillinger for informasjonskapsler&quot; i bunnmenyen på nettsidene.</p>                </div>
+
+                <a class="cookie-dialog__link" id="cookie_necessary_link" href="#cookie_necessary">
+Nødvendige informasjonskapsler</a>
+                <div id="cookie_necessary" class="cookie-dialog__panel hidden">
+                    <h3>
+Nødvendige informasjonskapsler</h3>
+                    
+                    
+<p>Følgende er en oversikt over informasjonskapslene nettløsningen bruker som standard. Du kan ikke velge bort disse da de er et nødvendig minimum for at nettsidene skal fungere.</p><table class="default">
+      <caption>oversikt over informasjonskapsler, tre kolonner</caption>
+    <tr><th valign="top">  <b>Navn</b>
+  </th><th valign="top">  <b>Funksjonalitet</b>
+  </th><th valign="top">  <b>Varighet</b>
+  </th></tr><tr class="bglight"><td valign="top" style="vertical-align: top">  consent_saved
+  </td>
+<td valign="top" style="vertical-align: top">  Markerer om du har vært gjennom denne samtykkehåndteringen tidligere. Nødvendig for at du skal slippe bli spurt om samtykke hver gang du besøker nettsidene. Inneholder ingen personlige data.
+  </td>
+<td valign="top" style="vertical-align: top">  1 år
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  consent_analytics
+  </td>
+<td valign="top" style="vertical-align: top">  Angir om du tillater bruk av verktøy for bruksanalyse og sideoptimalisering. Inneholder ingen personlige data.
+  </td>
+<td valign="top" style="vertical-align: top">  1 år
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  consent_marketing
+  </td>
+<td valign="top" style="vertical-align: top">  Angir om du tillater bruk av verktøy for brukertilpasset markedsføring. Inneholder ingen personlige data.
+  </td>
+<td valign="top" style="vertical-align: top">  1 år
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  eZSESSID
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes av vårt CMS-system eZ Publish for å lagre brukersesjonen. Inneholder ingen personlige data.
+  </td>
+<td valign="top" style="vertical-align: top">  Til nettleserøkten avsluttes
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  lhc_per
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes av vår lokale installasjon av chatløsningen,     <a href="https://livehelperchat.com/" target="_blank"><span>Live Helper Chat</span></a>.
+  </td>
+<td valign="top" style="vertical-align: top">  6 mnd
+  </td>
+</tr>
+</table>
+<p>&nbsp;</p><p>Hvis du logger inn i nettløsningen med redigeringstilgang vil det i tillegg lagres følgende informasjonskapsler:</p><table class="default">
+    <tr><th valign="top">  <b>Navn</b>
+  </th><th valign="top">  <b>Funksjonalitet</b>
+  </th><th valign="top">  <b>Varighet</b>
+  </th></tr><tr class="bglight"><td valign="top" style="vertical-align: top">  is_logged_in
+  </td>
+<td valign="top" style="vertical-align: top">  Angir om brukeren er logget inn.
+  </td>
+<td valign="top" style="vertical-align: top">  Til nettleserøkten avsluttes
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  TinyMCE_&lt;X&gt;
+  </td>
+<td valign="top" style="vertical-align: top">  Autolagring av innhold i teksteditor. &lt;X&gt;-delen av navnet endres utifra hvilket innholdselement som redigeres.
+  </td>
+<td valign="top" style="vertical-align: top">  Til nettleserøkten avsluttes
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  nxcselectshb
+  </td>
+<td valign="top" style="vertical-align: top">  Forbedre brukeropplevelsen ved redigering av studiehåndbøker.
+  </td>
+<td valign="top" style="vertical-align: top">  Til nettleserøkten avsluttes
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  nxctogglediv
+  </td>
+<td valign="top" style="vertical-align: top">  Forbedre brukeropplevelsen ved redigering av studiehåndbøker.
+  </td>
+<td valign="top" style="vertical-align: top">  Til nettleserøkten avsluttes
+  </td>
+</tr>
+</table>
+                </div>
+
+                <a class="cookie-dialog__link" id="cookie_analytics_link" href="#cookie_analytics">
+Bruksanalyse og sideoptimalisering</a>
+                <div id="cookie_analytics" class="cookie-dialog__panel hidden">
+                    <h3>
+Bruksanalyse og sideoptimalisering</h3>
+                    
+                    
+<p>Følgende er en oversikt over informasjonskapslene nettløsningen bruker for å kunne foreta bruksanalyser. Dataene brukes for å optimalisere og forbedre nettsidene. Samtykket ditt vil hjelpe oss med å fortsette arbeidet med å bygge og utvikle en relevant og intuitiv nettløsning. Takk!</p><a name="eztoc2504636_0_0_1" id="eztoc2504636_0_0_1"></a><h4>Informasjonskapsler fra Google Analytics</h4><table class="default">
+    <tr><th valign="top">  <b>Navn</b>
+  </th><th valign="top">  <b>Funksjonalitet</b>
+  </th><th valign="top">  <b>Varighet</b>
+  </th></tr><tr class="bglight"><td valign="top" style="vertical-align: top">  _ga
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for å skille mellom ulike brukere.
+  </td>
+<td valign="top" style="vertical-align: top">  2 år
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  _gid
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for å skille mellom ulike brukere.
+  </td>
+<td valign="top" style="vertical-align: top">  24 timer
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  _gat | _dc_gtm_&lt;property-id&gt;
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for å optimalisere forespørselsraten.
+  </td>
+<td valign="top" style="vertical-align: top">  1 minutt
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  AMP_TOKEN
+  </td>
+<td valign="top" style="vertical-align: top">  Inneholder et token fra AMP klient ID tjeneste hvis dette er i bruk.
+  </td>
+<td valign="top" style="vertical-align: top">  1 år
+  </td>
+</tr>
+</table>
+<p>    <a href="https://www.google.com/analytics/" target="_blank"><span>Les mer om Google Analytics</span></a> (ekstern lenke).</p><p>    <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank"><span>Les mer om informasjonskapslene fra Google Analytics</span></a> (ekstern lenke).</p><a name="eztoc2504636_0_0_2" id="eztoc2504636_0_0_2"></a><h4>Informasjonskapsler fra Siteimprove</h4><table class="default">
+    <tr><th valign="top">  <b>Navn</b>
+  </th><th valign="top">  <b>Funksjonalitet</b>
+  </th><th valign="top">  <b>Utløper</b>
+  </th></tr><tr class="bglight"><td valign="top" style="vertical-align: top">  nmstat
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for å samle brukerstatistikk. Inneholder en tilfeldig generert ID, og ingen personlig informasjon.
+  </td>
+<td valign="top" style="vertical-align: top">  1000 dager.
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  siteimproveses
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for å lage en oversikt over hvilke sider du ser på, og i hvilken rekkefølge.
+  </td>
+<td valign="top" style="vertical-align: top">  Per sesjon
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  _cfduid
+  </td>
+<td valign="top" style="vertical-align: top">  Settes av tjenesten CloudFlare for å identifisere sikker webtrafikk. Inneholder ingen personlig informasjon.
+  </td>
+<td valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+</tr>
+</table>
+<p>    <a href="https://siteimprove.com/en/" target="_blank"><span>Les mer om Siteimprove</span></a> (ekstern lenke).</p>                </div>
+
+                <a class="cookie-dialog__link" id="cookie_marketing_link" href="#cookie_marketing">
+Målrettet annonsering</a>
+                <div id="cookie_marketing" class="cookie-dialog__panel hidden">
+                    <h3>
+Målrettet annonsering</h3>
+                    
+                    
+<p>Høgskolen vil gjerne gi deg relevante og interessante annonser hos tredjepartsaktører du bruker. Følgende er en oversikt over hvilke informasjonskapsler som kan bli brukt hvis du samtykker i at vi kan bruke informasjonskapsler i markedsføringsøyemed:</p><p><b>Informasjonskapsler fra Google Tag Manager og AdWords:</b></p><table class="default">
+    <tr><td valign="top" style="vertical-align: top">  <b>Navn</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Funksjonalitet</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Varighet</b>
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  _gac_&lt;property-id&gt;
+  </td>
+<td valign="top" style="vertical-align: top">  Inneholder kampanjerelatert informasjon.
+  </td>
+<td valign="top" style="vertical-align: top">  90 dager
+  </td>
+</tr>
+</table>
+<p>    <a href="https://policies.google.com/technologies/ads?hl=no" target="_blank"><span>Les mer om hvordan Google bruker informasjonskapsler for annonsering</span></a> (ekstern lenke).</p><p>&nbsp;</p><p><b>Informasjonskapsler fra Delta Projects:</b></p><table class="default">
+    <tr><td valign="top" style="vertical-align: top">  <b>Navn</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Funksjonalitet</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Varighet</b>
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  Delta Projects
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for spissing av målrettet annonsering
+  </td>
+<td valign="top" style="vertical-align: top">  30 dager
+  </td>
+</tr><tr class="bgdark"><td valign="top" style="vertical-align: top">  guid
+  </td>
+<td valign="top" style="vertical-align: top">  Brukes for å identifisere nettleseren og brukes til å kartlegge hvordan brukeren anvender nettsidene.
+  </td>
+<td valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  ss
+  </td>
+<td valign="top" style="vertical-align: top">  Dette er en utgått informasjonskapsel som snart tas vekk i følge Delta Project. Inneholder kun teksten &quot;1.s.0&quot; og ingen personlig informasjon.
+  </td>
+<td valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+</tr>
+</table>
+<p>    <a href="https://www.deltaprojects.com/" target="_blank"><span>Les mer om Delta Projects</span></a> (ekstern lenke).</p><p>&nbsp;</p><p><b>Informasjonskapsler fra Facebook:</b></p><table class="default">
+    <tr><td valign="top" style="vertical-align: top">  <b>Navn</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Funksjonalitet</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Varighet</b>
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  fr
+  </td>
+<td valign="top" style="vertical-align: top">  Inneholder kryptert Facebook ID og en identifikator for nettleseren.
+  </td>
+<td valign="top" style="vertical-align: top">  90 dager
+  </td>
+</tr>
+</table>
+<p>    <a href="https://www.facebook.com/policies/cookies/" target="_blank"><span>Les mer om hvordan Facebook bruker informasjonskapsler</span></a> (ekstern lenke).</p><p>&nbsp;</p><p><b>Informasjonskapsler fra Bing:</b></p><table class="default">
+    <tr><td valign="top" style="vertical-align: top">  <b>Navn</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Funksjonalitet</b>
+  </td>
+<td valign="top" style="vertical-align: top">  <b>Varighet</b>
+  </td>
+</tr><tr class="bglight"><td valign="top" style="vertical-align: top">  MUID, MC1 og MSFOC
+  </td>
+<td valign="top" style="vertical-align: top">  Identifiserer unike nettlesere som besøker Microsoft-nettsteder.
+  </td>
+<td valign="top" style="vertical-align: top">  &nbsp;
+  </td>
+</tr>
+</table>
+<p>    <a href="https://privacy.microsoft.com/NB-NO/privacystatement/" target="_blank"><span>Les mer om hvordan Microsoft bruker informasjonskapsler</span></a> (ekstern lenke).</p>                </div>
+
+                <a class="cookie-dialog__link" id="privacy_policy_link" href="#privacy_policy">
+Personvernerklæring</a>
+                <div id="privacy_policy" class="cookie-dialog__panel hidden">
+                    <h3>
+Personvernerklæring</h3>
+                    
+                    
+<p>Denne personvernerklæringen forteller om hvordan Høgskolen i Innlandet samler inn og bruker personopplysninger via høgskolens digitale hovedkanaler.</p><p>Høgskolen i Innlandet er behandlingsansvarlig for virksomhetens behandling av personopplysninger. Der det daglige ansvaret er delegert, kommer det fram under hvert enkelt punkt. Delegeringen omfatter kun oppgavene og ikke ansvaret. Erklæringen inneholder opplysninger du har krav på når det samles inn opplysninger fra nettstedet vårt og generell informasjon om hvordan vi behandler personopplysninger.</p><a name="eztoc2504579_0_1" id="eztoc2504579_0_1"></a><h3>Behandling av personopplysninger på     <a href="http://www.inn.no/" target="_self"><span>www.inn.no</span></a></h3><p>    <a href="mailto:redaksjon@inn.no" target="_self"><span><b>Webredaksjonen</b></span></a> har det daglige ansvaret for høgskolens behandlinger av personopplysninger på inn.no, med mindre annet er oppgitt under. Det er frivillig for de som besøker nettsidene å oppgi personopplysninger i forbindelse med tjenester, for eksempel å motta nyhetsbrev. Behandlingsgrunnlaget er samtykke fra den enkelte, med mindre annet er spesifisert.</p><p>Både høgskolen, Norse Digital og Vangen&amp;Plotz er databehandlere med ansvar for utvikling og vedlikehold av nettstedet.     <a href="http://www.inn.no/" target="_self"><span>www.inn.no</span></a> driftes på høgskolens egne servere.</p><p>Opplysninger som samles inn i forbindelse med drift av nettsted, lagres på høgskolens egne servere. Det er kun høgskolen, Norse Digital og Vangen&amp;Plotz som har tilgang til opplysningene som samles inn. Høgskolen har egne databehandleravtaler med Norse Digital og Vangen&amp;Plotz. Disse regulerer hvilken informasjon leverandøren har tilgang til og hvordan den skal behandles.</p><a name="eztoc2504579_0_2" id="eztoc2504579_0_2"></a><h3>Nettstatistikk – brukeranalyse og sideoptimalisering</h3><p>Høgskolen samler inn avidentifiserte opplysninger om besøkende på inn.no. Formålet med dette er å utarbeide statistikk som vi bruker til å forbedre og videreutvikle informasjonstilbudet på nettstedet. Eksempler på hva statistikken gir svar på, er hvor mange som besøker ulike sider, hvor lenge besøket varer, hvilke nettsteder brukerne kommer fra og hvilke nettlesere som benyttes.</p><p>Opplysningene behandles i avidentifisert og aggregert form. Med avidentifisert menes at vi ikke kan spore opplysningene vi samler inn tilbake til den enkelte bruker. Vi samler inn hele IP-adressen, men IP-adressen avidentifiseres slik at bare de tre første gruppene i adressen brukes til å generere statistikk. Det vil si at dersom IP-adressen består av numrene 195.159.103.82, brukes bare 195.159.103.xx. I tillegg behandles IP-adressene på aggregert nivå, det vil si at all data slås sammen til en gruppe og ikke behandles individuelt.</p><p>Vi bruker analyseverktøyene Google Analytics og Siteimprove på vårt nettsted.</p><a name="eztoc2504579_0_3" id="eztoc2504579_0_3"></a><h3>Nettstatistikk - markedsføring</h3><p>Om du som bruker samtykker ønsker høgskolen å samle inn data ved bruk av Google Tag Manager. Google Tag Manager gir høgskolen mulighet til å markedsføre aktuelle studier, seminarer, foredrag m.m. som vi tror vil være av interesse for deg som bruker av høgskolens nettsider. Du velger selv å samtykke til denne datainnsamlingen.</p><p>Høgskolen gjør tilgjengelig data for markedsføringsformål på Facebook via Facebook Pixel.</p><p>    <a href="https://www.facebook.com/legal/terms/update" target="_self"><span>Les mer om betingelsene dine hos Facebook</span></a>.</p><p>Om du er medlem av Facebook kan du selv endre dine annonsepreferanser hos nettsamfunnet.</p><a name="eztoc2504579_0_4" id="eztoc2504579_0_4"></a><h3>Informasjonskapsler</h3><p>Informasjonskapsler (cookies) er små tekstfiler som plasseres på din datamaskin når du laster ned en nettside.</p><p>Lagring av opplysninger og behandling av disse opplysningene er ikke tillatt med mindre bruker både har blitt informert om og har gitt sitt samtykke til behandlingen. Som bruker skal du få vite om og godkjenne hvilke opplysninger som behandles, hva formålet med behandlingen er og hvem som behandler opplysningene, jf. ekomloven § 2-7b.</p><p>    <a href="/om-hoegskolen/personvern/informasjonskapsler" target="_self"><span>Disse informasjonskapslene benyttes på inn.no</span></a></p><p>    <a href="https://nettvett.no/slik-administrer-du-informasjonskapsler/" target="_self"><span>Slik administrerer du informasjonskapsler (nettvett.no)</span></a></p><a name="eztoc2504579_0_5" id="eztoc2504579_0_5"></a><h3>Søk</h3><p>Høgskolen lagrer informasjon om hvilke søkeord du som bruker benytter i søkeverktøyene Google analytics og Siteimprove. Formålet med lagringen er å gjøre informasjonstilbudet på nettsidene bedre.</p><a name="eztoc2504579_0_6" id="eztoc2504579_0_6"></a><h3>Deling av innlegg fra inn.no</h3><p>Når du deler innlegg, legges informasjon inn der og da hos nettsamfunnet du velger. Hvordan det aktuelle nettsamfunnet håndterer dataene videre, reguleres av din avtale med nettsamfunnet. Informasjon om at du har delt et innlegg lagres imidlertid ikke hos høgskolen.</p><a name="eztoc2504579_0_7" id="eztoc2504579_0_7"></a><h3>Nyhetsbrev</h3><p>Høgskolen sender ut nyhetsbrev både til potensielle studenter, samarbeidspartnere og tidligere studenter. For at vi skal kunne sende e-post må du registrere en e-postadresse. MailChimp er databehandler for nyhetsbrevet. E-postadressen lagres i en egen database, deles ikke med andre og slettes når du sier opp abonnementet. Informasjon om høgskolens bruk av MailChimp og mulighet for avmelding ligger i nyhetsbrevet. E-postadresser slettes også ut etter endt søknadsperiode, ref. potensielle studenter.</p><a name="eztoc2504579_0_8" id="eztoc2504579_0_8"></a><h3>Saksbehandling og arkiv</h3><p>Høgskolen i Innlandet bruker Public360 arkiv- og saksbehandlersystem med elektronisk journalføring elektronisk lagring av dokumenter. Public360 er et arkiv- og saksbehandlingssystem fra leverandøren Tieto som følger offentlige standarder (NOARK). Seksjonssjef for dokumentasjons – og informasjonsforvaltning er delegert det daglige ansvaret for systemet og manuelt arkiv, og at det er utarbeidet nødvendige rutiner for bruk av dette. Respektive avdelingsdirektører følger opp at den faktiske saksbehandlingen er i samsvar med rutinene.</p><p>Høgskolen i Innlandet behandler personopplysninger for å oppfylle tilsynets lovpålagte oppgaver etter bl.a. personopplysningslov, forvaltningslov, offentlighetslov og arkivlov.</p><p>Det registreres ulike typer personopplysninger i arkiv- og saksbehandlingssystemet. Dette er opplysninger som, fødselsnummer, navn, adresse, telefonnummer, epostadresse (grunndata) og annen relevant informasjon som fremgår av henvendelsen. Registrering, lagring og oppbevaring skjer i henhold til arkivlovgivningen. Saksdokumentene kan i tillegg inneholde sensitive personopplysninger. Ved krav om innsyn utleveres personopplysninger i henhold til offentlighetsloven og forvaltningsloven. Opplysninger som er nødvendig for behandling av klagesaker vil bli utlevert til Felles klagenemd som er Universitets og høgskolesektorens klageorgan i studentsaker.</p><p>Det er etablert særlige sikkerhetstiltak og rutiner for svært beskyttelsesverdig informasjon i arkivet, som for eksempel sensitive personopplysninger.</p><p>Høgskolen i Innlandet er pålagt å gjøre sine offentlige postjournaler tilgjengelig for allmennheten på Internett. En journal er systematisk og fortløpende registrering av alle inngående og utgående saksdokumenter. Journalene gjøres tilgjengelig i pdf-format på     <a href="http://www.inn.no/" target="_self"><span>www.inn.no</span></a>.</p><p>I offentlighetsforskriften § 7, jf § 6 fjerde ledd, er det spesifisert en del opplysninger som ikke skal framgå av offentlig journal og journaler som legges ut på nettet. Videre er det fastsatt at personnavn ikke skal kunne søkes fram i offentlig journal når oppføringen er eldre enn tre måneder.</p><p>Vi gjør oppmerksom på at forespørsler om innsyn via offentlig journal blir oppbevart (arkivert).</p><a name="eztoc2504579_0_9" id="eztoc2504579_0_9"></a><h3>Telefon</h3><p>Telefonsystemet logger antall henvendelser tjenesten mottar, samt lengden på telefonsamtalene.</p><a name="eztoc2504579_0_10" id="eztoc2504579_0_10"></a><h3>E-post</h3><p>Høgskolen benytter e-post i korrespondanse med både eksterne og interne kontakter. Fordi e-postsystemet er ukryptert bør du ikke sende sensitive personopplysninger per e-post. Del heller aldri passordene dine med andre per e-post.</p><p>Ved fratredelse slettes ansattes e-postkontoer, men enkelte relevante e-post kan bli overført til kollegaer.</p><a name="eztoc2504579_0_11" id="eztoc2504579_0_11"></a><h3>Pågående arbeid</h3><p>Høgskolen jobber kontinuerlig med personvern og er opptatt av å ivareta våre brukeres personvern.&nbsp;</p><p>Har du spørsmål vedrørende vårt arbeid med personvern - ta kontakt med vårt     <a href="mailto:hans.nyberg@inn.no" target="_self"><span>personvernombud</span></a>.</p>                </div>
+
+                <a class="cookie-dialog__link" id="faq_link" href="#faq">
+Ofte stilte spørsmål</a>
+                <div id="faq" class="cookie-dialog__panel hidden">
+                    <h3>
+Ofte stilte spørsmål</h3>
+                    
+                    
+<p><b>Hva er en informasjonskapsel?</b></p><p>En informasjonskapsel (cookie) er en liten tekstfil som kan lagres på din datamaskin, mobiltelefon, nettbrett eller en annen enhet med nettleser i det du besøker en nettside.</p><p><b>Hvordan brukes en informasjonskapsel?</b></p><p>Bruksområdene er mange. De vanligste årsakene til at man ønsker å bruke informasjonskapsler er:</p>
+<ul>
+
+<li>Personlig tilpasning av nettsidene.</li>
+
+<li>Analysere bruk av nettsidene.</li>
+
+<li>Målrettet annonsering og markedsføring</li>
+
+</ul>
+<p><b>Hvordan sletter jeg informasjonskapslene på min datamaskin?</b></p><p>Dette varierer fra plattform til plattform og fra nettleser til nettleser. Fremgangsmåten varierer også gjerne etter hvert som nettleserene oppgraderes til nyere versjoner.&nbsp;</p><p>    <a href="https://nettvett.no/slik-administrer-du-informasjonskapsler/" target="_blank"><span>Se denne veilederen for hvordan du sletter informasjonskapsler</span></a> (nettvett.no).</p><p><b>Jeg har et spørsmål, hvem kan jeg kontakte?</b></p><p>Send oss gjerne en e-post på adressen     <a href="mailto:redaksjon@inn.no" target="_self"><span>redaksjon@inn.no</span></a>.</p>                </div>
+            </div>
+            <div id="cookie_consent_dialog_bottom" class="cookie-dialog__bottom">
+                <div>
+                    <input class="cookie-dialog__checkbox" title="Jeg samtykker i bruken av informasjonskapsler for bruksanalyse og sideoptimalisering." type="checkbox" name="consent_analytics" id="consent_analytics"/> Jeg samtykker i bruken av informasjonskapsler for bruksanalyse og sideoptimalisering.<br/>
+                    <input class="cookie-dialog__checkbox" title="Jeg samtykker i bruken av informasjonskapsler for målrettet annonsering av høgskolens studietilbud og øvrige tjenester." type="checkbox" name="consent_marketing" id="consent_marketing"/> Jeg samtykker i bruken av informasjonskapsler for målrettet annonsering av høgskolens studietilbud og øvrige tjenester.<br/>
+                </div>
+
+                <div id="cookie_consent_actions" class="cookie-dialog__actions">
+                    <input id="cookie_consent_dialog_submit" class="btn btn--primary cookie-dialog__save-consent" type="submit" value="Lagre samtykkeinnstillinger"/>
+                    <input class="btn btn--secondary cookie-dialog__reset-consent" type="button" value="Nullstill"/>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+    <!-- Cookie consent dialog: END -->
+</div>
+<!-- Complete page area: END -->
+
+<!-- Footer script area: START -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript">
+      /*<![CDATA[*/
+      (function() {
+          if (eval(window.getCookieValue('consent_analytics'))) {
+              var sz = document.createElement('script');
+              sz.type = 'text/javascript';
+              sz.async = true;
+              sz.src = '//siteimproveanalytics.com/js/siteanalyze_6000482.js';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(sz, s);
+          }
+      })();
+      /*]]>*/
+  </script>
+<!-- Footer script area: END -->
+
+
+</body>
+</html>

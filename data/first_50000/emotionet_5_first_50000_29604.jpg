@@ -1,0 +1,876 @@
+<!doctype html>
+<html lang="en">
+	    <head >
+        <script>
+    var BASE_URL = 'https://www.bluemagik.co.uk/';
+    var require = {
+        "baseUrl": "https://www.bluemagik.co.uk/pub/static/version1602921184/frontend/Kol/bluemagik/en_GB"
+    };
+</script>
+        <meta charset="utf-8"/>
+<meta name="title" content="404 Not Found"/>
+<meta name="description" content="Page description"/>
+<meta name="keywords" content="Page keywords"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="format-detection" content="telephone=no"/>
+<title>404 Not Found</title>
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bluemagik.co.uk/pub/static/version1602921184/_cache/merged/a059b54ba6d40bcd4c2639ca1fb25245.min.css" />
+<link  rel="stylesheet" type="text/css"  media="screen and (min-width: 768px)" href="https://www.bluemagik.co.uk/pub/static/version1602921184/frontend/Kol/bluemagik/en_GB/css/styles-l.min.css" />
+<script  type="text/javascript"  src="https://www.bluemagik.co.uk/pub/static/version1602921184/_cache/merged/41b2c494db03fb555b32c22a0a14a092.min.js"></script>
+<link  rel="icon" type="image/x-icon" href="https://www.bluemagik.co.uk/pub/media/favicon/default/fevicon.png" />
+<link  rel="shortcut icon" type="image/x-icon" href="https://www.bluemagik.co.uk/pub/media/favicon/default/fevicon.png" />
+		<link rel="canonical" href="https://www.bluemagik.co.uk/WebRoot/BT3/Shops/BT4203/5005/B546/BEF8/88AD/7081/0A0C/05EA/AB9F/13.jpg">
+		<link rel="preload" href="https://www.bluemagik.co.uk/pub/static/version1602921184/frontend/Kol/bluemagik/en_GB/fonts/opensans/regular/opensans-400.woff2" as="font" crossorigin="anonymous" />
+		<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bluemagik.co.uk/pub/media/custom/css/common.css" />
+		<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bluemagik.co.uk/pub/media/custom/css/style.css" />
+		
+		<!--<script src="custom/js/jquery1.11.js"></script>-->
+		<script src="https://www.bluemagik.co.uk/pub/media/custom/js/common.js"></script>
+		<script src="https://www.bluemagik.co.uk/pub/media/custom/js/owl.carousel.js"></script>
+		<script src="https://www.bluemagik.co.uk/pub/media/custom/js/easyResponsiveTabs.js"></script>
+		
+		
+		        <!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_GoogleAnalytics/js/google-analytics": {
+            "isCookieRestrictionModeEnabled": 0,
+            "currentWebsite": 1,
+            "cookieName": "user_allowed_save_cookie",
+            "ordersTrackingData": [],
+            "pageTrackingData": {"optPageUrl":"","isAnonymizedIpActive":false,"accountId":"UA-99917480-1"}        }
+    }
+}
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<!-- BEGIN GOOGLE VERIFICATION TAG -->
+<!-- END GOOGLE VERIFICATION TAG -->
+<!-- BEGIN GTAG GLOBAL TAG -->
+<!-- END GTAG GLOBAL TAG -->
+			<!-- Global site tag (gtag.js) - Google Ads: 611786531 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-611786531"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'UA-99917480-1');
+  gtag('config', 'AW-611786531');
+</script>
+
+
+              <link rel="preconnect" href="//fonts.gstatic.com" />
+<link rel="preconnect" href="//www.googleadservices.com" />
+<link rel="preconnect" href="//fonts.googleapis.com" />
+<link rel="preconnect" href="//use.fontawesome.com" />
+<link rel="preconnect" href="//googletagmanager.com" />
+
+
+<link rel="dns-prefetch" href="//google-analytics.com" />
+<link rel="dns-prefetch" href="//code.jquery.com" />
+<link rel="dns-prefetch" href="//www.googleadservices.com" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//google-analytics.com" />
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//www.google.com" />
+<link rel="dns-prefetch" href="//use.fontawesome.com" />
+<link rel="dns-prefetch" href="//googletagmanager.com" />
+    </head>
+	
+	
+    <body data-container="body"
+          data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://www.bluemagik.co.uk/pub/static/version1602921184/frontend/Kol/bluemagik/en_GB/images/loader-2.gif"}}'
+        class="cms-no-route cms-noroute-index page-layout-1column">
+        
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".www.bluemagik.co.uk",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = true;
+</script>
+<script>
+    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'
+            }
+        }
+    });
+</script>
+<!-- BEGIN GTAG CART SCRIPT -->
+<!-- END GTAG CART SCRIPT -->
+<div style="display: none;" id="paypal-express-in-context-checkout-main"></div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Paypal/js/in-context/express-checkout": {"id":"paypal-express-in-context-checkout-main","path":"https:\/\/www.bluemagik.co.uk\/paypal\/express\/gettoken\/","merchantId":"IDD2DNW965H9VGJ","button":true,"clientConfig":{"locale":"en_GB","environment":"production","button":["paypal-express-in-context-checkout-main"]}}        }
+    }
+</script>
+
+<div class="page-wrapper"><header class="page-header"><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '867254890430157');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=867254890430157&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<div class="header clearfix">
+         <div class="" style="background:#bc7e6c; text-align:center; padding:10px; width:100%; color:white;">Use Promo Code: WINTER15 and get 15% OFF</div>
+         <div style="clear:both;"></div>
+
+    <div class="top1 clearfix">
+      <Div class="wrapper">
+        <div class="mtop clearfix">
+          <div class="mtop-left">
+            <ul>
+              <li class="mcart mdeli">
+                <div class="mopen">
+                  <div class="mcart1"><p>Free Delivery Over £40 within UK only</p></div>
+                </div>
+              </li>
+              <li class="mcart mphone">
+                <div class="mopen">
+                  <div class="mcart1"><a href="tel:+44020 8004 4504 "><span>020 8004 4504 </span>86</a></div>
+                </div>
+              </li>
+              <li class="muser memail">
+                <div class="mopen">
+                  <div class="mcart1"> <a href="mailto:info@bluemagik.co.uk">info@bluemagik.co.uk</a> </div>
+                </div>
+              </li>
+              <li class="currency-mobile">
+                <div class="currency1">
+          
+                <div class="switcher currency switcher-currency" id="switcher-currency">
+      
+        <div class="actions dropdown options switcher-options">
+            <div class="action toggle switcher-trigger currency-text"
+                 id="switcher-currency-trigger"
+                 data-mage-init='{"dropdown":{}}'
+                 data-toggle="dropdown"
+                 data-trigger-keypress-button="true">
+                <strong class="language-GBP">
+                    <span><img src="https://www.bluemagik.co.uk/pub/media/custom/images/GBP.jpg" width="16" height="11"/>GBP</span>
+                </strong>
+            </div>
+            <ul class="dropdown switcher-dropdown" data-target="dropdown">
+                                                                        					  <li class="currency-EUR switcher-option">
+                            <a href="#" data-post='{"action":"https:\/\/www.bluemagik.co.uk\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly93d3cuYmx1ZW1hZ2lrLmNvLnVrL1dlYlJvb3QvQlQzL1Nob3BzL0JUNDIwMy81MDA1L0I1NDYvQkVGOC84OEFELzcwODEvMEEwQy8wNUVBL0FCOUYvMTMuanBn"}}'>
+							<img src="https://www.bluemagik.co.uk/pub/media/custom/images/EUR.jpg" width="25" height="13"/><span class="curr_sdesk">EUR</span>
+							
+							</a>
+                        </li>
+                                                        					  <li class="currency-USD switcher-option">
+                            <a href="#" data-post='{"action":"https:\/\/www.bluemagik.co.uk\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly93d3cuYmx1ZW1hZ2lrLmNvLnVrL1dlYlJvb3QvQlQzL1Nob3BzL0JUNDIwMy81MDA1L0I1NDYvQkVGOC84OEFELzcwODEvMEEwQy8wNUVBL0FCOUYvMTMuanBn"}}'>
+							<img src="https://www.bluemagik.co.uk/pub/media/custom/images/USD.jpg" width="25" height="13"/><span class="curr_sdesk">USD</span>
+							
+							</a>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+          </div>
+              </li>
+              
+          
+            </ul>
+          </div>
+          <div class="mtop-left mtop-right">
+            <ul>
+              <li class="msearch clearfix"> 
+                <div class="mopen">
+                  <div class="msearch">
+                    <div class="msearch1 clearfix">
+										 <form action="https://www.bluemagik.co.uk/catalogsearch/result/" method="get">
+				   <div class="control">
+                    <input type="text" name="q" value="" placeholder="Search." class="tinput1" maxlength="128" />
+					<button type="submit" title="Search" class="tinput2" aria-label="Search">
+                </button>
+				   
+				    </div>
+                    </form>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li class="muser">
+                <div class="mopen">
+                  <div class="mlogin">
+				  
+				  				   <a href="https://www.bluemagik.co.uk/customer/account/create/">Register</a> <a href="https://www.bluemagik.co.uk/customer/account/login">Login</a> </div>
+                </div>
+              </li>
+              <li class="mcart">
+                <div class="mopen">
+                  <div class="mcart1"> <a href="https://www.bluemagik.co.uk/checkout/cart">My Bag</a></div>
+                </div>
+              </li>
+            </ul>
+          </div>
+       </div>
+        <div class="delivery"><p>Free Delivery Over £40 within UK only</p></div>
+        <div class="currency1">
+            <h4>CURRENCY</h4>
+	
+                <div class="switcher currency switcher-currency" id="switcher-currency">
+      
+        <div class="actions dropdown options switcher-options">
+            <div class="action toggle switcher-trigger currency-text"
+                 id="switcher-currency-trigger"
+                 data-mage-init='{"dropdown":{}}'
+                 data-toggle="dropdown"
+                 data-trigger-keypress-button="true">
+                <strong class="language-GBP">
+                    <span><img src="https://www.bluemagik.co.uk/pub/media/custom/images/GBP.jpg" width="16" height="11"/>GBP</span>
+                </strong>
+            </div>
+            <ul class="dropdown switcher-dropdown" data-target="dropdown">
+                                                                        					  <li class="currency-EUR switcher-option">
+                            <a href="#" data-post='{"action":"https:\/\/www.bluemagik.co.uk\/directory\/currency\/switch\/","data":{"currency":"EUR","uenc":"aHR0cHM6Ly93d3cuYmx1ZW1hZ2lrLmNvLnVrL1dlYlJvb3QvQlQzL1Nob3BzL0JUNDIwMy81MDA1L0I1NDYvQkVGOC84OEFELzcwODEvMEEwQy8wNUVBL0FCOUYvMTMuanBn"}}'>
+							<img src="https://www.bluemagik.co.uk/pub/media/custom/images/EUR.jpg" width="25" height="13"/><span class="curr_sdesk">EUR</span>
+							
+							</a>
+                        </li>
+                                                        					  <li class="currency-USD switcher-option">
+                            <a href="#" data-post='{"action":"https:\/\/www.bluemagik.co.uk\/directory\/currency\/switch\/","data":{"currency":"USD","uenc":"aHR0cHM6Ly93d3cuYmx1ZW1hZ2lrLmNvLnVrL1dlYlJvb3QvQlQzL1Nob3BzL0JUNDIwMy81MDA1L0I1NDYvQkVGOC84OEFELzcwODEvMEEwQy8wNUVBL0FCOUYvMTMuanBn"}}'>
+							<img src="https://www.bluemagik.co.uk/pub/media/custom/images/USD.jpg" width="25" height="13"/><span class="curr_sdesk">USD</span>
+							
+							</a>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+	   </div>
+		  		<div class="login1 create1"><a href="https://www.bluemagik.co.uk/customer/account/create/">create an account</a></div>
+        <div class="login1"><a href="https://www.bluemagik.co.uk/customer/account/login">login</a></div>
+		
+		      </Div>
+    </div>
+	
+    <div class="top2 clearfix">
+      <div class="wrapper">
+        <div class="logo"><a href="https://www.bluemagik.co.uk/"><img src="https://www.bluemagik.co.uk/pub/media/custom/images/logo.png" width="400" height="106" alt="Blue Magik" title="Blue Magik"></a></div>
+        <div class="search1 clearfix">
+		<div class="block1111 block-search1111">
+    <div class="block11111aaa block-content555">
+        <form class="form minisearch" id="search_mini_form"
+              action="https://www.bluemagik.co.uk/catalogsearch/result/" method="get">
+            <div class="field_d search__s">
+                <div class="control">
+                    <input id="search"
+                           data-mage-init='{"quickSearch":{
+                                "formSelector":"#search_mini_form",
+                                "url":"https://www.bluemagik.co.uk/search/ajax/suggest/",
+                                "destinationSelector":"#search_autocomplete",
+                                "minSearchLength":"1"}
+                           }'
+                           type="text"
+                           name="q"
+                           value=""
+                           placeholder="Search"
+                           class="search sinput1"
+                           maxlength="128"
+                           role="combobox"
+                           aria-haspopup="false"
+                           aria-autocomplete="both"
+                           autocomplete="off"
+                           aria-expanded="false"/>
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                                    </div>
+            </div>
+            <div class="action">
+                <input type="submit"
+                    title="Search"
+                    class="sinput2"
+                    aria-label="Search" value=""
+                >
+                
+            </div>
+        </form>
+    </div>
+</div>
+		
+<div data-bind="scope: 'searchsuiteautocomplete_form'">
+    <!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "searchsuiteautocomplete_form": {
+                    "component": "MageWorx_SearchSuiteAutocomplete/js/autocomplete"
+                },
+                "searchsuiteautocompleteBindEvents": {
+                    "component": "MageWorx_SearchSuiteAutocomplete/js/bindEvents",
+                    "config": {
+                        "searchFormSelector": "#search_mini_form",
+                        "searchButtonSelector": "button.search",
+                        "inputSelector": "#search, #mobile_search, .minisearch input[type=\"text\"]",
+                        "searchDelay": "500"
+                    }
+                },
+                "searchsuiteautocompleteDataProvider": {
+                    "component": "MageWorx_SearchSuiteAutocomplete/js/dataProvider",
+                    "config": {
+                        "url": "https://www.bluemagik.co.uk/mageworx_searchsuiteautocomplete/ajax/index/"
+                    }
+                }
+            }
+        }
+    }
+}
+</script> 
+        </div>
+        <div class="top-right clearfix">
+          <div class="phone-email">
+            <h4>We love to hear from you!</h4>
+            <div class="phone"><a href="tel:4402080044504 ">020 8004 4504 </a></div>
+            <div class="email"><a href="mailto:info@bluemagik.co.uk">info@bluemagik.co.uk</a></div>
+          </div>
+          <Div class="acc-wish clearfix">
+            <div class="wishlist"><a href="https://www.bluemagik.co.uk/wishlist"></a></div>
+			
+			 
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart account_" href="https://www.bluemagik.co.uk/checkout/cart/"
+       data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty"
+             data-bind="css: { empty: !!getCartParam('summary_count') == false}, blockLoader: isLoading">
+            <span class="counter-number cartnum clearfix">
+            <!-- ko ifnot: getCartParam('summary_count') -->
+                <!-- ko text: '0' --><!-- /ko -->
+            <!-- /ko -->
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+            <!-- /ko --></span>
+            <span class="counter-label item-cart-labels">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+             <span class="newwxx counter-number icon-open col-white" data-bind="html: getCartParam('subtotal')"></span>
+             <!-- ko ifnot: getCartParam('summary_count') -->
+               <span class="no-temps"> <!-- ko text: '0.00' --><!-- /ko --></span>
+            <!-- /ko -->
+             
+               <!-- /ko -->
+            <!-- ko if: getCartParam('summary_count') != 1 -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+                <span data-bind="html: getCartParam('subtotal')"></span>
+            <!-- /ko -->
+        </span>
+    </a>
+            <div class="block block-minicart"
+             data-role="dropdownDialog"
+             data-mage-init='{"dropdownDialog":{
+                "appendTo":"[data-block=minicart]",
+                "triggerTarget":".showcart",
+                "timeout": "2000",
+                "closeOnMouseLeave": false,
+                "closeOnEscape": true,
+                "triggerClass":"active",
+                "parentClass":"active",
+                "buttons":[]}}'>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/cart\/","checkoutUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/","updateItemQtyUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.bluemagik.co.uk\/","minicartMaxItemsVisible":3,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"https:\/\/www.bluemagik.co.uk\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.bluemagik.co.uk\/captcha\/refresh\/","isRequired":false,"timestamp":1612314142}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":1,"display_cart_subtotal_excl_tax":0}}}}}}}}}}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fwww.bluemagik.co.uk\u002Fpub\u002Fstatic\u002Fversion1602921184\u002Ffrontend\u002FKol\u002Fbluemagik\u002Fen_GB\u002Fimages\u002Floader\u002D1.gif"
+        }
+    }
+    </script>
+</div>
+
+
+           
+          </Div>
+        </div>
+      </div>
+    </div>
+    <div class="navigation">
+      <div class="wrapper">
+        <div id="menu-gadget">
+          <div class="" id="menu-icon">Menu</div>
+          <ul id="nav" class="sf-menu-phone">
+            <li class="active"><a href="#">home</a></li>
+			
+			
+			
+			
+			
+			
+			     <li ><a href="https://www.bluemagik.co.uk/new-arrivals.html">New Arrivals</a>
+  
+  </li>
+       <li ><a href="https://www.bluemagik.co.uk/best-sellers.html">Best Sellers</a>
+  
+  </li>
+       <li class='parent'><a href="https://www.bluemagik.co.uk/womens.html">Women</a>
+  
+    <ul>
+       <li ><a href="https://www.bluemagik.co.uk/womens/dresses.html">Dresses</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/leggings.html">Leggings </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/nightwear.html">Loungewear</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/tops.html">Tops</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/t-shirts.html">T-Shirts </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/swimsuits-bodysuits.html">Swimsuits / Bodysuits </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/skirts.html">Skirts / Tutus</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/shorts.html">Shorts </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/co-ords.html">Co-ords</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/hoodies.html">Hoodies/Jumpers</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/metallic-wetlook-section.html">Metallic/Wetlook Section </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/bloomers.html">Bloomers</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/jeans-and-trousers.html">Jeans And Trousers </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/basques-and-corsets.html">Basques And Corsets </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/coats-and-jackets.html">Coats And Jackets </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/cardigans.html">Cardigans</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/womens/footwear.html">Footwear</a>
+      </li>
+          </ul>
+      </li>
+       <li class='parent'><a href="https://www.bluemagik.co.uk/mens.html">Men</a>
+  
+    <ul>
+       <li ><a href="https://www.bluemagik.co.uk/mens/t-shirts-tops.html">T-Shirts/Tops</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/mens/vests-tops.html">Vests</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/mens/jeans-and-trousers.html">Jeans And Trousers</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/mens/hoodies-jumpers.html">Hoodies/Jumpers</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/mens/jackets-coats.html"> Jackets/Coats</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/mens/metallic-wetlook-section.html">Metallic/Wetlook Section </a>
+      </li>
+          </ul>
+      </li>
+       <li class='parent'><a href="https://www.bluemagik.co.uk/childrens-girls.html">Kids</a>
+  
+    <ul>
+       <li ><a href="https://www.bluemagik.co.uk/childrens-girls/dresses.html">Dresses </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/childrens-girls/leggings.html">Leggings</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/childrens-girls/stationary.html">Stationary </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/childrens-girls/tutus.html">Tutus </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/childrens-girls/shorts.html">Shorts </a>
+      </li>
+          </ul>
+      </li>
+       <li class='parent'><a href="https://www.bluemagik.co.uk/accessories.html">Accessories </a>
+  
+    <ul>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/masks.html">Masks</a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/bags-and-purses.html"> Bags And Purses </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/leg-warmers.html">Leg Warmers </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/fairy-wings.html">Fairy Wings </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/gloves.html">Gloves </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/scarves.html">Scarves </a>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/accessories/official-mugs.html">Official Mugs </a>
+      </li>
+          </ul>
+      </li>
+       <li ><a href="https://www.bluemagik.co.uk/gift-cards.html">Gift Cards</a>
+  
+  </li>
+  
+          </ul>
+        </div>
+		
+		
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+	<li class="level0 nav-0 category-item first level-top ui-menu-item" role="presentation"><a href="https://www.bluemagik.co.uk/" class="level-top ui-corner-all"><span>Home</span></a></li>
+        <li  class="level0 nav-1 category-item first level-top"><a href="https://www.bluemagik.co.uk/new-arrivals.html"  class="level-top" ><span>New Arrivals</span></a></li><li  class="level0 nav-2 category-item level-top"><a href="https://www.bluemagik.co.uk/best-sellers.html"  class="level-top" ><span>Best Sellers</span></a></li><li  class="level0 nav-3 category-item level-top parent"><a href="https://www.bluemagik.co.uk/womens.html"  class="level-top" ><span>Women</span></a><ul class="level0 submenu"><li  class="level1 nav-3-1 category-item first"><a href="https://www.bluemagik.co.uk/womens/dresses.html" ><span>Dresses</span></a></li><li  class="level1 nav-3-2 category-item"><a href="https://www.bluemagik.co.uk/womens/leggings.html" ><span>Leggings </span></a></li><li  class="level1 nav-3-3 category-item"><a href="https://www.bluemagik.co.uk/womens/nightwear.html" ><span>Loungewear</span></a></li><li  class="level1 nav-3-4 category-item"><a href="https://www.bluemagik.co.uk/womens/tops.html" ><span>Tops</span></a></li><li  class="level1 nav-3-5 category-item"><a href="https://www.bluemagik.co.uk/womens/t-shirts.html" ><span>T-Shirts </span></a></li><li  class="level1 nav-3-6 category-item"><a href="https://www.bluemagik.co.uk/womens/swimsuits-bodysuits.html" ><span>Swimsuits / Bodysuits </span></a></li><li  class="level1 nav-3-7 category-item"><a href="https://www.bluemagik.co.uk/womens/skirts.html" ><span>Skirts / Tutus</span></a></li><li  class="level1 nav-3-8 category-item"><a href="https://www.bluemagik.co.uk/womens/shorts.html" ><span>Shorts </span></a></li><li  class="level1 nav-3-9 category-item"><a href="https://www.bluemagik.co.uk/womens/co-ords.html" ><span>Co-ords</span></a></li><li  class="level1 nav-3-10 category-item"><a href="https://www.bluemagik.co.uk/womens/hoodies.html" ><span>Hoodies/Jumpers</span></a></li><li  class="level1 nav-3-11 category-item"><a href="https://www.bluemagik.co.uk/womens/metallic-wetlook-section.html" ><span>Metallic/Wetlook Section </span></a></li><li  class="level1 nav-3-12 category-item"><a href="https://www.bluemagik.co.uk/womens/bloomers.html" ><span>Bloomers</span></a></li><li  class="level1 nav-3-13 category-item"><a href="https://www.bluemagik.co.uk/womens/jeans-and-trousers.html" ><span>Jeans And Trousers </span></a></li><li  class="level1 nav-3-14 category-item"><a href="https://www.bluemagik.co.uk/womens/basques-and-corsets.html" ><span>Basques And Corsets </span></a></li><li  class="level1 nav-3-15 category-item"><a href="https://www.bluemagik.co.uk/womens/coats-and-jackets.html" ><span>Coats And Jackets </span></a></li><li  class="level1 nav-3-16 category-item"><a href="https://www.bluemagik.co.uk/womens/cardigans.html" ><span>Cardigans</span></a></li><li  class="level1 nav-3-17 category-item last"><a href="https://www.bluemagik.co.uk/womens/footwear.html" ><span>Footwear</span></a></li></ul></li><li  class="level0 nav-4 category-item level-top parent"><a href="https://www.bluemagik.co.uk/mens.html"  class="level-top" ><span>Men</span></a><ul class="level0 submenu"><li  class="level1 nav-4-1 category-item first"><a href="https://www.bluemagik.co.uk/mens/t-shirts-tops.html" ><span>T-Shirts/Tops</span></a></li><li  class="level1 nav-4-2 category-item"><a href="https://www.bluemagik.co.uk/mens/vests-tops.html" ><span>Vests</span></a></li><li  class="level1 nav-4-3 category-item"><a href="https://www.bluemagik.co.uk/mens/jeans-and-trousers.html" ><span>Jeans And Trousers</span></a></li><li  class="level1 nav-4-4 category-item"><a href="https://www.bluemagik.co.uk/mens/hoodies-jumpers.html" ><span>Hoodies/Jumpers</span></a></li><li  class="level1 nav-4-5 category-item"><a href="https://www.bluemagik.co.uk/mens/jackets-coats.html" ><span> Jackets/Coats</span></a></li><li  class="level1 nav-4-6 category-item last"><a href="https://www.bluemagik.co.uk/mens/metallic-wetlook-section.html" ><span>Metallic/Wetlook Section </span></a></li></ul></li><li  class="level0 nav-5 category-item level-top parent"><a href="https://www.bluemagik.co.uk/childrens-girls.html"  class="level-top" ><span>Kids</span></a><ul class="level0 submenu"><li  class="level1 nav-5-1 category-item first"><a href="https://www.bluemagik.co.uk/childrens-girls/dresses.html" ><span>Dresses </span></a></li><li  class="level1 nav-5-2 category-item"><a href="https://www.bluemagik.co.uk/childrens-girls/leggings.html" ><span>Leggings</span></a></li><li  class="level1 nav-5-3 category-item"><a href="https://www.bluemagik.co.uk/childrens-girls/stationary.html" ><span>Stationary </span></a></li><li  class="level1 nav-5-4 category-item"><a href="https://www.bluemagik.co.uk/childrens-girls/tutus.html" ><span>Tutus </span></a></li><li  class="level1 nav-5-5 category-item last"><a href="https://www.bluemagik.co.uk/childrens-girls/shorts.html" ><span>Shorts </span></a></li></ul></li><li  class="level0 nav-6 category-item level-top parent"><a href="https://www.bluemagik.co.uk/accessories.html"  class="level-top" ><span>Accessories </span></a><ul class="level0 submenu"><li  class="level1 nav-6-1 category-item first"><a href="https://www.bluemagik.co.uk/accessories/masks.html" ><span>Masks</span></a></li><li  class="level1 nav-6-2 category-item"><a href="https://www.bluemagik.co.uk/accessories/bags-and-purses.html" ><span> Bags And Purses </span></a></li><li  class="level1 nav-6-3 category-item"><a href="https://www.bluemagik.co.uk/accessories/leg-warmers.html" ><span>Leg Warmers </span></a></li><li  class="level1 nav-6-4 category-item"><a href="https://www.bluemagik.co.uk/accessories/fairy-wings.html" ><span>Fairy Wings </span></a></li><li  class="level1 nav-6-5 category-item"><a href="https://www.bluemagik.co.uk/accessories/gloves.html" ><span>Gloves </span></a></li><li  class="level1 nav-6-6 category-item"><a href="https://www.bluemagik.co.uk/accessories/scarves.html" ><span>Scarves </span></a></li><li  class="level1 nav-6-7 category-item last"><a href="https://www.bluemagik.co.uk/accessories/official-mugs.html" ><span>Official Mugs </span></a></li></ul></li><li  class="level0 nav-7 category-item last level-top"><a href="https://www.bluemagik.co.uk/gift-cards.html"  class="level-top" ><span>Gift Cards</span></a></li>            </ul>
+</nav>
+   
+      </div>
+    </div>
+  </div>
+   </div>
+   
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart account_" href="https://www.bluemagik.co.uk/checkout/cart/"
+       data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty"
+             data-bind="css: { empty: !!getCartParam('summary_count') == false}, blockLoader: isLoading">
+            <span class="counter-number cartnum clearfix">
+            <!-- ko ifnot: getCartParam('summary_count') -->
+                <!-- ko text: '0' --><!-- /ko -->
+            <!-- /ko -->
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+            <!-- /ko --></span>
+            <span class="counter-label item-cart-labels">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+             <span class="newwxx counter-number icon-open col-white" data-bind="html: getCartParam('subtotal')"></span>
+             <!-- ko ifnot: getCartParam('summary_count') -->
+               <span class="no-temps"> <!-- ko text: '0.00' --><!-- /ko --></span>
+            <!-- /ko -->
+             
+               <!-- /ko -->
+            <!-- ko if: getCartParam('summary_count') != 1 -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+                <span data-bind="html: getCartParam('subtotal')"></span>
+            <!-- /ko -->
+        </span>
+    </a>
+            <div class="block block-minicart"
+             data-role="dropdownDialog"
+             data-mage-init='{"dropdownDialog":{
+                "appendTo":"[data-block=minicart]",
+                "triggerTarget":".showcart",
+                "timeout": "2000",
+                "closeOnMouseLeave": false,
+                "closeOnEscape": true,
+                "triggerClass":"active",
+                "parentClass":"active",
+                "buttons":[]}}'>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/cart\/","checkoutUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/","updateItemQtyUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.bluemagik.co.uk\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.bluemagik.co.uk\/","minicartMaxItemsVisible":3,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"https:\/\/www.bluemagik.co.uk\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.bluemagik.co.uk\/captcha\/refresh\/","isRequired":false,"timestamp":1612314142}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":1,"display_cart_subtotal_excl_tax":0,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fwww.bluemagik.co.uk\u002Fpub\u002Fstatic\u002Fversion1602921184\u002Ffrontend\u002FKol\u002Fbluemagik\u002Fen_GB\u002Fimages\u002Floader\u002D1.gif"
+        }
+    }
+    </script>
+</div>
+
+
+</header>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns_cha clearfix"><div class="wrapper"><div class="column_no main_no content"><input name="form_key" type="hidden" value="aNcFLEGMpyynx6Uh" /><script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":["*"],"stores\/store\/switchrequest":["*"],"directory\/currency\/switch":["*"],"*":["messages"],"customer\/account\/logout":["*","recently_viewed_product","recently_compared_product","persistent"],"customer\/account\/loginpost":["*"],"customer\/account\/createpost":["*"],"customer\/account\/editpost":["*"],"customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"]},
+                "clientSideSections": ["checkout-data","cart-data","chatData"],
+                "baseUrls": ["https:\/\/www.bluemagik.co.uk\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","captcha","instant-purchase","persistent","review","wishlist","chatData","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement"]            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "https\u003A\u002F\u002Fwww.bluemagik.co.uk\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 60,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "https\u003A\u002F\u002Fwww.bluemagik.co.uk\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.bluemagik.co.uk\/page_cache\/block\/render\/BT4203\/5005\/B546\/BEF8\/88AD\/7081\/0A0C\/05EA\/AB9F\/13.jpg\/","handles":["default","cms_noroute_index","cms_page_view","cms_noroute_index_id_no-route"],"originalRequest":{"route":"cms","controller":"noroute","action":"index","uri":"\/WebRoot\/BT3\/Shops\/BT4203\/5005\/B546\/BEF8\/88AD\/7081\/0A0C\/05EA\/AB9F\/13.jpg"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+
+<p style="padding: 15px; text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" alt="page not found" src="{{skin url='images/404.png'}}" /></p></div></div></div></main><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/www.bluemagik.co.uk\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/www.bluemagik.co.uk\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/www.bluemagik.co.uk\/rest\/default\/V1\/products-render-info"},"requestConfig":{"syncUrl":"https:\/\/www.bluemagik.co.uk\/catalog\/product\/frontend_action_synchronize\/"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+
+
+
+<footer>
+  <div class="footer clearfix">
+    <div class="foot1 clearfix">
+      <div class="wrapper">
+	  <div class="instagramnew">
+        <h3 class="text25">#bluemagikuk on Instagram</h3>
+        <h4 class="text17"><a href="https://www.instagram.com/bluemagikuk/" target="_blank">Follow us on instagram</a></h4>
+      </div>
+	  
+        <div class="newsletter">
+          <h4>NEWSLETTER SIGNUP</h4>
+          <div class="signup clearfix">
+		  
+
+        <form class="form subscribe"
+            novalidate
+            action="https://www.bluemagik.co.uk/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field_5455 newslette_11r">
+                
+                    
+                        <input name="email"  class="sinput3" type="email" id="newsletter"
+                               placeholder="Enter&#x20;email&#x20;address"
+                               data-mage-init='{"mage/trim-input":{}}'
+                               data-validate="{required:true, 'validate-email':true}"
+                        />
+                   
+               
+            </div>
+           
+                <button class="sbtn1"
+                        title="Subscribe"
+                        type="submit"
+                        aria-label="Subscribe">
+                    <span>Subscribe</span>
+                </button>
+            
+        </form>
+   
+
+            <!--<input name="" class="sinput3" placeholder="Enter email address" type="text">
+            <input name="" class="sbtn1" value="subscribe" type="button">-->
+          </div>
+        </div>
+        <div class="flinks">Quick Links</div>
+        <div class="quick-links clearfix">
+          <div class="qlinks1 clearfix">
+           <ul>
+<li><a href="https://www.bluemagik.co.uk/">Home</a></li>
+<li><a href="https://www.bluemagik.co.uk/about-us/">About Us</a></li>
+<li><a href="https://www.bluemagik.co.uk/contact/">Contact Us</a></li>
+<li class="last privacy"><a href="https://www.bluemagik.co.uk/best-sellers.html/">Best Sellers</a></li>
+</ul>          </div>
+          <div class="qlinks1 clearfix">
+           <ul>
+<li><a href="https://www.bluemagik.co.uk/term-and-condtions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.bluemagik.co.uk/delivery">Delivery and Returns</a></li>
+<li><a href="https://www.bluemagik.co.uk/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://www.bluemagik.co.uk/faqs">FAQs</a></li>
+</ul>          </div>
+          <div class="qlinks1 clearfix">
+           <ul>
+<li><a href="https://www.bluemagik.co.uk/customer/account/login/">Login</a></li>
+<li><a href="https://www.bluemagik.co.uk/customer/account/create/">Create an Account</a></li>
+<li><a href="https://www.bluemagik.co.uk/checkout/cart/">Shopping Bag</a></li>
+<li><a href="https://www.bluemagik.co.uk/wishlist">My Wishlist</a></li>
+</ul>          </div>
+          <div class="qlinks1 clearfix">
+            <ul>
+<li class="location"><a>Blue Magik</a></li>
+<li class="location femail"><a href="mailto:info@bluemagik.co.uk">info@bluemagik.co.uk</a></li>
+<li class="location fphone"><a href="tel:+44020 8004 4504">020 8004 4504</a></li>
+<li class="location web"><a href="https://www.bluemagik.co.uk">www.bluemagik.co.uk</a></li>
+</ul>          </div>
+        </div>
+        <div class="fsocial clearfix">
+		<div class="fb"><a href="http://www.facebook.com/pages/Blue-Magik/127070350655231" target="_blank" rel="nofollow"></a></div>
+		<div class="fb twit"><a href="https://twitter.com/bluemagikuk" target="_blank" rel="nofollow"></a></div>
+		<div class="fb gplus 6666"><a href="https://bluemagikonline.blogspot.com/" target="_blank" rel="nofollow"></a></div>
+		<div class="fb pint"><a href="https://www.pinterest.com/bluemagikuk/" target="_blank" rel="nofollow"></a></div>
+		<div class="fb insta"><a href="https://www.instagram.com/bluemagikuk/" target="_blank" rel="nofollow"></a></div>
+		</div>
+      </div>
+    </div>
+    <div class="foot2"> Copyright © 2021 <a href="https://www.bluemagik.co.uk/">Blue Magik</a>. All rights reserved. e-Commerce solutions by <a href="https://www.kollimited.com/" class="kol" target="_blank" rel="nofollow">KOL</a> Limited.
+      <div class="fimg"><img src="https://www.bluemagik.co.uk/pub/media/custom/images/payments1.jpg" width="234" height="26" alt="Payment Accept"> <img src="https://www.bluemagik.co.uk/pub/media/custom/images/payments2.jpg" width="187" height="26" alt="Payment Accept"> </div>
+    </div>
+  </div>
+</footer>
+<a title="Scroll to Top" class="scrollup" href="javascript:void(0);" style="display: none;">Scroll</a>
+
+<!--<script src="custom/js/script1.js"></script>-->
+
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"name": "Blue Magik",
+"url": "https://www.bluemagik.co.uk/",
+"image": "https://www.bluemagik.co.uk/pub/media/custom/images/logo.png",
+"description": "Blue Magik offers quality Alternative Clothing online for men &amp; women. Emo &amp; Gothic clothing UK, Punk Rock Clothing, club wear, a range of unique prints &amp; fancy dress costumes.",
+"email": "info@bluemagik.co.uk",
+"priceRange": "GBP",
+"telephone": "+44020 8004 4504 ",
+"sameAs": [ "https://www.facebook.com/bluemagikclothing/"
+],
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.bluemagik.co.uk/pub/media/custom/images/logo.png",
+"width": 400,
+"height": 106
+},
+"address": [{
+"@type" : "PostalAddress",
+"streetAddress" : " ",
+"addressLocality" : "",
+"addressCountry" : "United Kingdom",
+"postalCode" : ""
+}],
+"contactPoint" : [{
+"@type" : "ContactPoint",
+"telephone" : "+44020 8004 4504 ",
+"contactType" : "customer service"
+}],
+"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.98",
+    "ratingCount": "30"
+}
+}
+</script>
+<script src="https://www.bluemagik.co.uk/pub/media/custom/js/functions.js"></script>
+<script>
+if(window.location.pathname.indexOf('/checkout/onepage/success') != -1)
+{
+       gtag('event', 'conversion', {
+      'send_to': 'AW-611786531/fxmmCMHIqtgBEKO-3KMC',
+      'value': 1.0,
+      'currency': 'GBP',
+      'transaction_id': ''
+  });
+}
+</script>
+</div>    </body>
+</html>
