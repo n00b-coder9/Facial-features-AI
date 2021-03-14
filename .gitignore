@@ -1,2 +1,6 @@
-**/.jpg
-**/.ipynb_checkpoints
+**/*.jpg
+**/*.jpeg
+.ipynb_checkpoints/
+**/*.pth
+**/=0.0.7
+**/models/
